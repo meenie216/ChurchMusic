@@ -34,6 +34,18 @@
     - 5 Apr 2014 
 
 ## Modern
+- Jesus Messiah ()
+    - 7 Oct 2017
+    - 19 Aug 2017
+    - 8 July 2017
+    - 3 June 2017
+    - 6 May 2017
+    - 1 Apr 2017
+    - 25 Feb 2017 
+
+
+
+
 - He Shall Reign (2015)
     - 27 Nov 2017
     - 10 Jun 2017
@@ -60,10 +72,6 @@
     - 16 Sept 2017
     - 12 Aug 2017
     - 29 July 2017
-
-
-
-
 - In His Name ()
     - 25 Nov 2017
     - 28 Oct 2017
@@ -86,6 +94,7 @@
     - 18 Mar 2017
     - 14 Jan 2017 
 - Speak O Lord (2005)
+    - 18 Nov 2017
     - 25 Nov 2017
     - 30 Sept 2017
     - 9 Sept 2017
@@ -94,21 +103,15 @@
     - 20 May 2017
     - 22 Apr 2017
     - 25 Feb 2017
-- Jesus Messiah ()
-    - 7 Oct 2017
-    - 19 Aug 2017
-    - 8 July 2017
-    - 3 June 2017
-    - 6 May 2017
-    - 1 Apr 2017
-    - 25 Feb 2017 
 - All Creatures of Our God and king
+    - 18 Nov 2017
     - 21 Oct 2017
     - 9 Sept 2017
     - 5 Aug 2017
     - 8 July 2017
     - 13 Jun 2017
 - How Great You Are (2012)
+    - 18 Nov 2017
     - 7 Oct 207
     - 26 Aug 2017
     - 8 July 2017
@@ -117,6 +120,7 @@
     - 4 Mar 2017
     - 7 Jan 2017 
 - Never Alone (2006)
+    - 18 Nov 2017
     - 19 Aug 2017
     - 1 July 2017
     - 13 May 2017
