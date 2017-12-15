@@ -42,6 +42,23 @@
     - 6 May 2017
     - 1 Apr 2017
     - 25 Feb 2017 
+- Come Lord (2007)
+    - 23 Sept 2017
+    - 12 Aug 2017
+    - 8 July 2017
+    - 10 Jun 2017
+    - 6 May 2017
+    - 1 Apr 2017
+    - 11 Feb 2017 
+- No Other Name (2010)
+    - 11 Nov 2017
+    - 30 Sept 2017
+    - 2 Sept 2017
+    - 5 Aug 2017
+    - 1 July 2017
+    - 27 May 2017
+    - 15 Apr 2017
+    - 1 Apr 2017
 
 
 
@@ -103,6 +120,13 @@
     - 20 May 2017
     - 22 Apr 2017
     - 25 Feb 2017
+- Never Alone (2006)
+    - 18 Nov 2017
+    - 19 Aug 2017
+    - 1 July 2017
+    - 13 May 2017
+    - 18 Mar 2017
+    - 31 Dec 2016
 - All Creatures of Our God and king
     - 18 Nov 2017
     - 21 Oct 2017
@@ -119,22 +143,6 @@
     - 22 Apr 2017
     - 4 Mar 2017
     - 7 Jan 2017 
-- Never Alone (2006)
-    - 18 Nov 2017
-    - 19 Aug 2017
-    - 1 July 2017
-    - 13 May 2017
-    - 18 Mar 2017
-    - 31 Dec 2016
-- No Other Name (2010)
-    - 11 Nov 2017
-    - 30 Sept 2017
-    - 2 Sept 2017
-    - 5 Aug 2017
-    - 1 July 2017
-    - 27 May 2017
-    - 15 Apr 2017
-    - 1 Apr 2017
 - Amazing Grace (My Chains are Gone) (2006)
     - 11 Nov 2017
     - 23 Sept 2017
@@ -192,14 +200,6 @@
     - 10 Jun 2017
     - 8 Apr 2017
     - 4 Feb 2017 
-- Come Lord (2007)
-    - 23 Sept 2017
-    - 12 Aug 2017
-    - 8 July 2017
-    - 10 Jun 2017
-    - 6 May 2017
-    - 1 Apr 2017
-    - 11 Feb 2017 
 - By The Cross (1998)
     - 16 Sept 2017
     - 5 Aug 2017
