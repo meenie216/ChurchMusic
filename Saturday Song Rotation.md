@@ -3,6 +3,7 @@
 ## This week
 
 * 10,000 Reasons (2011)
+  * 6 Jan 2018
   * 4 Nov 2017
   * 23 Sept 2017
   * 26 Aug 2017
@@ -13,6 +14,7 @@
   * 21 Jan 2017
 
 * Our God (2010)
+  * 6 Jan 2018
   * 25 Nov 2017
   * 21 Oct 2017
   * 2 Sept 2017
@@ -23,6 +25,7 @@
   * 28 Jan 2017
 
 * Come Thou Fount
+  * 6 Jan 2018
   * 7 Oct 2017
   * 22 July 2017
   * 22 Apr 2017
@@ -30,6 +33,7 @@
   * 28 Jan 2017
 
 * The Chorus of the Saved (2015)
+  * 6 Jan 2018
   * 2 Dec 2017
   * 21 Oct 2017
   * 16 Sept 2017
