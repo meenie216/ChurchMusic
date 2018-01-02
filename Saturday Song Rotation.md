@@ -1,6 +1,7 @@
 ﻿# Saturday Song Rotation
 
 ## Hymn
+
 * Be Thou My Vision
   * 4 Nov 2017
   * 30 Sep 2017
@@ -9,31 +10,71 @@
   * 20 May 2017
   * 8 Apr 2017
   * 4 Mar 2017
-  * 31 Dec 2016 
-* Come Thou Fount 
+  * 31 Dec 2016
+
+* Come Thou Fount
   * 7 Oct 2017
   * 22 July 2017
   * 22 Apr 2017
-  * 11 Mar 2017 
+  * 11 Mar 2017
   * 28 Jan 2017
+
 * I Stand Amazed
   * 2 Sept 2017
   * 29 July 2017
   * 27 May 2017
   * 15 Apr 2017
-  * 11 Mar 2017 
-  * 21 Jan 2017 
+  * 11 Mar 2017
+  * 21 Jan 2017
+
 * When I Survey
   * 1 Apr 2017
-  * 21 Jan 2017 
+  * 21 Jan 2017
+
 * It Is Well With My Soul
-  * 11 Feb 2017 
+  * 11 Feb 2017
+
 * Crown Him With Many Crowns
-  * 5 Nov 2016 
+  * 5 Nov 2016
+
 * And Can It Be
-  * 5 Apr 2014 
+  * 5 Apr 2014
 
 ## Modern
+
+### This week
+
+* Holy (2011)
+  * 30 Dec 2017
+  * 4 Nov 2017
+  * 9 Sept 2017
+  * 29 July 2017
+  * 24 Jun 2017
+  * 20 May 2017
+  * 25 Mar 2017
+  * 4 Feb 2017
+
+* Come As You Are (2014)
+  * 30 Dec 2017
+  * 4 Nov 2017
+  * 23 Sept 2017
+  * 16 Sept 2017
+
+* All Creatures of Our God and king
+  * 30 Dec 2017
+  * 18 Nov 2017
+  * 21 Oct 2017
+  * 9 Sept 2017
+  * 5 Aug 2017
+  * 8 July 2017
+  * 13 Jun 2017
+
+* In His Name ()
+  * 30 Dec 2017
+  * 25 Nov 2017
+  * 28 Oct 2017
+
+### Previously
 
 * Sooner Count the Stars (2015)
   * 23 Dec 2017
@@ -66,6 +107,7 @@
   * 18 Feb 2017
 
 * Jesus Messiah ()
+  * 17 Dec 2017
   * 7 Oct 2017
   * 19 Aug 2017
   * 8 July 2017
@@ -75,6 +117,7 @@
   * 25 Feb 2017
 
 * Come Lord (2007)
+  * 17 Dec 2017
   * 23 Sept 2017
   * 12 Aug 2017
   * 8 July 2017
@@ -84,6 +127,7 @@
   * 11 Feb 2017
 
 * No Other Name (2010)
+  * 17 Dec 2017
   * 11 Nov 2017
   * 30 Sept 2017
   * 2 Sept 2017
@@ -94,6 +138,7 @@
   * 1 Apr 2017
 
 * He Shall Reign (2015)
+  * 2 Dec 2017
   * 27 Nov 2017
   * 10 Jun 2017
   * 22 Apr 2017
@@ -101,6 +146,7 @@
   * 7 Jan 2017
 
 * Behold Our God (2011)
+  * 2 Dec 2017
   * 28 Oct 2017
   * 12 Aug 2017
   * 8 July 2017
@@ -109,6 +155,7 @@
   * 7 Jan 2017
 
 * Hallelujah (2009)
+  * 2 Dec 2017
   * 21 Oct 2017
   * 16 Sept 2017
   * 26 Aug 2017
@@ -118,14 +165,11 @@
   * 25 Feb 2017
 
 * The Chorus of the Saved (2015)
+  * 2 Dec 2017
   * 21 Oct 2017
   * 16 Sept 2017
   * 12 Aug 2017
   * 29 July 2017
-
-* In His Name ()
-  * 25 Nov 2017
-  * 28 Oct 2017
 
 * Our God (2010)
   * 25 Nov 2017
@@ -156,14 +200,6 @@
   * 18 Mar 2017
   * 31 Dec 2016
 
-* All Creatures of Our God and king
-  * 18 Nov 2017
-  * 21 Oct 2017
-  * 9 Sept 2017
-  * 5 Aug 2017
-  * 8 July 2017
-  * 13 Jun 2017
-
 * How Great You Are (2012)
   * 18 Nov 2017
   * 7 Oct 207
@@ -190,11 +226,6 @@
   * 25 Mar 2017
   * 25 Feb 2017
 
-* Come As You Are (2014)
-  * 4 Nov 2017
-  * 23 Sept 2017
-  * 16 Sept 2017
-
 * 10,000 Reasons (2011)
   * 4 Nov 2017
   * 23 Sept 2017
@@ -204,15 +235,6 @@
   * 29 Apr 2017
   * 4 Mar 2017
   * 21 Jan 2017
-
-* Holy (2011)
-  * 4 Nov 2017
-  * 9 Sept 2017
-  * 29 July 2017
-  * 24 Jun 2017
-  * 20 May 2017
-  * 25 Mar 2017
-  * 4 Feb 2017
 
 * Only Your Blood
   * 28 Oct 2017
