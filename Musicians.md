@@ -1,4 +1,5 @@
 # Saturday Musicians
+
 ## Keys
 
 - Bel Balhatchet
@@ -10,13 +11,12 @@
 
 ## Guitar
 
-- Stephen Hampton
+- Andrew Petty
 - David Mutch
 - Matt Nicholls
 
 ## Bass
 
-- Stephen Hampton
 - ~~Craig Schwarze~~
 - Andrew Petty
 - Sarah Skuthorpe
@@ -30,11 +30,12 @@
 
 ## Other
 
-- Greta Hartog (Flute)
+- ~~Greta Hartog (Flute)~~
 
 ## Vocals
 
 ### Female
+
 - Bel Balhatchet
 - Jen Dosetto
 - Justine Mutch
@@ -43,7 +44,8 @@
 - ~~Amelia Schwarze~~
 
 ### Male
+
 - Paul Johnston
-- Norman Lee
+- ~~Norman Lee~~
 - Matt Nicholls
 - Aidan Stanton
