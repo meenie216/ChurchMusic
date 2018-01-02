@@ -1,2 +1,4 @@
 /songs/*
 *.pdf
+
+\.DS_Store
