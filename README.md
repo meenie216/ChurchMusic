@@ -2,7 +2,7 @@
 
 A collection of markdown files to assist in organising music for Saturday church.
 
-## [Musicions](./Musicians.md)
+## [Musicians](./Musicians.md)
 
 Contains a list of the current members of the music ministry team (including those on hiatus) grouped by instrument
 
