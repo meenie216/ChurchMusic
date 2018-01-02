@@ -1,16 +1,26 @@
 ﻿# Saturday Song Rotation
 
-## Hymn
+## This week
 
-* Be Thou My Vision
+* 10,000 Reasons (2011)
   * 4 Nov 2017
-  * 30 Sep 2017
-  * 19 Aug 2017
+  * 23 Sept 2017
+  * 26 Aug 2017
   * 15 July 2017
-  * 20 May 2017
-  * 8 Apr 2017
+  * 10 Jun 2017
+  * 29 Apr 2017
   * 4 Mar 2017
-  * 31 Dec 2016
+  * 21 Jan 2017
+
+* Our God (2010)
+  * 25 Nov 2017
+  * 21 Oct 2017
+  * 2 Sept 2017
+  * 22 July 2017
+  * 24 Jun 2017
+  * 29 Apr 2017
+  * 18 Mar 2017
+  * 28 Jan 2017
 
 * Come Thou Fount
   * 7 Oct 2017
@@ -19,30 +29,14 @@
   * 11 Mar 2017
   * 28 Jan 2017
 
-* I Stand Amazed
-  * 2 Sept 2017
+* The Chorus of the Saved (2015)
+  * 2 Dec 2017
+  * 21 Oct 2017
+  * 16 Sept 2017
+  * 12 Aug 2017
   * 29 July 2017
-  * 27 May 2017
-  * 15 Apr 2017
-  * 11 Mar 2017
-  * 21 Jan 2017
 
-* When I Survey
-  * 1 Apr 2017
-  * 21 Jan 2017
-
-* It Is Well With My Soul
-  * 11 Feb 2017
-
-* Crown Him With Many Crowns
-  * 5 Nov 2016
-
-* And Can It Be
-  * 5 Apr 2014
-
-## Modern
-
-### This week
+## Previously
 
 * Holy (2011)
   * 30 Dec 2017
@@ -73,8 +67,6 @@
   * 30 Dec 2017
   * 25 Nov 2017
   * 28 Oct 2017
-
-### Previously
 
 * Sooner Count the Stars (2015)
   * 23 Dec 2017
@@ -164,23 +156,6 @@
   * 13 May 2017
   * 25 Feb 2017
 
-* The Chorus of the Saved (2015)
-  * 2 Dec 2017
-  * 21 Oct 2017
-  * 16 Sept 2017
-  * 12 Aug 2017
-  * 29 July 2017
-
-* Our God (2010)
-  * 25 Nov 2017
-  * 21 Oct 2017
-  * 2 Sept 2017
-  * 22 July 2017
-  * 24 Jun 2017
-  * 29 Apr 2017
-  * 18 Mar 2017
-  * 28 Jan 2017
-
 * Speak O Lord (2005)
   * 18 Nov 2017
   * 25 Nov 2017
@@ -226,15 +201,15 @@
   * 25 Mar 2017
   * 25 Feb 2017
 
-* 10,000 Reasons (2011)
+* Be Thou My Vision
   * 4 Nov 2017
-  * 23 Sept 2017
-  * 26 Aug 2017
+  * 30 Sep 2017
+  * 19 Aug 2017
   * 15 July 2017
-  * 10 Jun 2017
-  * 29 Apr 2017
+  * 20 May 2017
+  * 8 Apr 2017
   * 4 Mar 2017
-  * 21 Jan 2017
+  * 31 Dec 2016
 
 * Only Your Blood
   * 28 Oct 2017
@@ -259,7 +234,28 @@
   * 3 Jun 2017
   * 18 Feb 2017
 
-***
+* I Stand Amazed
+  * 2 Sept 2017
+  * 29 July 2017
+  * 27 May 2017
+  * 15 Apr 2017
+  * 11 Mar 2017
+  * 21 Jan 2017
+
+* When I Survey
+  * 1 Apr 2017
+  * 21 Jan 2017
+
+* It Is Well With My Soul
+  * 11 Feb 2017
+
+* Crown Him With Many Crowns
+  * 5 Nov 2016
+
+* And Can It Be
+  * 5 Apr 2014
+
+## Off Rotation
 
 * Now unto Him
   * 17 Jun 2017
