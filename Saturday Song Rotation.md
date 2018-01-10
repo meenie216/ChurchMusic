@@ -2,6 +2,51 @@
 
 ## This week
 
+* Only Your Blood
+  * 13 Jan 2018
+  * 28 Oct 2017
+  * 26 Aug 2017
+  * 1 July 2017
+  * 15 Apr 2017
+  * 4 Mar 2017
+  * 24 Sept 2016
+
+* No Other Name (2010)
+  * 13 Jan 2018
+  * 17 Dec 2017
+  * 11 Nov 2017
+  * 30 Sept 2017
+  * 2 Sept 2017
+  * 5 Aug 2017
+  * 1 July 2017
+  * 27 May 2017
+  * 15 Apr 2017
+  * 1 Apr 2017
+
+* Speak O Lord (2005)
+  * 13 Jan 2018
+  * 18 Nov 2017
+  * 25 Nov 2017
+  * 30 Sept 2017
+  * 9 Sept 2017
+  * 15 July 2017
+  * 10 Jun 2017
+  * 20 May 2017
+  * 22 Apr 2017
+  * 25 Feb 2017
+
+* By The Cross (1998)
+  * 13 Jan 2018
+  * 16 Sept 2017
+  * 5 Aug 2017
+  * 17 Jun 2017
+  * 13 May 2017
+  * 22 Apr 2017
+  * 18 Mar 2017
+  * 25 Feb 2017
+
+## Previously
+
 * 10,000 Reasons (2011)
   * 6 Jan 2018
   * 4 Nov 2017
@@ -39,8 +84,6 @@
   * 16 Sept 2017
   * 12 Aug 2017
   * 29 July 2017
-
-## Previously
 
 * Holy (2011)
   * 30 Dec 2017
@@ -122,17 +165,6 @@
   * 1 Apr 2017
   * 11 Feb 2017
 
-* No Other Name (2010)
-  * 17 Dec 2017
-  * 11 Nov 2017
-  * 30 Sept 2017
-  * 2 Sept 2017
-  * 5 Aug 2017
-  * 1 July 2017
-  * 27 May 2017
-  * 15 Apr 2017
-  * 1 Apr 2017
-
 * He Shall Reign (2015)
   * 2 Dec 2017
   * 27 Nov 2017
@@ -158,17 +190,6 @@
   * 22 July 2017
   * 17 Jun 2017
   * 13 May 2017
-  * 25 Feb 2017
-
-* Speak O Lord (2005)
-  * 18 Nov 2017
-  * 25 Nov 2017
-  * 30 Sept 2017
-  * 9 Sept 2017
-  * 15 July 2017
-  * 10 Jun 2017
-  * 20 May 2017
-  * 22 Apr 2017
   * 25 Feb 2017
 
 * Never Alone (2006)
@@ -214,23 +235,6 @@
   * 8 Apr 2017
   * 4 Mar 2017
   * 31 Dec 2016
-
-* Only Your Blood
-  * 28 Oct 2017
-  * 26 Aug 2017
-  * 1 July 2017
-  * 15 Apr 2017
-  * 4 Mar 2017
-  * 24 Sept 2016
-
-* By The Cross (1998)
-  * 16 Sept 2017
-  * 5 Aug 2017
-  * 17 Jun 2017
-  * 13 May 2017
-  * 22 Apr 2017
-  * 18 Mar 2017
-  * 25 Feb 2017
 
 * Where Else? (2007)
   * 2 Sept 2017
