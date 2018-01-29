@@ -2,6 +2,46 @@
 
 ## This week
 
+* In His Name ()
+  * 3 Feb 2018
+  * 30 Dec 2017
+  * 25 Nov 2017
+  * 28 Oct 2017
+
+* I Stand Amazed
+  * 3 Feb 2018
+  * 2 Sept 2017
+  * 29 July 2017
+  * 27 May 2017
+  * 15 Apr 2017
+  * 11 Mar 2017
+  * 21 Jan 2017
+
+* Come Lord (2007)
+  * 3 Feb 2018
+  * 17 Dec 2017
+  * 23 Sept 2017
+  * 12 Aug 2017
+  * 8 July 2017
+  * 10 Jun 2017
+  * 6 May 2017
+  * 1 Apr 2017
+  * 11 Feb 2017
+
+* Our God (2010)
+  * 3 Feb 2018
+  * 6 Jan 2018
+  * 25 Nov 2017
+  * 21 Oct 2017
+  * 2 Sept 2017
+  * 22 July 2017
+  * 24 Jun 2017
+  * 29 Apr 2017
+  * 18 Mar 2017
+  * 28 Jan 2017
+
+## Previously
+
 * Behold Our God (2011)
   * 2 Dec 2017
   * 28 Oct 2017
@@ -32,8 +72,6 @@
   * 5 Aug 2017
   * 8 July 2017
   * 13 Jun 2017
-
-## Previously
 
 * Jesus Messiah ()
   * 20 Jan 2018
@@ -130,17 +168,6 @@
   * 4 Mar 2017
   * 21 Jan 2017
 
-* Our God (2010)
-  * 6 Jan 2018
-  * 25 Nov 2017
-  * 21 Oct 2017
-  * 2 Sept 2017
-  * 22 July 2017
-  * 24 Jun 2017
-  * 29 Apr 2017
-  * 18 Mar 2017
-  * 28 Jan 2017
-
 * Come Thou Fount
   * 6 Jan 2018
   * 7 Oct 2017
@@ -167,11 +194,6 @@
   * 25 Mar 2017
   * 4 Feb 2017
 
-* In His Name ()
-  * 30 Dec 2017
-  * 25 Nov 2017
-  * 28 Oct 2017
-
 * Sooner Count the Stars (2015)
   * 23 Dec 2017
   * 25 Nov 2017
@@ -190,16 +212,6 @@
   * 10 Jun 2017
   * 8 Apr 2017
   * 4 Feb 2017
-
-* Come Lord (2007)
-  * 17 Dec 2017
-  * 23 Sept 2017
-  * 12 Aug 2017
-  * 8 July 2017
-  * 10 Jun 2017
-  * 6 May 2017
-  * 1 Apr 2017
-  * 11 Feb 2017
 
 * He Shall Reign (2015)
   * 2 Dec 2017
@@ -249,14 +261,6 @@
   * 29 July 2017
   * 3 Jun 2017
   * 18 Feb 2017
-
-* I Stand Amazed
-  * 2 Sept 2017
-  * 29 July 2017
-  * 27 May 2017
-  * 15 Apr 2017
-  * 11 Mar 2017
-  * 21 Jan 2017
 
 * When I Survey
   * 1 Apr 2017
