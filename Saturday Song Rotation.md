@@ -2,6 +2,44 @@
 
 ## This week
 
+* The Chorus of the Saved (2015)
+  * 10 Feb 2018
+  * 6 Jan 2018
+  * 2 Dec 2017
+  * 21 Oct 2017
+  * 16 Sept 2017
+  * 12 Aug 2017
+  * 29 July 2017
+
+* Come Thou Fount
+  * 10 Feb 2018
+  * 6 Jan 2018
+  * 7 Oct 2017
+  * 22 July 2017
+  * 22 Apr 2017
+  * 11 Mar 2017
+  * 28 Jan 2017
+
+* Where Else? (2007)
+  * 10 Feb 2018
+  * 2 Sept 2017
+  * 29 July 2017
+  * 3 Jun 2017
+  * 18 Feb 2017
+
+* How Great You Are (2012)
+  * 10 Feb 2018
+  * 18 Nov 2017
+  * 7 Oct 207
+  * 26 Aug 2017
+  * 8 July 2017
+  * 3 Jun 2017
+  * 22 Apr 2017
+  * 4 Mar 2017
+  * 7 Jan 2017
+
+## Previously
+
 * In His Name ()
   * 3 Feb 2018
   * 30 Dec 2017
@@ -39,8 +77,6 @@
   * 29 Apr 2017
   * 18 Mar 2017
   * 28 Jan 2017
-
-## Previously
 
 * Behold Our God (2011)
   * 2 Dec 2017
@@ -168,22 +204,6 @@
   * 4 Mar 2017
   * 21 Jan 2017
 
-* Come Thou Fount
-  * 6 Jan 2018
-  * 7 Oct 2017
-  * 22 July 2017
-  * 22 Apr 2017
-  * 11 Mar 2017
-  * 28 Jan 2017
-
-* The Chorus of the Saved (2015)
-  * 6 Jan 2018
-  * 2 Dec 2017
-  * 21 Oct 2017
-  * 16 Sept 2017
-  * 12 Aug 2017
-  * 29 July 2017
-
 * Holy (2011)
   * 30 Dec 2017
   * 4 Nov 2017
@@ -229,16 +249,6 @@
   * 18 Mar 2017
   * 31 Dec 2016
 
-* How Great You Are (2012)
-  * 18 Nov 2017
-  * 7 Oct 207
-  * 26 Aug 2017
-  * 8 July 2017
-  * 3 Jun 2017
-  * 22 Apr 2017
-  * 4 Mar 2017
-  * 7 Jan 2017
-
 * Rock of Ages
   * 11 Nov 2017
   * 8 July 2017
@@ -255,12 +265,6 @@
   * 8 Apr 2017
   * 4 Mar 2017
   * 31 Dec 2016
-
-* Where Else? (2007)
-  * 2 Sept 2017
-  * 29 July 2017
-  * 3 Jun 2017
-  * 18 Feb 2017
 
 * When I Survey
   * 1 Apr 2017
