@@ -2,6 +2,49 @@
 
 ## This week
 
+* We Belong to the Day (2006)
+  * 24 Feb 2018
+  * 23 Dec 2017
+  * 28 Oct 2017
+  * 5 Aug 2017
+  * 10 Jun 2017
+  * 8 Apr 2017
+  * 4 Feb 2017
+
+* All Creatures of Our God and king
+  * 24 Feb 2018
+  * 30 Dec 2017
+  * 18 Nov 2017
+  * 21 Oct 2017
+  * 9 Sept 2017
+  * 5 Aug 2017
+  * 8 July 2017
+  * 13 Jun 2017
+
+* By The Cross (1998)
+  * 24 Feb 2018
+  * 13 Jan 2018
+  * 16 Sept 2017
+  * 5 Aug 2017
+  * 17 Jun 2017
+  * 13 May 2017
+  * 22 Apr 2017
+  * 18 Mar 2017
+  * 25 Feb 2017
+
+* Holy (2011)
+  * 24 Feb 2018
+  * 30 Dec 2017
+  * 4 Nov 2017
+  * 9 Sept 2017
+  * 29 July 2017
+  * 24 Jun 2017
+  * 20 May 2017
+  * 25 Mar 2017
+  * 4 Feb 2017
+
+## Previously
+
 * Come As You Are (2014)
   * 17 Feb 2018
   * 13 Jan 2018
@@ -42,8 +85,6 @@
   * 13 May 2017
   * 18 Mar 2017
   * 31 Dec 2016
-
-## Previously
 
 * The Chorus of the Saved (2015)
   * 10 Feb 2018
@@ -108,6 +149,7 @@
   * 11 Feb 2017
 
 * Our God (2010)
+  * 27 Jan 2017
   * 3 Feb 2018
   * 6 Jan 2018
   * 25 Nov 2017
@@ -120,6 +162,7 @@
   * 28 Jan 2017
 
 * Behold Our God (2011)
+  * 27 Jan 2017
   * 2 Dec 2017
   * 28 Oct 2017
   * 12 Aug 2017
@@ -129,10 +172,11 @@
   * 7 Jan 2017
 
 * My Lighthouse (2013)
-  * 20 Jan 2018
   * 27 Jan 2018
+  * 20 Jan 2018
 
 * Show Us Christ (2011)
+  * 27 Jan 2017
   * 11 Nov 2017
   * 9 Sept 2017
   * 22 July 2017
@@ -140,15 +184,6 @@
   * 20 May 2017
   * 11 Mar 2017
   * 14 Jan 2017
-
-* All Creatures of Our God and king
-  * 30 Dec 2017
-  * 18 Nov 2017
-  * 21 Oct 2017
-  * 9 Sept 2017
-  * 5 Aug 2017
-  * 8 July 2017
-  * 13 Jun 2017
 
 * Jesus Messiah ()
   * 20 Jan 2018
@@ -216,34 +251,6 @@
   * 20 May 2017
   * 22 Apr 2017
   * 25 Feb 2017
-
-* By The Cross (1998)
-  * 13 Jan 2018
-  * 16 Sept 2017
-  * 5 Aug 2017
-  * 17 Jun 2017
-  * 13 May 2017
-  * 22 Apr 2017
-  * 18 Mar 2017
-  * 25 Feb 2017
-
-* Holy (2011)
-  * 30 Dec 2017
-  * 4 Nov 2017
-  * 9 Sept 2017
-  * 29 July 2017
-  * 24 Jun 2017
-  * 20 May 2017
-  * 25 Mar 2017
-  * 4 Feb 2017
-
-* We Belong to the Day (2006)
-  * 23 Dec 2017
-  * 28 Oct 2017
-  * 5 Aug 2017
-  * 10 Jun 2017
-  * 8 Apr 2017
-  * 4 Feb 2017
 
 * He Shall Reign (2015)
   * 2 Dec 2017
