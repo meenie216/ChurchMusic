@@ -2,6 +2,152 @@
 
 ## This week
 
+* In His Name ()
+  * 17 Mar 2018
+  * 3 Feb 2018
+  * 30 Dec 2017
+  * 25 Nov 2017
+  * 28 Oct 2017
+
+* I Stand Amazed
+  * 17 Mar 2018
+  * 3 Feb 2018
+  * 2 Sept 2017
+  * 29 July 2017
+  * 27 May 2017
+  * 15 Apr 2017
+  * 11 Mar 2017
+  * 21 Jan 2017
+
+* Come Lord (2007)
+  * 17 Mar 2018
+  * 3 Feb 2018
+  * 17 Dec 2017
+  * 23 Sept 2017
+  * 12 Aug 2017
+  * 8 July 2017
+  * 10 Jun 2017
+  * 6 May 2017
+  * 1 Apr 2017
+  * 11 Feb 2017
+
+* The Chorus of the Saved (2015)
+  * 17 Mar 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
+  * 2 Dec 2017
+  * 21 Oct 2017
+  * 16 Sept 2017
+  * 12 Aug 2017
+  * 29 July 2017
+
+## Previously
+
+* Our God (2010)
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 27 Jan 2017
+  * 3 Feb 2018
+  * 6 Jan 2018
+  * 25 Nov 2017
+  * 21 Oct 2017
+  * 2 Sept 2017
+  * 22 July 2017
+  * 24 Jun 2017
+  * 29 Apr 2017
+  * 18 Mar 2017
+  * 28 Jan 2017
+
+* Jesus Messiah ()
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 20 Jan 2018
+  * 17 Dec 2017
+  * 7 Oct 2017s
+  * 19 Aug 2017
+  * 8 July 2017
+  * 3 June 2017
+  * 6 May 2017s
+  * 1 Apr 2017
+  * 25 Feb 2017
+
+* Speak O Lord (2005)
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 13 Jan 2018
+  * 18 Nov 2017
+  * 25 Nov 2017
+  * 30 Sept 2017
+  * 9 Sept 2017
+  * 15 July 2017
+  * 10 Jun 2017
+  * 20 May 2017
+  * 22 Apr 2017
+  * 25 Feb 2017
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 20 Jan 2018
+  * 23 Dec 2017
+  * 11 Nov 2017
+  * 23 Sept 2017
+  * 19 Aug 2017
+  * 15 July 2017
+  * 3 Jun 2017
+  * 6 May 2017
+  * 25 Mar 2017
+  * 18 Feb 2017
+
+* No Other Name (2010)
+  * 3 Mar 2018
+  * 13 Jan 2018
+  * 17 Dec 2017
+  * 11 Nov 2017
+  * 30 Sept 2017
+  * 2 Sept 2017
+  * 5 Aug 2017
+  * 1 July 2017
+  * 27 May 2017
+  * 15 Apr 2017
+  * 1 Apr 2017
+
+* Hallelujah (2009)
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 20 Jan 2018
+  * 2 Dec 2017
+  * 21 Oct 2017
+  * 16 Sept 2017
+  * 26 Aug 2017
+  * 22 July 2017
+  * 17 Jun 2017
+  * 13 May 2017
+  * 25 Feb 2017
+
+* Behold Our God (2011)
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 27 Jan 2017
+  * 2 Dec 2017
+  * 28 Oct 2017
+  * 12 Aug 2017
+  * 8 July 2017
+  * 27 May 2017
+  * 25 Mar 2017
+  * 7 Jan 2017
+
+* Only Your Blood
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 13 Jan 2018
+  * 28 Oct 2017
+  * 26 Aug 2017
+  * 1 July 2017
+  * 15 Apr 2017
+  * 4 Mar 2017
+  * 24 Sept 2016
+
 * We Belong to the Day (2006)
   * 24 Feb 2018
   * 23 Dec 2017
@@ -42,8 +188,6 @@
   * 20 May 2017
   * 25 Mar 2017
   * 4 Feb 2017
-
-## Previously
 
 * Come As You Are (2014)
   * 17 Feb 2018
@@ -86,15 +230,6 @@
   * 18 Mar 2017
   * 31 Dec 2016
 
-* The Chorus of the Saved (2015)
-  * 10 Feb 2018
-  * 6 Jan 2018
-  * 2 Dec 2017
-  * 21 Oct 2017
-  * 16 Sept 2017
-  * 12 Aug 2017
-  * 29 July 2017
-
 * Come Thou Fount
   * 10 Feb 2018
   * 6 Jan 2018
@@ -122,55 +257,6 @@
   * 4 Mar 2017
   * 7 Jan 2017
 
-* In His Name ()
-  * 3 Feb 2018
-  * 30 Dec 2017
-  * 25 Nov 2017
-  * 28 Oct 2017
-
-* I Stand Amazed
-  * 3 Feb 2018
-  * 2 Sept 2017
-  * 29 July 2017
-  * 27 May 2017
-  * 15 Apr 2017
-  * 11 Mar 2017
-  * 21 Jan 2017
-
-* Come Lord (2007)
-  * 3 Feb 2018
-  * 17 Dec 2017
-  * 23 Sept 2017
-  * 12 Aug 2017
-  * 8 July 2017
-  * 10 Jun 2017
-  * 6 May 2017
-  * 1 Apr 2017
-  * 11 Feb 2017
-
-* Our God (2010)
-  * 27 Jan 2017
-  * 3 Feb 2018
-  * 6 Jan 2018
-  * 25 Nov 2017
-  * 21 Oct 2017
-  * 2 Sept 2017
-  * 22 July 2017
-  * 24 Jun 2017
-  * 29 Apr 2017
-  * 18 Mar 2017
-  * 28 Jan 2017
-
-* Behold Our God (2011)
-  * 27 Jan 2017
-  * 2 Dec 2017
-  * 28 Oct 2017
-  * 12 Aug 2017
-  * 8 July 2017
-  * 27 May 2017
-  * 25 Mar 2017
-  * 7 Jan 2017
-
 * My Lighthouse (2013)
   * 27 Jan 2018
   * 20 Jan 2018
@@ -184,73 +270,6 @@
   * 20 May 2017
   * 11 Mar 2017
   * 14 Jan 2017
-
-* Jesus Messiah ()
-  * 20 Jan 2018
-  * 17 Dec 2017
-  * 7 Oct 2017s
-  * 19 Aug 2017
-  * 8 July 2017
-  * 3 June 2017
-  * 6 May 2017s
-  * 1 Apr 2017
-  * 25 Feb 2017
-
-* Hallelujah (2009)
-  * 20 Jan 2018
-  * 2 Dec 2017
-  * 21 Oct 2017
-  * 16 Sept 2017
-  * 26 Aug 2017
-  * 22 July 2017
-  * 17 Jun 2017
-  * 13 May 2017
-  * 25 Feb 2017
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 20 Jan 2018
-  * 23 Dec 2017
-  * 11 Nov 2017
-  * 23 Sept 2017
-  * 19 Aug 2017
-  * 15 July 2017
-  * 3 Jun 2017
-  * 6 May 2017
-  * 25 Mar 2017
-  * 18 Feb 2017
-
-* Only Your Blood
-  * 13 Jan 2018
-  * 28 Oct 2017
-  * 26 Aug 2017
-  * 1 July 2017
-  * 15 Apr 2017
-  * 4 Mar 2017
-  * 24 Sept 2016
-
-* No Other Name (2010)
-  * 13 Jan 2018
-  * 17 Dec 2017
-  * 11 Nov 2017
-  * 30 Sept 2017
-  * 2 Sept 2017
-  * 5 Aug 2017
-  * 1 July 2017
-  * 27 May 2017
-  * 15 Apr 2017
-  * 1 Apr 2017
-
-* Speak O Lord (2005)
-  * 13 Jan 2018
-  * 18 Nov 2017
-  * 25 Nov 2017
-  * 30 Sept 2017
-  * 9 Sept 2017
-  * 15 July 2017
-  * 10 Jun 2017
-  * 20 May 2017
-  * 22 Apr 2017
-  * 25 Feb 2017
 
 * He Shall Reign (2015)
   * 2 Dec 2017
