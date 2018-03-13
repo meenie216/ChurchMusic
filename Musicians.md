@@ -3,7 +3,7 @@
 ## Keys
 
 - Bel Balhatchet
-- ~~Ruth Barry~~ (ask in 2nd term)
+- Ruth Barry
 - Andrew Petty
 - Jenn Phillips
 - Sarah Skuthorpe
@@ -30,7 +30,7 @@
 
 ## Other
 
-- ~~Greta Hartog (Flute)~~
+- Greta Hartog (Flute)
 
 ## Vocals
 
