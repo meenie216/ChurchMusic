@@ -2,6 +2,51 @@
 
 ## This week
 
+* My Lighthouse (2013)
+  * 19 May 2018
+  * 24 Mar 2018
+  * 27 Jan 2018
+  * 20 Jan 2018
+
+* Come As You Are (2014)
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+* Where Else? (2007)
+  * 19 May 2018
+  * 10 Feb 2018
+
+* No Other Name (2010)
+  * 19 May 2018
+  * 14 Apr 2018
+  * 3 Mar 2018
+  * 13 Jan 2018
+
+## Previously
+
+* The Chorus of the Saved (2015)
+  * 12 May 2018
+  * 17 Mar 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
+
+* 10,000 Reasons (2011)
+  * 12 May 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+  * 6 Jan 2018
+
+* Come Lord (2007)
+  * 12 May 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+* Exalted (2018)
+  * 12 May 2018
+  * 5 May 2018
+
 * This is Amazing Grace
   * 5 May 2018
   * 28 Apr 2018
@@ -11,15 +56,10 @@
   * 24 Mar 2018
   * 17 Feb 2018
 
-* Exalted (2018)
-  * 5 May 2018
-
 * All Creatures of Our God and king
   * 5 May 2018
   * 7 Apr 2018
   * 24 Feb 2018
-
-## Previously
 
 * Only Your Blood
   * 28 Apr 2018
@@ -61,11 +101,6 @@
   * 10 Feb 2018
   * 20 Jan 2018
 
-* No Other Name (2010)
-  * 14 Apr 2018
-  * 3 Mar 2018
-  * 13 Jan 2018
-
 * Speak O Lord (2005)
   * 14 Apr 2018
   * 10 Mar 2018
@@ -84,19 +119,9 @@
   * 7 Apr 2018
   * 17 Feb 2018
 
-* 10,000 Reasons (2011)
-  * 7 Apr 2018
-  * 17 Feb 2018
-  * 6 Jan 2018
-
 * By The Cross (1998)
   * 31 Mar 2018
   * 24 Feb 2018
-  * 13 Jan 2018
-
-* Come As You Are (2014)
-  * 31 Mar 2018
-  * 17 Feb 2018
   * 13 Jan 2018
 
 * Hallelujah (2009)
@@ -108,25 +133,11 @@
 * Rock of Ages
   * 31 Mar 2018
 
-* My Lighthouse (2013)
-  * 24 Mar 2018
-  * 27 Jan 2018
-  * 20 Jan 2018
-
 * Show Us Christ (2011)
   * 24 Mar 2018
 
 * Be Thou My Vision
   * 24 Mar 2018
-
-* Come Lord (2007)
-  * 17 Mar 2018
-  * 3 Feb 2018
-
-* The Chorus of the Saved (2015)
-  * 17 Mar 2018
-  * 10 Feb 2018
-  * 6 Jan 2018
 
 * Our God (2010)
   * 10 Mar 2018
@@ -136,9 +147,6 @@
 * Behold Our God (2011)
   * 3 Mar 2018
   * 3 Feb 2018
-
-* Where Else? (2007)
-  * 10 Feb 2018
 
 * When I Survey
 
