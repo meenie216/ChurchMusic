@@ -2,6 +2,53 @@
 
 ## This week
 
+* In His Name ()
+  * 2 June 2018
+  * 14 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+* How Great You Are (2012)
+  * 2 June 2018
+  * 21 Apr 2018
+  * 10 Feb 2018
+
+* Only Your Blood
+  * 2 June 2018
+  * 28 Apr 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 13 Jan 2018
+
+* This is Amazing Grace
+  * 2 June 2018
+  * 5 May 2018
+  * 28 Apr 2018
+
+## Previously
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 26 May 2018
+  * 14 Apr 2018
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 20 Jan 2018
+
+* He Shall Reign (2015)
+  * 26 May 2018
+  * 7 Apr 2018
+
+* We Belong to the Day (2006)
+  * 26 May 2018
+  * 28 Apr 2018
+  * 24 Feb 2018
+
+* I Stand Amazed
+  * 26 May 2018
+  * 21 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
 * My Lighthouse (2013)
   * 19 May 2018
   * 24 Mar 2018
@@ -24,8 +71,6 @@
   * 3 Mar 2018
   * 13 Jan 2018
 
-## Previously
-
 * The Chorus of the Saved (2015)
   * 12 May 2018
   * 17 Mar 2018
@@ -47,10 +92,6 @@
   * 12 May 2018
   * 5 May 2018
 
-* This is Amazing Grace
-  * 5 May 2018
-  * 28 Apr 2018
-
 * Sooner Count the Stars (2015)
   * 5 May 2018
   * 24 Mar 2018
@@ -61,25 +102,10 @@
   * 7 Apr 2018
   * 24 Feb 2018
 
-* Only Your Blood
-  * 28 Apr 2018
-  * 3 Mar 2018
-  * 3 Feb 2018
-  * 13 Jan 2018
-
 * Come Thou Fount
   * 28 Apr 2018
   * 10 Feb 2018
   * 6 Jan 2018
-
-* We Belong to the Day (2006)
-  * 28 Apr 2018
-  * 24 Feb 2018
-
-* I Stand Amazed
-  * 21 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
 
 * Jesus Messiah ()
   * 21 Apr 2018
@@ -91,29 +117,11 @@
   * 21 Apr 2018
   * 24 Feb 2018
 
-* How Great You Are (2012)
-  * 21 Apr 2018
-  * 10 Feb 2018
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 14 Apr 2018
-  * 10 Mar 2018
-  * 10 Feb 2018
-  * 20 Jan 2018
-
 * Speak O Lord (2005)
   * 14 Apr 2018
   * 10 Mar 2018
   * 10 Feb 2018
   * 13 Jan 2018
-
-* In His Name ()
-  * 14 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
-
-* He Shall Reign (2015)
-  * 7 Apr 2018
 
 * Never Alone (2006)
   * 7 Apr 2018
