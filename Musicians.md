@@ -39,7 +39,7 @@
 - Bel Balhatchet
 - Jen Dosetto
 - Justine Mutch
-- Rachel Ware
+- ~~Rachel Ware~~
 - Maddie Winton
 - ~~Amelia Schwarze~~
 
