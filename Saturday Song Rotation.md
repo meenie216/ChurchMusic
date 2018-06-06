@@ -2,6 +2,26 @@
 
 ## This week
 
+* All Creatures of Our God and king
+  * 9 June 2018
+  * 5 May 2018
+  * 7 Apr 2018
+  * 24 Feb 2018
+
+* Grace Alone (2013)
+  * 9 June 2018
+
+* Holy (2011)
+  * 9 June 2018
+  * 21 Apr 2018
+  * 24 Feb 2018
+
+* Rock of Ages
+  * 9 June 2018
+  * 31 Mar 2018
+
+## Previously
+
 * In His Name ()
   * 2 June 2018
   * 14 Apr 2018
@@ -24,8 +44,6 @@
   * 2 June 2018
   * 5 May 2018
   * 28 Apr 2018
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 26 May 2018
@@ -97,11 +115,6 @@
   * 24 Mar 2018
   * 17 Feb 2018
 
-* All Creatures of Our God and king
-  * 5 May 2018
-  * 7 Apr 2018
-  * 24 Feb 2018
-
 * Come Thou Fount
   * 28 Apr 2018
   * 10 Feb 2018
@@ -112,10 +125,6 @@
   * 10 Mar 2018
   * 10 Feb 2018
   * 20 Jan 2018
-
-* Holy (2011)
-  * 21 Apr 2018
-  * 24 Feb 2018
 
 * Speak O Lord (2005)
   * 14 Apr 2018
@@ -137,9 +146,6 @@
   * 3 Mar 2018
   * 3 Feb 2018
   * 20 Jan 2018
-
-* Rock of Ages
-  * 31 Mar 2018
 
 * Show Us Christ (2011)
   * 24 Mar 2018
