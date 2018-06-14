@@ -2,6 +2,33 @@
 
 ## This week
 
+* 10,000 Reasons (2011)
+  * 16 June 2018
+  * 12 May 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+  * 6 Jan 2018
+
+* Come Thou Fount
+  * 16 June 2018
+  * 28 Apr 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
+
+* Hallelujah (2009)
+  * 16 June 2018
+  * 31 Mar 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 20 Jan 2018
+
+* Exalted (2018)
+  * 16 June 2018
+  * 12 May 2018
+  * 5 May 2018
+
+## Previously
+
 * All Creatures of Our God and king
   * 9 June 2018
   * 5 May 2018
@@ -19,8 +46,6 @@
 * Rock of Ages
   * 9 June 2018
   * 31 Mar 2018
-
-## Previously
 
 * In His Name ()
   * 2 June 2018
@@ -95,30 +120,15 @@
   * 10 Feb 2018
   * 6 Jan 2018
 
-* 10,000 Reasons (2011)
-  * 12 May 2018
-  * 7 Apr 2018
-  * 17 Feb 2018
-  * 6 Jan 2018
-
 * Come Lord (2007)
   * 12 May 2018
   * 17 Mar 2018
   * 3 Feb 2018
 
-* Exalted (2018)
-  * 12 May 2018
-  * 5 May 2018
-
 * Sooner Count the Stars (2015)
   * 5 May 2018
   * 24 Mar 2018
   * 17 Feb 2018
-
-* Come Thou Fount
-  * 28 Apr 2018
-  * 10 Feb 2018
-  * 6 Jan 2018
 
 * Jesus Messiah ()
   * 21 Apr 2018
@@ -140,12 +150,6 @@
   * 31 Mar 2018
   * 24 Feb 2018
   * 13 Jan 2018
-
-* Hallelujah (2009)
-  * 31 Mar 2018
-  * 3 Mar 2018
-  * 3 Feb 2018
-  * 20 Jan 2018
 
 * Show Us Christ (2011)
   * 24 Mar 2018
