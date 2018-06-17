@@ -2,6 +2,30 @@
 
 ## This week
 
+* Sooner Count the Stars (2015)
+  * 23 June 2018
+  * 5 May 2018
+  * 24 Mar 2018
+  * 17 Feb 2018
+
+* No Other Name (2010)
+  * 23 June 2018
+  * 19 May 2018
+  * 14 Apr 2018
+  * 3 Mar 2018
+  * 13 Jan 2018
+
+* Show Us Christ (2011)
+  * 24 Mar 2018
+
+* By The Cross (1998)
+  * 23 June 2018
+  * 31 Mar 2018
+  * 24 Feb 2018
+  * 13 Jan 2018
+
+## Previously
+
 * 10,000 Reasons (2011)
   * 16 June 2018
   * 12 May 2018
@@ -26,8 +50,6 @@
   * 16 June 2018
   * 12 May 2018
   * 5 May 2018
-
-## Previously
 
 * All Creatures of Our God and king
   * 9 June 2018
@@ -108,12 +130,6 @@
   * 19 May 2018
   * 10 Feb 2018
 
-* No Other Name (2010)
-  * 19 May 2018
-  * 14 Apr 2018
-  * 3 Mar 2018
-  * 13 Jan 2018
-
 * The Chorus of the Saved (2015)
   * 12 May 2018
   * 17 Mar 2018
@@ -124,11 +140,6 @@
   * 12 May 2018
   * 17 Mar 2018
   * 3 Feb 2018
-
-* Sooner Count the Stars (2015)
-  * 5 May 2018
-  * 24 Mar 2018
-  * 17 Feb 2018
 
 * Jesus Messiah ()
   * 21 Apr 2018
@@ -145,14 +156,6 @@
 * Never Alone (2006)
   * 7 Apr 2018
   * 17 Feb 2018
-
-* By The Cross (1998)
-  * 31 Mar 2018
-  * 24 Feb 2018
-  * 13 Jan 2018
-
-* Show Us Christ (2011)
-  * 24 Mar 2018
 
 * Be Thou My Vision
   * 24 Mar 2018
