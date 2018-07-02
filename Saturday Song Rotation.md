@@ -2,6 +2,27 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 2 June 2018
+  * 5 May 2018
+  * 28 Apr 2018
+
+* Behold Our God (2011)
+  * 3 Mar 2018
+  * 3 Feb 2018
+
+* Where Else? (2007)
+  * 19 May 2018
+  * 10 Feb 2018
+
+* I Stand Amazed
+  * 26 May 2018
+  * 21 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+## Previously
+
 * Jesus Messiah ()
   * 30 Jun 2018
   * 21 Apr 2018
@@ -26,8 +47,6 @@
   * 31 Mar 2018
   * 17 Feb 2018
   * 13 Jan 2018
-
-## Previously
 
 * Grace Alone (2013)
   * 23 June 2018
@@ -103,11 +122,6 @@
   * 3 Feb 2018
   * 13 Jan 2018
 
-* This is Amazing Grace
-  * 2 June 2018
-  * 5 May 2018
-  * 28 Apr 2018
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 26 May 2018
   * 14 Apr 2018
@@ -124,21 +138,11 @@
   * 28 Apr 2018
   * 24 Feb 2018
 
-* I Stand Amazed
-  * 26 May 2018
-  * 21 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
-
 * My Lighthouse (2013)
   * 19 May 2018
   * 24 Mar 2018
   * 27 Jan 2018
   * 20 Jan 2018
-
-* Where Else? (2007)
-  * 19 May 2018
-  * 10 Feb 2018
 
 * The Chorus of the Saved (2015)
   * 12 May 2018
@@ -170,10 +174,6 @@
   * 10 Mar 2018
   * 3 Feb 2018
   * 6 Jan 2018
-
-* Behold Our God (2011)
-  * 3 Mar 2018
-  * 3 Feb 2018
 
 * When I Survey
 
