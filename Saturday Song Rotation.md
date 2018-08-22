@@ -3,16 +3,28 @@
 ## This week
 
 * Grace Alone (2013)
+  * 25 Aug 2018
   * 21 July 2018
   * 23 June 2018
   * 9 June 2018
 
+* Only Your Blood
+  * 25 Aug 2018
+  * 21 July 2018
+  * 2 June 2018
+  * 28 Apr 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 13 Jan 2018
+
 * Holy (2011)
+  * 25 Aug 2018
   * 9 June 2018
   * 21 Apr 2018
   * 24 Feb 2018
 
 * In His Name ()
+  * 25 Aug 2018
   * 14 July 2018
   * 2 June 2018
   * 14 Apr 2018
@@ -132,14 +144,6 @@
   * 5 May 2018
   * 7 Apr 2018
   * 24 Feb 2018
-
-* Only Your Blood
-  * 21 July 2018
-  * 2 June 2018
-  * 28 Apr 2018
-  * 3 Mar 2018
-  * 3 Feb 2018
-  * 13 Jan 2018
 
 * The Chorus of the Saved (2015)
   * 21 July 2018
