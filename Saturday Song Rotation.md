@@ -2,6 +2,25 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 21 July 2018
+  * 23 June 2018
+  * 9 June 2018
+
+* Holy (2011)
+  * 9 June 2018
+  * 21 Apr 2018
+  * 24 Feb 2018
+
+* In His Name ()
+  * 14 July 2018
+  * 2 June 2018
+  * 14 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+## Previously
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 18 Aug 2018
   * 14 July 2018
@@ -29,8 +48,6 @@
   * 16 June 2018
   * 12 May 2018
   * 5 May 2018
-
-## Previously
 
 * Jesus Messiah ()
   * 11 Aug 2018
@@ -109,11 +126,6 @@
   * 17 Feb 2018
   * 6 Jan 2018
 
-* Grace Alone (2013)
-  * 21 July 2018
-  * 23 June 2018
-  * 9 June 2018
-
 * All Creatures of Our God and king
   * 21 July 2018
   * 9 June 2018
@@ -144,13 +156,6 @@
   * 3 Feb 2018
   * 20 Jan 2018
 
-* In His Name ()
-  * 14 July 2018
-  * 2 June 2018
-  * 14 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
-
 * I Stand Amazed
   * 7 July 2018
   * 26 May 2018
@@ -176,11 +181,6 @@
   * 28 Apr 2018
   * 10 Feb 2018
   * 6 Jan 2018
-
-* Holy (2011)
-  * 9 June 2018
-  * 21 Apr 2018
-  * 24 Feb 2018
 
 * Rock of Ages
   * 9 June 2018
