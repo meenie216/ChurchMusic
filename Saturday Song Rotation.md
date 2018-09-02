@@ -2,6 +2,37 @@
 
 ## This week
 
+* All Creatures of Our God and king
+  * 1 Sept 2018
+  * 21 July 2018
+  * 9 June 2018
+  * 5 May 2018
+  * 7 Apr 2018
+  * 24 Feb 2018
+
+* When I Survey
+  * 1 Sept 2018
+
+* Sooner Count the Stars (2015)
+  * 1 Sept 2018
+  * 5 May 2018
+  * 24 Mar 2018
+  * 17 Feb 2018
+
+Create In Me a Clean Heart
+  * 1 Sept 2018
+
+* Come As You Are (2014)
+  * 1 Sept 2018
+  * 4 Aug 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+## Previously
+
 * Grace Alone (2013)
   * 25 Aug 2018
   * 21 July 2018
@@ -30,8 +61,6 @@
   * 14 Apr 2018
   * 17 Mar 2018
   * 3 Feb 2018
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 18 Aug 2018
@@ -91,14 +120,6 @@
   * 27 Jan 2018
   * 20 Jan 2018
 
-* Come As You Are (2014)
-  * 4 Aug 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 31 Mar 2018
-  * 17 Feb 2018
-  * 13 Jan 2018
-
 * Where Else? (2007)
   * 4 Aug 2018
   * 7 July 2018
@@ -137,13 +158,6 @@
   * 7 Apr 2018
   * 17 Feb 2018
   * 6 Jan 2018
-
-* All Creatures of Our God and king
-  * 21 July 2018
-  * 9 June 2018
-  * 5 May 2018
-  * 7 Apr 2018
-  * 24 Feb 2018
 
 * The Chorus of the Saved (2015)
   * 21 July 2018
@@ -199,17 +213,10 @@
   * 28 Apr 2018
   * 24 Feb 2018
 
-* Sooner Count the Stars (2015)
-  * 5 May 2018
-  * 24 Mar 2018
-  * 17 Feb 2018
-
 * Our God (2010)
   * 10 Mar 2018
   * 3 Feb 2018
   * 6 Jan 2018
-
-* When I Survey
 
 ## Off Rotation
 
