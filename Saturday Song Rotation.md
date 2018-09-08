@@ -49,7 +49,7 @@
   * 24 Mar 2018
   * 17 Feb 2018
 
-Create In Me a Clean Heart
+* Create In Me a Clean Heart
   * 1 Sept 2018
 
 * Come As You Are (2014)
