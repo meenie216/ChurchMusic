@@ -2,6 +2,36 @@
 
 ## This week
 
+* Our God (2010)
+  * 8 Sep 2018
+  * 10 Mar 2018
+  * 3 Feb 2018
+  * 6 Jan 2018
+
+* I Stand Amazed
+  * 8 Sep 2018
+  * 7 July 2018
+  * 26 May 2018
+  * 21 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+* Never Alone (2006)
+  * 8 Sep 2018
+  * 11 Aug 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+
+* This is Amazing Grace
+  * 8 Sep 2018
+  * 4 Aug 2018
+  * 7 July 2018
+  * 2 June 2018
+  * 5 May 2018
+  * 28 Apr 2018
+
+## Previously
+
 * All Creatures of Our God and king
   * 1 Sept 2018
   * 21 July 2018
@@ -30,8 +60,6 @@ Create In Me a Clean Heart
   * 31 Mar 2018
   * 17 Feb 2018
   * 13 Jan 2018
-
-## Previously
 
 * Grace Alone (2013)
   * 25 Aug 2018
@@ -108,11 +136,6 @@ Create In Me a Clean Heart
   * 11 Aug 2018
   * 23 June 2018
 
-* Never Alone (2006)
-  * 11 Aug 2018
-  * 7 Apr 2018
-  * 17 Feb 2018
-
 * My Lighthouse (2013)
   * 4 Aug 2018
   * 19 May 2018
@@ -125,13 +148,6 @@ Create In Me a Clean Heart
   * 7 July 2018
   * 19 May 2018
   * 10 Feb 2018
-
-* This is Amazing Grace
-  * 4 Aug 2018
-  * 7 July 2018
-  * 2 June 2018
-  * 5 May 2018
-  * 28 Apr 2018
 
 * Highest Place (1998)
   * 28 July 2018
@@ -174,16 +190,15 @@ Create In Me a Clean Heart
   * 3 Feb 2018
   * 20 Jan 2018
 
-* I Stand Amazed
-  * 7 July 2018
-  * 26 May 2018
-  * 21 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
-
 * Be Thou My Vision
   * 30 Jun 2018
   * 24 Mar 2018
+
+* Come Thou Fount
+  * 16 June 2018
+  * 28 Apr 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
 
 * Show Us Christ (2011)
   * 24 Mar 2018
@@ -193,12 +208,6 @@ Create In Me a Clean Heart
   * 31 Mar 2018
   * 24 Feb 2018
   * 13 Jan 2018
-
-* Come Thou Fount
-  * 16 June 2018
-  * 28 Apr 2018
-  * 10 Feb 2018
-  * 6 Jan 2018
 
 * Rock of Ages
   * 9 June 2018
@@ -212,11 +221,6 @@ Create In Me a Clean Heart
   * 26 May 2018
   * 28 Apr 2018
   * 24 Feb 2018
-
-* Our God (2010)
-  * 10 Mar 2018
-  * 3 Feb 2018
-  * 6 Jan 2018
 
 ## Off Rotation
 
