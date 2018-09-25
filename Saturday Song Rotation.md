@@ -2,6 +2,38 @@
 
 ## This week
 
+* Exalted (2018)
+  * 29 Sept 2018
+  * 18 Aug 2018
+  * 14 July 2018
+  * 16 June 2018
+  * 12 May 2018
+  * 5 May 2018
+
+* Jesus Messiah ()
+  * 29 Sept 2018
+  * 11 Aug 2018
+  * 30 Jun 2018
+  * 21 Apr 2018
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 20 Jan 2018
+
+* We Belong to the Day (2006)
+  * 29 Sept 2018
+  * 26 May 2018
+  * 28 Apr 2018
+  * 24 Feb 2018
+
+* Grace Alone (2013)
+  * 29 Sept 2018
+  * 25 Aug 2018
+  * 21 July 2018
+  * 23 June 2018
+  * 9 June 2018
+
+## Previously
+
 * My Lighthouse (2013)
   * 22 Sep 2018
   * 4 Aug 2018
@@ -29,8 +61,6 @@
   * 14 Apr 2018
   * 3 Mar 2018
   * 13 Jan 2018
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 15 Sep 2018
@@ -125,12 +155,6 @@
   * 17 Feb 2018
   * 13 Jan 2018
 
-* Grace Alone (2013)
-  * 25 Aug 2018
-  * 21 July 2018
-  * 23 June 2018
-  * 9 June 2018
-
 * Only Your Blood
   * 25 Aug 2018
   * 21 July 2018
@@ -159,21 +183,6 @@
   * 12 May 2018
   * 17 Mar 2018
   * 3 Feb 2018
-
-* Exalted (2018)
-  * 18 Aug 2018
-  * 14 July 2018
-  * 16 June 2018
-  * 12 May 2018
-  * 5 May 2018
-
-* Jesus Messiah ()
-  * 11 Aug 2018
-  * 30 Jun 2018
-  * 21 Apr 2018
-  * 10 Mar 2018
-  * 10 Feb 2018
-  * 20 Jan 2018
 
 * Behold Our God (2011)
   * 11 Aug 2018
@@ -224,11 +233,6 @@
 * He Shall Reign (2015)
   * 26 May 2018
   * 7 Apr 2018
-
-* We Belong to the Day (2006)
-  * 26 May 2018
-  * 28 Apr 2018
-  * 24 Feb 2018
 
 ## Off Rotation
 
