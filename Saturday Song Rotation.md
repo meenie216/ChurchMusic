@@ -2,6 +2,40 @@
 
 ## This week
 
+* Come As You Are (2014)
+  * 6 Oct 2018
+  * 1 Sept 2018
+  * 4 Aug 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+* Only Your Blood
+  * 6 Oct 2018
+  * 25 Aug 2018
+  * 21 July 2018
+  * 2 June 2018
+  * 28 Apr 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 13 Jan 2018
+
+* Where Else? (2007)
+  * 6 Oct 2018
+  * 4 Aug 2018
+  * 7 July 2018
+  * 19 May 2018
+  * 10 Feb 2018
+  
+* Rock of Ages
+  * 6 Oct 2018
+  * 9 June 2018
+  * 31 Mar 2018
+
+## Previously
+
 * Exalted (2018)
   * 29 Sept 2018
   * 18 Aug 2018
@@ -31,8 +65,6 @@
   * 21 July 2018
   * 23 June 2018
   * 9 June 2018
-
-## Previously
 
 * My Lighthouse (2013)
   * 22 Sep 2018
@@ -146,24 +178,6 @@
 * Create In Me a Clean Heart
   * 1 Sept 2018
 
-* Come As You Are (2014)
-  * 1 Sept 2018
-  * 4 Aug 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 31 Mar 2018
-  * 17 Feb 2018
-  * 13 Jan 2018
-
-* Only Your Blood
-  * 25 Aug 2018
-  * 21 July 2018
-  * 2 June 2018
-  * 28 Apr 2018
-  * 3 Mar 2018
-  * 3 Feb 2018
-  * 13 Jan 2018
-
 * Holy (2011)
   * 25 Aug 2018
   * 9 June 2018
@@ -194,12 +208,6 @@
   * 11 Aug 2018
   * 23 June 2018
 
-* Where Else? (2007)
-  * 4 Aug 2018
-  * 7 July 2018
-  * 19 May 2018
-  * 10 Feb 2018
-
 * Highest Place (1998)
   * 28 July 2018
 
@@ -225,10 +233,6 @@
   * 31 Mar 2018
   * 24 Feb 2018
   * 13 Jan 2018
-
-* Rock of Ages
-  * 9 June 2018
-  * 31 Mar 2018
 
 * He Shall Reign (2015)
   * 26 May 2018
