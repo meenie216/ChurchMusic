@@ -2,6 +2,41 @@
 
 ## This week
 
+* 10,000 Reasons (2011)
+  * 13 Oct 2018
+  * 15 Sep 2018
+  * 28 July 2018
+  * 16 June 2018
+  * 12 May 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+  * 6 Jan 2018
+
+* Behold Our God (2011)
+  * 13 Oct 2018
+  * 11 Aug 2018
+  * 7 July 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+
+* Holy (2011)
+  * 13 Oct 2018
+  * 25 Aug 2018
+  * 9 June 2018
+  * 21 Apr 2018
+  * 24 Feb 2018
+
+* This is Amazing Grace
+  * 13 Oct 2018
+  * 8 Sep 2018
+  * 4 Aug 2018
+  * 7 July 2018
+  * 2 June 2018
+  * 5 May 2018
+  * 28 Apr 2018
+
+## Previously
+
 * Come As You Are (2014)
   * 6 Oct 2018
   * 1 Sept 2018
@@ -33,8 +68,6 @@
   * 6 Oct 2018
   * 9 June 2018
   * 31 Mar 2018
-
-## Previously
 
 * Exalted (2018)
   * 29 Sept 2018
@@ -104,15 +137,6 @@
   * 10 Feb 2018
   * 20 Jan 2018
 
-* 10,000 Reasons (2011)
-  * 15 Sep 2018
-  * 28 July 2018
-  * 16 June 2018
-  * 12 May 2018
-  * 7 Apr 2018
-  * 17 Feb 2018
-  * 6 Jan 2018
-
 * Hallelujah (2009)
   * 15 Sep 2018
   * 14 July 2018
@@ -150,14 +174,6 @@
   * 7 Apr 2018
   * 17 Feb 2018
 
-* This is Amazing Grace
-  * 8 Sep 2018
-  * 4 Aug 2018
-  * 7 July 2018
-  * 2 June 2018
-  * 5 May 2018
-  * 28 Apr 2018
-
 * All Creatures of Our God and king
   * 1 Sept 2018
   * 21 July 2018
@@ -178,12 +194,6 @@
 * Create In Me a Clean Heart
   * 1 Sept 2018
 
-* Holy (2011)
-  * 25 Aug 2018
-  * 9 June 2018
-  * 21 Apr 2018
-  * 24 Feb 2018
-
 * In His Name ()
   * 25 Aug 2018
   * 14 July 2018
@@ -196,12 +206,6 @@
   * 18 Aug 2018
   * 12 May 2018
   * 17 Mar 2018
-  * 3 Feb 2018
-
-* Behold Our God (2011)
-  * 11 Aug 2018
-  * 7 July 2018
-  * 3 Mar 2018
   * 3 Feb 2018
 
 * Jesus, Thank You (2003)
