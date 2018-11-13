@@ -2,6 +2,41 @@
 
 ## This week
 
+* How Great You Are (2012)
+  * 17 Nov 2018
+  * 22 Sep 2018
+  * 18 Aug 2018
+  * 2 June 2018
+  * 21 Apr 2018
+  * 10 Feb 2018
+
+* Exalted (2018)
+  * 17 Nov 2018
+  * 29 Sept 2018
+  * 18 Aug 2018
+  * 14 July 2018
+  * 16 June 2018
+  * 12 May 2018
+  * 5 May 2018
+
+* Be Thou My Vision
+  * 17 Nov 2018
+  * 30 Jun 2018
+  * 24 Mar 2018
+
+* Come As You Are (2014)
+  * 17 Nov 2018
+  * 6 Oct 2018
+  * 1 Sept 2018
+  * 4 Aug 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+## Previously
+
 * Our God (2010)
   * 10 Nov 2018
   * 8 Sep 2018
@@ -34,8 +69,6 @@
   * 3 Mar 2018
   * 3 Feb 2018
   * 13 Jan 2018
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 3 Nov 2018
@@ -140,16 +173,6 @@
   * 5 May 2018
   * 28 Apr 2018
 
-* Come As You Are (2014)
-  * 6 Oct 2018
-  * 1 Sept 2018
-  * 4 Aug 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 31 Mar 2018
-  * 17 Feb 2018
-  * 13 Jan 2018
-
 * Where Else? (2007)
   * 6 Oct 2018
   * 4 Aug 2018
@@ -161,14 +184,6 @@
   * 6 Oct 2018
   * 9 June 2018
   * 31 Mar 2018
-
-* Exalted (2018)
-  * 29 Sept 2018
-  * 18 Aug 2018
-  * 14 July 2018
-  * 16 June 2018
-  * 12 May 2018
-  * 5 May 2018
 
 * Jesus Messiah ()
   * 29 Sept 2018
@@ -192,13 +207,6 @@
   * 24 Mar 2018
   * 27 Jan 2018
   * 20 Jan 2018
-
-* How Great You Are (2012)
-  * 22 Sep 2018
-  * 18 Aug 2018
-  * 2 June 2018
-  * 21 Apr 2018
-  * 10 Feb 2018
 
 * I Stand Amazed
   * 8 Sep 2018
@@ -239,10 +247,6 @@
   * 10 Mar 2018
   * 10 Feb 2018
   * 13 Jan 2018
-
-* Be Thou My Vision
-  * 30 Jun 2018
-  * 24 Mar 2018
 
 * Come Thou Fount
   * 16 June 2018
