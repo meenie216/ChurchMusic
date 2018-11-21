@@ -2,6 +2,44 @@
 
 ## This week
 
+* Jesus Messiah ()
+  * 24 Nov 2018
+  * 29 Sept 2018
+  * 11 Aug 2018
+  * 30 Jun 2018
+  * 21 Apr 2018
+  * 10 Mar 2018
+  * 10 Feb 2018
+  * 20 Jan 2018
+
+* Come Thou Fount
+  * 24 Nov 2018
+  * 16 June 2018
+  * 28 Apr 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
+
+* Holy (2011)
+  * 24 Nov 2018
+  * 13 Oct 2018
+  * 25 Aug 2018
+  * 9 June 2018
+  * 21 Apr 2018
+  * 24 Feb 2018
+
+* 10,000 Reasons (2011)
+  * 24 Nov 2018
+  * 13 Oct 2018
+  * 15 Sep 2018
+  * 28 July 2018
+  * 16 June 2018
+  * 12 May 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+  * 6 Jan 2018
+
+## Previously
+
 * How Great You Are (2012)
   * 17 Nov 2018
   * 22 Sep 2018
@@ -34,8 +72,6 @@
   * 31 Mar 2018
   * 17 Feb 2018
   * 13 Jan 2018
-
-## Previously
 
 * Our God (2010)
   * 10 Nov 2018
@@ -140,29 +176,12 @@
   * 10 Feb 2018
   * 6 Jan 2018
 
-* 10,000 Reasons (2011)
-  * 13 Oct 2018
-  * 15 Sep 2018
-  * 28 July 2018
-  * 16 June 2018
-  * 12 May 2018
-  * 7 Apr 2018
-  * 17 Feb 2018
-  * 6 Jan 2018
-
 * Behold Our God (2011)
   * 13 Oct 2018
   * 11 Aug 2018
   * 7 July 2018
   * 3 Mar 2018
   * 3 Feb 2018
-
-* Holy (2011)
-  * 13 Oct 2018
-  * 25 Aug 2018
-  * 9 June 2018
-  * 21 Apr 2018
-  * 24 Feb 2018
 
 * This is Amazing Grace
   * 13 Oct 2018
@@ -184,15 +203,6 @@
   * 6 Oct 2018
   * 9 June 2018
   * 31 Mar 2018
-
-* Jesus Messiah ()
-  * 29 Sept 2018
-  * 11 Aug 2018
-  * 30 Jun 2018
-  * 21 Apr 2018
-  * 10 Mar 2018
-  * 10 Feb 2018
-  * 20 Jan 2018
 
 * We Belong to the Day (2006)
   * 29 Sept 2018
@@ -247,12 +257,6 @@
   * 10 Mar 2018
   * 10 Feb 2018
   * 13 Jan 2018
-
-* Come Thou Fount
-  * 16 June 2018
-  * 28 Apr 2018
-  * 10 Feb 2018
-  * 6 Jan 2018
 
 * He Shall Reign (2015)
   * 26 May 2018
