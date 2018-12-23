@@ -2,6 +2,48 @@
 
 ## This week
 
+* My Lighthouse (2013)
+  * 22 Dec 2018
+  * 22 Sep 2018
+  * 4 Aug 2018
+  * 19 May 2018
+  * 24 Mar 2018
+  * 27 Jan 2018
+  * 20 Jan 2018
+
+* All Creatures of Our God and king
+  * 22 Dec 2018
+  * 27 Oct 2018
+  * 1 Sept 2018
+  * 21 July 2018
+  * 9 June 2018
+  * 5 May 2018
+  * 7 Apr 2018
+  * 24 Feb 2018
+
+* How Great You Are (2012)
+  * 22 Dec 2018
+  * 17 Nov 2018
+  * 22 Sep 2018
+  * 18 Aug 2018
+  * 2 June 2018
+  * 21 Apr 2018
+  * 10 Feb 2018
+
+* Come As You Are (2014)
+  * 22 Dec 2018
+  * 17 Nov 2018
+  * 6 Oct 2018
+  * 1 Sept 2018
+  * 4 Aug 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+## Previously
+
 * This is Amazing Grace
   * 15 Dec 2018
   * 13 Oct 2018
@@ -36,8 +78,6 @@
   * 14 Apr 2018
   * 17 Mar 2018
   * 3 Feb 2018
-
-## Previously
 
 * He Shall Reign (2015)
   * 26 May 2018
@@ -99,14 +139,6 @@
   * 17 Feb 2018
   * 6 Jan 2018
 
-* How Great You Are (2012)
-  * 17 Nov 2018
-  * 22 Sep 2018
-  * 18 Aug 2018
-  * 2 June 2018
-  * 21 Apr 2018
-  * 10 Feb 2018
-
 * Exalted (2018)
   * 17 Nov 2018
   * 29 Sept 2018
@@ -120,17 +152,6 @@
   * 17 Nov 2018
   * 30 Jun 2018
   * 24 Mar 2018
-
-* Come As You Are (2014)
-  * 17 Nov 2018
-  * 6 Oct 2018
-  * 1 Sept 2018
-  * 4 Aug 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 31 Mar 2018
-  * 17 Feb 2018
-  * 13 Jan 2018
 
 * Our God (2010)
   * 10 Nov 2018
@@ -185,15 +206,6 @@
   * 24 Feb 2018
   * 13 Jan 2018
 
-* All Creatures of Our God and king
-  * 27 Oct 2018
-  * 1 Sept 2018
-  * 21 July 2018
-  * 9 June 2018
-  * 5 May 2018
-  * 7 Apr 2018
-  * 24 Feb 2018
-
 * Come Lord (2007)
   * 27 Oct 2018
   * 18 Aug 2018
@@ -225,14 +237,6 @@
   * 26 May 2018
   * 28 Apr 2018
   * 24 Feb 2018
-
-* My Lighthouse (2013)
-  * 22 Sep 2018
-  * 4 Aug 2018
-  * 19 May 2018
-  * 24 Mar 2018
-  * 27 Jan 2018
-  * 20 Jan 2018
 
 * Never Alone (2006)
   * 8 Sep 2018
