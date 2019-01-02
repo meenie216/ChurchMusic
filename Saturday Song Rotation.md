@@ -2,6 +2,43 @@
 
 ## This week
 
+* Our God (2010)
+  * 29 Dec 2018
+  * 10 Nov 2018
+  * 8 Sep 2018
+  * 10 Mar 2018
+  * 3 Feb 2018
+  * 6 Jan 2018
+
+* Sooner Count the Stars (2015)
+  * 29 Dec 2018
+  * 1 Sept 2018
+  * 5 May 2018
+  * 24 Mar 2018
+  * 17 Feb 2018
+
+* Holy (2011)
+  * 29 Dec 2018
+  * 24 Nov 2018
+  * 13 Oct 2018
+  * 25 Aug 2018
+  * 9 June 2018
+  * 21 Apr 2018
+  * 24 Feb 2018
+
+* No Other Name (2010)
+  * 29 Dec 2018
+  * 10 Nov 2018
+  * 22 Sep 2018
+  * 28 July 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 14 Apr 2018
+  * 3 Mar 2018
+  * 13 Jan 2018
+
+## Previously
+
 * My Lighthouse (2013)
   * 22 Dec 2018
   * 22 Sep 2018
@@ -41,8 +78,6 @@
   * 31 Mar 2018
   * 17 Feb 2018
   * 13 Jan 2018
-
-## Previously
 
 * This is Amazing Grace
   * 15 Dec 2018
@@ -120,14 +155,6 @@
   * 10 Feb 2018
   * 6 Jan 2018
 
-* Holy (2011)
-  * 24 Nov 2018
-  * 13 Oct 2018
-  * 25 Aug 2018
-  * 9 June 2018
-  * 21 Apr 2018
-  * 24 Feb 2018
-
 * 10,000 Reasons (2011)
   * 24 Nov 2018
   * 13 Oct 2018
@@ -152,23 +179,6 @@
   * 17 Nov 2018
   * 30 Jun 2018
   * 24 Mar 2018
-
-* Our God (2010)
-  * 10 Nov 2018
-  * 8 Sep 2018
-  * 10 Mar 2018
-  * 3 Feb 2018
-  * 6 Jan 2018
-
-* No Other Name (2010)
-  * 10 Nov 2018
-  * 22 Sep 2018
-  * 28 July 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 14 Apr 2018
-  * 3 Mar 2018
-  * 13 Jan 2018
 
 * Only Your Blood
   * 10 Nov 2018
@@ -246,12 +256,6 @@
 
 * When I Survey
   * 1 Sept 2018
-
-* Sooner Count the Stars (2015)
-  * 1 Sept 2018
-  * 5 May 2018
-  * 24 Mar 2018
-  * 17 Feb 2018
 
 * Create In Me a Clean Heart
   * 1 Sept 2018
