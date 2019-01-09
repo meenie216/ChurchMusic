@@ -2,6 +2,44 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 5 Jan 2019
+  * 3 Nov 2018
+  * 29 Sept 2018
+  * 25 Aug 2018
+  * 21 July 2018
+  * 23 June 2018
+  * 9 June 2018
+
+* Exalted (2018)
+  * 5 Jan 2019
+  * 17 Nov 2018
+  * 29 Sept 2018
+  * 18 Aug 2018
+  * 14 July 2018
+  * 16 June 2018
+  * 12 May 2018
+  * 5 May 2018
+
+* Hallelujah (2009)
+  * 5 Jan 2019
+  * 3 Nov 2018
+  * 15 Sep 2018
+  * 14 July 2018
+  * 16 June 2018
+  * 31 Mar 2018
+  * 3 Mar 2018
+  * 3 Feb 2018
+  * 20 Jan 2018
+  
+* Be Thou My Vision
+  * 5 Jan 2019
+  * 17 Nov 2018
+  * 30 Jun 2018
+  * 24 Mar 2018
+
+## Previously
+
 * Our God (2010)
   * 29 Dec 2018
   * 10 Nov 2018
@@ -36,8 +74,6 @@
   * 14 Apr 2018
   * 3 Mar 2018
   * 13 Jan 2018
-
-## Previously
 
 * My Lighthouse (2013)
   * 22 Dec 2018
@@ -166,20 +202,6 @@
   * 17 Feb 2018
   * 6 Jan 2018
 
-* Exalted (2018)
-  * 17 Nov 2018
-  * 29 Sept 2018
-  * 18 Aug 2018
-  * 14 July 2018
-  * 16 June 2018
-  * 12 May 2018
-  * 5 May 2018
-
-* Be Thou My Vision
-  * 17 Nov 2018
-  * 30 Jun 2018
-  * 24 Mar 2018
-
 * Only Your Blood
   * 10 Nov 2018
   * 6 Oct 2018
@@ -191,24 +213,6 @@
   * 3 Feb 2018
   * 13 Jan 2018
 
-* Grace Alone (2013)
-  * 3 Nov 2018
-  * 29 Sept 2018
-  * 25 Aug 2018
-  * 21 July 2018
-  * 23 June 2018
-  * 9 June 2018
-
-* Hallelujah (2009)
-  * 3 Nov 2018
-  * 15 Sep 2018
-  * 14 July 2018
-  * 16 June 2018
-  * 31 Mar 2018
-  * 3 Mar 2018
-  * 3 Feb 2018
-  * 20 Jan 2018
-  
 * By The Cross (1998)
   * 27 Oct 2018
   * 23 June 2018
