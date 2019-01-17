@@ -2,6 +2,77 @@
 
 ## This week
 
+* In His Name ()
+  * 19 Jan 2019
+  * 15 Dec 2018
+  * 3 Nov 2018
+  * 25 Aug 2018
+  * 14 July 2018
+  * 2 June 2018
+  * 14 Apr 2018
+  * 17 Mar 2018
+  * 3 Feb 2018
+
+* Come As You Are (2014)
+  * 19 Jan 2019
+  * 22 Dec 2018
+  * 17 Nov 2018
+  * 6 Oct 2018
+  * 1 Sept 2018
+  * 4 Aug 2018
+  * 30 Jun 2018
+  * 19 May 2018
+  * 31 Mar 2018
+  * 17 Feb 2018
+  * 13 Jan 2018
+
+* Never Alone (2006)
+  * 19 Jan 2019
+  * 8 Sep 2018
+  * 11 Aug 2018
+  * 7 Apr 2018
+  * 17 Feb 2018
+
+* The Chorus of the Saved (2015)
+  * 19 Jan 2019
+  * 27 Oct 2018
+  * 15 Sep 2018
+  * 21 July 2018
+  * 12 May 2018
+  * 17 Mar 2018
+  * 10 Feb 2018
+  * 6 Jan 2018
+
+## Previously
+
+* By The Cross (1998)
+  * 12 Jan 2019
+  * 27 Oct 2018
+  * 23 June 2018
+  * 31 Mar 2018
+  * 24 Feb 2018
+  * 13 Jan 2018
+
+* Rock of Ages
+  * 12 Jan 2019
+  * 6 Oct 2018
+  * 9 June 2018
+  * 31 Mar 2018
+
+* Take My Life
+  * 12 Jan 2019
+
+* This is Amazing Grace
+  * 12 Jan 2019
+  * 15 Dec 2018
+  * 13 Oct 2018
+  * 8 Sep 2018
+  * 4 Aug 2018
+  * 7 July 2018
+  * 2 June 2018
+  * 5 May 2018
+  * 28 Apr 2018
+
 * Grace Alone (2013)
   * 5 Jan 2019
   * 3 Nov 2018
@@ -37,8 +108,6 @@
   * 17 Nov 2018
   * 30 Jun 2018
   * 24 Mar 2018
-
-## Previously
 
 * Our God (2010)
   * 29 Dec 2018
@@ -103,28 +172,6 @@
   * 21 Apr 2018
   * 10 Feb 2018
 
-* Come As You Are (2014)
-  * 22 Dec 2018
-  * 17 Nov 2018
-  * 6 Oct 2018
-  * 1 Sept 2018
-  * 4 Aug 2018
-  * 30 Jun 2018
-  * 19 May 2018
-  * 31 Mar 2018
-  * 17 Feb 2018
-  * 13 Jan 2018
-
-* This is Amazing Grace
-  * 15 Dec 2018
-  * 13 Oct 2018
-  * 8 Sep 2018
-  * 4 Aug 2018
-  * 7 July 2018
-  * 2 June 2018
-  * 5 May 2018
-  * 28 Apr 2018
-
 * I Stand Amazed
   * 15 Dec 2018
   * 8 Sep 2018
@@ -140,28 +187,9 @@
   * 22 Sep 2018
   * 24 Mar 2018
 
-* In His Name ()
-  * 15 Dec 2018
-  * 3 Nov 2018
-  * 25 Aug 2018
-  * 14 July 2018
-  * 2 June 2018
-  * 14 Apr 2018
-  * 17 Mar 2018
-  * 3 Feb 2018
-
 * He Shall Reign (2015)
   * 26 May 2018
   * 7 Apr 2018
-
-* The Chorus of the Saved (2015)
-  * 27 Oct 2018
-  * 15 Sep 2018
-  * 21 July 2018
-  * 12 May 2018
-  * 17 Mar 2018
-  * 10 Feb 2018
-  * 6 Jan 2018
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 3 Nov 2018
@@ -213,13 +241,6 @@
   * 3 Feb 2018
   * 13 Jan 2018
 
-* By The Cross (1998)
-  * 27 Oct 2018
-  * 23 June 2018
-  * 31 Mar 2018
-  * 24 Feb 2018
-  * 13 Jan 2018
-
 * Come Lord (2007)
   * 27 Oct 2018
   * 18 Aug 2018
@@ -241,22 +262,11 @@
   * 19 May 2018
   * 10 Feb 2018
   
-* Rock of Ages
-  * 6 Oct 2018
-  * 9 June 2018
-  * 31 Mar 2018
-
 * We Belong to the Day (2006)
   * 29 Sept 2018
   * 26 May 2018
   * 28 Apr 2018
   * 24 Feb 2018
-
-* Never Alone (2006)
-  * 8 Sep 2018
-  * 11 Aug 2018
-  * 7 Apr 2018
-  * 17 Feb 2018
 
 * When I Survey
   * 1 Sept 2018
