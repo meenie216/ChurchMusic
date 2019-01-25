@@ -2,6 +2,23 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 26 Jan 2019
+  * 1 Dec 2019
+
+* My Lighthouse (2013)
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+* Jesus Messiah ()
+  * 26 Jan 2019
+
+* All Creatures of Our God and king
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+## Previously
+
 * In His Name ()
   * 19 Jan 2019
   * 15 Dec 2018
@@ -15,8 +32,6 @@
 
 * The Chorus of the Saved (2015)
   * 19 Jan 2019
-
-## Previously
 
 * By The Cross (1998)
   * 12 Jan 2019
@@ -55,12 +70,6 @@
 * No Other Name (2010)
   * 29 Dec 2018
 
-* My Lighthouse (2013)
-  * 22 Dec 2018
-
-* All Creatures of Our God and king
-  * 22 Dec 2018
-
 * How Great You Are (2012)
   * 22 Dec 2018
 
@@ -72,11 +81,6 @@
 
 * He Shall Reign (2015)
   * 1 Dec 2018
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 1 Dec 2019
-
-* Jesus Messiah ()
 
 * Come Thou Fount
 
