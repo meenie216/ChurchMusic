@@ -2,6 +2,24 @@
 
 ## This week
 
+## Previously
+
+* Grace Alone (2013)
+  * 2 Feb 2019
+  * 5 Jan 2019
+
+* Our God (2010)
+  * 2 Feb 2019
+  * 29 Dec 2018
+
+* I Stand Amazed
+  * 2 Feb 2019
+  * 15 Dec 2018
+
+* How Great You Are (2012)
+  * 2 Feb 2019
+  * 22 Dec 2018
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 26 Jan 2019
   * 1 Dec 2019
@@ -16,8 +34,6 @@
 * All Creatures of Our God and king
   * 26 Jan 2019
   * 22 Dec 2018
-
-## Previously
 
 * In His Name ()
   * 19 Jan 2019
@@ -46,9 +62,6 @@
   * 12 Jan 2019
   * 15 Dec 2018
 
-* Grace Alone (2013)
-  * 5 Jan 2019
-
 * Exalted (2018)
   * 5 Jan 2019
 
@@ -58,9 +71,6 @@
 * Be Thou My Vision
   * 5 Jan 2019
 
-* Our God (2010)
-  * 29 Dec 2018
-
 * Sooner Count the Stars (2015)
   * 29 Dec 2018
 
@@ -69,12 +79,6 @@
 
 * No Other Name (2010)
   * 29 Dec 2018
-
-* How Great You Are (2012)
-  * 22 Dec 2018
-
-* I Stand Amazed
-  * 15 Dec 2018
 
   * Show Us Christ (2011)
   * 15 Dec 2018
