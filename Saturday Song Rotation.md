@@ -2,7 +2,36 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 16 Feb 2019
+
+* Exalted (2018)
+  * 16 Feb 2019
+  * 5 Jan 2019
+
+* Hallelujah (2009)
+  * 16 Feb 2019
+  * 5 Jan 2019
+  
+* 10,000 Reasons (2011)
+  * 16 Feb 2019
+
 ## Previously
+
+* Only Your Blood
+  * 9 Feb 2019
+
+* Come Thou Fount
+  * 9 Feb 2019
+
+* No Other Name (2010)
+  * 9 Feb 2019
+  * 29 Dec 2018
+
+* This is Amazing Grace
+  * 9 Feb 2019
+  * 12 Jan 2019
+  * 15 Dec 2018
 
 * Grace Alone (2013)
   * 2 Feb 2019
@@ -58,16 +87,6 @@
 * Take My Life
   * 12 Jan 2019
 
-* This is Amazing Grace
-  * 12 Jan 2019
-  * 15 Dec 2018
-
-* Exalted (2018)
-  * 5 Jan 2019
-
-* Hallelujah (2009)
-  * 5 Jan 2019
-  
 * Be Thou My Vision
   * 5 Jan 2019
 
@@ -77,20 +96,11 @@
 * Holy (2011)
   * 29 Dec 2018
 
-* No Other Name (2010)
-  * 29 Dec 2018
-
-  * Show Us Christ (2011)
+* Show Us Christ (2011)
   * 15 Dec 2018
 
 * He Shall Reign (2015)
   * 1 Dec 2018
-
-* Come Thou Fount
-
-* 10,000 Reasons (2011)
-
-* Only Your Blood
 
 * Come Lord (2007)
 
