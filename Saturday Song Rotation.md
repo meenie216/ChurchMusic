@@ -2,6 +2,27 @@
 
 ## This week
 
+* O Come to the Altar (2015)
+  * 23 Mar 2019
+
+* This is Amazing Grace
+  * 23 Mar 2019
+  * 9 Feb 2019
+  * 12 Jan 2019
+  * 15 Dec 2018
+
+* Exalted (2018)
+  * 23 Mar 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+
+* Be Thou My Vision
+  * 23 Mar 2019
+  * 23 Feb 2019
+  * 5 Jan 2019
+
+## Previously
+
 * My Lighthouse (2013)
   * 16 Mar 2019
   * 26 Jan 2019
@@ -21,8 +42,6 @@
   * 16 Mar 2019
   * 2 Feb 2019
   * 22 Dec 2018
-
-## Previously
 
 * Grace Alone (2013)
   * 9 Mar 2019
@@ -58,20 +77,12 @@
   * 23 Feb 2019
   * 29 Dec 2018
 
-* Be Thou My Vision
-  * 23 Feb 2019
-  * 5 Jan 2019
-
 * May the Mind Of Christ
   * 23 Feb 2019
 
 * Rejoice (2013)
   * 23 Feb 2019
   * 16 Feb 2019
-
-* Exalted (2018)
-  * 16 Feb 2019
-  * 5 Jan 2019
 
 * Hallelujah (2009)
   * 16 Feb 2019
@@ -86,11 +97,6 @@
 * No Other Name (2010)
   * 9 Feb 2019
   * 29 Dec 2018
-
-* This is Amazing Grace
-  * 9 Feb 2019
-  * 12 Jan 2019
-  * 15 Dec 2018
 
 * Our God (2010)
   * 2 Feb 2019
