@@ -2,6 +2,27 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 30 Mar 2019
+  * 23 Feb 2019
+  * 16 Feb 2019
+
+* Jesus Messiah ()
+  * 30 Mar 2019
+  * 26 Jan 2019
+
+* No Other Name (2010)
+  * 30 Mar 2019
+  * 9 Feb 2019
+  * 29 Dec 2018
+
+* I Stand Amazed
+  * 30 Mar 2019
+  * 2 Feb 2019
+  * 15 Dec 2018
+
+## Previously
+
 * O Come to the Altar (2015)
   * 23 Mar 2019
 
@@ -20,8 +41,6 @@
   * 23 Mar 2019
   * 23 Feb 2019
   * 5 Jan 2019
-
-## Previously
 
 * My Lighthouse (2013)
   * 16 Mar 2019
@@ -80,10 +99,6 @@
 * May the Mind Of Christ
   * 23 Feb 2019
 
-* Rejoice (2013)
-  * 23 Feb 2019
-  * 16 Feb 2019
-
 * Hallelujah (2009)
   * 16 Feb 2019
   * 5 Jan 2019
@@ -94,20 +109,9 @@
 * Only Your Blood
   * 9 Feb 2019
 
-* No Other Name (2010)
-  * 9 Feb 2019
-  * 29 Dec 2018
-
 * Our God (2010)
   * 2 Feb 2019
   * 29 Dec 2018
-
-* I Stand Amazed
-  * 2 Feb 2019
-  * 15 Dec 2018
-
-* Jesus Messiah ()
-  * 26 Jan 2019
 
 * Never Alone (2006)
   * 19 Jan 2019
