@@ -2,6 +2,47 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 13 Apr 2019
+  * 9 Mar 2019
+  * 2 Feb 2019
+  * 5 Jan 2019
+
+* The Chorus of the Saved (2015)
+  * 13 Apr 2019
+  * 2 Mar 2019
+  * 19 Jan 2019
+
+* Take My Life
+  * 13 Apr 2019
+  * 12 Jan 2019
+
+* All Creatures of Our God and king
+  * 13 Apr 2019
+  * 16 Mar 2019
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+## Previously
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 6 Apr 2019
+  * 2 Mar 2019
+  * 26 Jan 2019
+  * 1 Dec 2019
+
+* O Come to the Altar (2015)
+  * 6 Apr 2019
+  * 23 Mar 2019
+
+* Only Your Blood
+  * 6 Apr 2019
+  * 9 Feb 2019
+
+* Rock of Ages
+  * 6 Apr 2019
+  * 12 Jan 2019
+
 * Rejoice (2013)
   * 30 Mar 2019
   * 23 Feb 2019
@@ -20,11 +61,6 @@
   * 30 Mar 2019
   * 2 Feb 2019
   * 15 Dec 2018
-
-## Previously
-
-* O Come to the Altar (2015)
-  * 23 Mar 2019
 
 * This is Amazing Grace
   * 23 Mar 2019
@@ -47,11 +83,6 @@
   * 26 Jan 2019
   * 22 Dec 2018
 
-* All Creatures of Our God and king
-  * 16 Mar 2019
-  * 26 Jan 2019
-  * 22 Dec 2018
-
 * In His Name ()
   * 16 Mar 2019
   * 19 Jan 2019
@@ -61,11 +92,6 @@
   * 16 Mar 2019
   * 2 Feb 2019
   * 22 Dec 2018
-
-* Grace Alone (2013)
-  * 9 Mar 2019
-  * 2 Feb 2019
-  * 5 Jan 2019
 
 * Come Thou Fount
   * 9 Mar 2019
@@ -80,17 +106,8 @@
   * 19 Jan 2019
   * 22 Dec 2018
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 2 Mar 2019
-  * 26 Jan 2019
-  * 1 Dec 2019
-
 * We Belong to the Day (2006)
   * 2 Mar 2019
-
-* The Chorus of the Saved (2015)
-  * 2 Mar 2019
-  * 19 Jan 2019
 
 * Sooner Count the Stars (2015)
   * 23 Feb 2019
@@ -106,21 +123,12 @@
 * 10,000 Reasons (2011)
   * 16 Feb 2019
 
-* Only Your Blood
-  * 9 Feb 2019
-
 * Our God (2010)
   * 2 Feb 2019
   * 29 Dec 2018
 
 * Never Alone (2006)
   * 19 Jan 2019
-
-* Rock of Ages
-  * 12 Jan 2019
-
-* Take My Life
-  * 12 Jan 2019
 
 * Holy (2011)
   * 29 Dec 2018
