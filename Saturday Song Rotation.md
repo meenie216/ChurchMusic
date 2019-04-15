@@ -2,6 +2,23 @@
 
 ## This week
 
+* Come As You Are (2014)
+  * 20 Apr 2019
+  * 2 Mar 2019
+  * 19 Jan 2019
+  * 22 Dec 2018
+
+* Behold Our God (2011)
+  * 20 Apr 2019
+
+* Speak O Lord (2005)
+  * 20 Apr 2019
+
+* When I Survey
+  * 20 Apr 2019
+
+## Previously
+
 * Grace Alone (2013)
   * 13 Apr 2019
   * 9 Mar 2019
@@ -22,8 +39,6 @@
   * 16 Mar 2019
   * 26 Jan 2019
   * 22 Dec 2018
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 6 Apr 2019
@@ -101,11 +116,6 @@
   * 9 Mar 2019
   * 12 Jan 2019
 
-* Come As You Are (2014)
-  * 2 Mar 2019
-  * 19 Jan 2019
-  * 22 Dec 2018
-
 * We Belong to the Day (2006)
   * 2 Mar 2019
 
@@ -141,12 +151,8 @@
 
 * Come Lord (2007)
 
-* Behold Our God (2011)
-
 * Where Else? (2007)
   
-* When I Survey
-
 ## Off Rotation
 
 * Create In Me a Clean Heart
@@ -155,13 +161,6 @@
 
 * Highest Place (1998)
   * 28 July 2018
-
-* Speak O Lord (2005)
-  * 28 July 2018
-  * 14 Apr 2018
-  * 10 Mar 2018
-  * 10 Feb 2018
-  * 13 Jan 2018
 
 * It Is Well With My Soul
 
