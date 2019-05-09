@@ -2,6 +2,31 @@
 
 ## This week
 
+* By The Cross (1998)
+  * 11 May 2019
+  * 9 Mar 2019
+  * 12 Jan 2019
+
+* No Other Name (2010)
+  * 11 May 2019
+  * 30 Mar 2019
+  * 9 Feb 2019
+  * 29 Dec 2018
+
+* Hallelujah (2009)
+  * 11 May 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+  
+* Grace Alone (2013)
+  * 11 May 2019
+  * 13 Apr 2019
+  * 9 Mar 2019
+  * 2 Feb 2019
+  * 5 Jan 2019
+
+## Previously
+
 * O Come to the Altar (2015)
   * 4 May 2019
   * 6 Apr 2019
@@ -22,8 +47,6 @@
   * 23 Mar 2019
   * 23 Feb 2019
   * 5 Jan 2019
-
-## Previously
 
 * My Lighthouse (2013)
   * 27 Apr 2019
@@ -70,12 +93,6 @@
 * When I Survey
   * 20 Apr 2019
 
-* Grace Alone (2013)
-  * 13 Apr 2019
-  * 9 Mar 2019
-  * 2 Feb 2019
-  * 5 Jan 2019
-
 * The Chorus of the Saved (2015)
   * 13 Apr 2019
   * 2 Mar 2019
@@ -109,11 +126,6 @@
   * 30 Mar 2019
   * 26 Jan 2019
 
-* No Other Name (2010)
-  * 30 Mar 2019
-  * 9 Feb 2019
-  * 29 Dec 2018
-
 * I Stand Amazed
   * 30 Mar 2019
   * 2 Feb 2019
@@ -123,10 +135,6 @@
   * 23 Mar 2019
   * 16 Feb 2019
   * 5 Jan 2019
-
-* By The Cross (1998)
-  * 9 Mar 2019
-  * 12 Jan 2019
 
 * We Belong to the Day (2006)
   * 2 Mar 2019
@@ -138,10 +146,6 @@
 * May the Mind Of Christ
   * 23 Feb 2019
 
-* Hallelujah (2009)
-  * 16 Feb 2019
-  * 5 Jan 2019
-  
 * Our God (2010)
   * 2 Feb 2019
   * 29 Dec 2018
