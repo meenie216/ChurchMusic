@@ -2,6 +2,30 @@
 
 ## This week
 
+* Sooner Count the Stars (2015)
+  * 18 May 2019
+  * 23 Feb 2019
+  * 29 Dec 2018
+
+* The Chorus of the Saved (2015)
+  * 18 May 2019
+  * 13 Apr 2019
+  * 2 Mar 2019
+  * 19 Jan 2019
+
+* When I Survey
+  * 18 May 2019
+  * 20 Apr 2019
+
+* All Creatures of Our God and king
+  * 18 May 2019
+  * 13 Apr 2019
+  * 16 Mar 2019
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+## Previously
+
 * By The Cross (1998)
   * 11 May 2019
   * 9 Mar 2019
@@ -24,8 +48,6 @@
   * 9 Mar 2019
   * 2 Feb 2019
   * 5 Jan 2019
-
-## Previously
 
 * O Come to the Altar (2015)
   * 4 May 2019
@@ -90,23 +112,9 @@
 * Speak O Lord (2005)
   * 20 Apr 2019
 
-* When I Survey
-  * 20 Apr 2019
-
-* The Chorus of the Saved (2015)
-  * 13 Apr 2019
-  * 2 Mar 2019
-  * 19 Jan 2019
-
 * Take My Life
   * 13 Apr 2019
   * 12 Jan 2019
-
-* All Creatures of Our God and king
-  * 13 Apr 2019
-  * 16 Mar 2019
-  * 26 Jan 2019
-  * 22 Dec 2018
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 6 Apr 2019
@@ -138,10 +146,6 @@
 
 * We Belong to the Day (2006)
   * 2 Mar 2019
-
-* Sooner Count the Stars (2015)
-  * 23 Feb 2019
-  * 29 Dec 2018
 
 * May the Mind Of Christ
   * 23 Feb 2019
