@@ -2,6 +2,33 @@
 
 ## This week
 
+* My Lighthouse (2013)
+  * 25 May 2019
+  * 27 Apr 2019
+  * 16 Mar 2019
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 25 May 2019
+  * 6 Apr 2019
+  * 2 Mar 2019
+  * 26 Jan 2019
+  * 1 Dec 2019
+
+* Exalted (2018)
+  * 25 May 2019
+  * 23 Mar 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+
+* Only Your Blood
+  * 25 May 2019
+  * 6 Apr 2019
+  * 9 Feb 2019
+
+## Previously
+
 * Sooner Count the Stars (2015)
   * 18 May 2019
   * 23 Feb 2019
@@ -23,8 +50,6 @@
   * 16 Mar 2019
   * 26 Jan 2019
   * 22 Dec 2018
-
-## Previously
 
 * By The Cross (1998)
   * 11 May 2019
@@ -70,12 +95,6 @@
   * 23 Feb 2019
   * 5 Jan 2019
 
-* My Lighthouse (2013)
-  * 27 Apr 2019
-  * 16 Mar 2019
-  * 26 Jan 2019
-  * 22 Dec 2018
-
 * Rejoice (2013)
   * 27 Apr 2019
   * 30 Mar 2019
@@ -116,16 +135,6 @@
   * 13 Apr 2019
   * 12 Jan 2019
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 6 Apr 2019
-  * 2 Mar 2019
-  * 26 Jan 2019
-  * 1 Dec 2019
-
-* Only Your Blood
-  * 6 Apr 2019
-  * 9 Feb 2019
-
 * Rock of Ages
   * 6 Apr 2019
   * 12 Jan 2019
@@ -138,11 +147,6 @@
   * 30 Mar 2019
   * 2 Feb 2019
   * 15 Dec 2018
-
-* Exalted (2018)
-  * 23 Mar 2019
-  * 16 Feb 2019
-  * 5 Jan 2019
 
 * We Belong to the Day (2006)
   * 2 Mar 2019
