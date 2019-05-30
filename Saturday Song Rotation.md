@@ -2,6 +2,34 @@
 
 ## This week
 
+* Be Thou My Vision
+  * 1 June 2019
+  * 4 May 2019
+  * 23 Mar 2019
+  * 23 Feb 2019
+  * 5 Jan 2019
+
+* Come As You Are (2014)
+  * 1 June 2019
+  * 20 Apr 2019
+  * 2 Mar 2019
+  * 19 Jan 2019
+  * 22 Dec 2018
+
+* Come Thou Fount
+  * 1 June 2019
+  * 27 Apr 2019
+  * 9 Mar 2019
+  * 9 Feb 2019
+
+* O Come to the Altar (2015)
+  * 1 June 2019
+  * 4 May 2019
+  * 6 Apr 2019
+  * 23 Mar 2019
+
+## Previously
+
 * My Lighthouse (2013)
   * 25 May 2019
   * 27 Apr 2019
@@ -26,8 +54,6 @@
   * 25 May 2019
   * 6 Apr 2019
   * 9 Feb 2019
-
-## Previously
 
 * Sooner Count the Stars (2015)
   * 18 May 2019
@@ -74,11 +100,6 @@
   * 2 Feb 2019
   * 5 Jan 2019
 
-* O Come to the Altar (2015)
-  * 4 May 2019
-  * 6 Apr 2019
-  * 23 Mar 2019
-
 * 10,000 Reasons (2011)
   * 4 May 2019
   * 16 Feb 2019
@@ -88,12 +109,6 @@
   * 16 Mar 2019
   * 2 Feb 2019
   * 22 Dec 2018
-
-* Be Thou My Vision
-  * 4 May 2019
-  * 23 Mar 2019
-  * 23 Feb 2019
-  * 5 Jan 2019
 
 * Rejoice (2013)
   * 27 Apr 2019
@@ -108,22 +123,11 @@
   * 12 Jan 2019
   * 15 Dec 2018
 
-* Come Thou Fount
-  * 27 Apr 2019
-  * 9 Mar 2019
-  * 9 Feb 2019
-
 * In His Name ()
   * 27 Apr 2019
   * 16 Mar 2019
   * 19 Jan 2019
   * 15 Dec 2018
-
-* Come As You Are (2014)
-  * 20 Apr 2019
-  * 2 Mar 2019
-  * 19 Jan 2019
-  * 22 Dec 2018
 
 * Behold Our God (2011)
   * 20 Apr 2019
