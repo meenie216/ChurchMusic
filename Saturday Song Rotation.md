@@ -2,6 +2,54 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 15 June 2019
+  * 27 Apr 2019
+  * 30 Mar 2019
+  * 23 Feb 2019
+  * 16 Feb 2019
+
+* Hallelujah (2009)
+  * 15 June 2019
+  * 11 May 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+  
+* All Creatures of Our God and king
+  * 15 June 2019
+  * 18 May 2019
+  * 13 Apr 2019
+  * 16 Mar 2019
+  * 26 Jan 2019
+  * 22 Dec 2018
+
+* Great Are You Lord (2012)
+  * 15 June 2019
+  * 8 June 2019
+
+## Previously
+
+* Grace Alone (2013)
+  * 8 June 2019
+  * 11 May 2019
+  * 13 Apr 2019
+  * 9 Mar 2019
+  * 2 Feb 2019
+  * 5 Jan 2019
+
+* This is Amazing Grace
+  * 8 June 2019
+  * 27 Apr 2019
+  * 23 Mar 2019
+  * 9 Feb 2019
+  * 12 Jan 2019
+  * 15 Dec 2018
+
+* Rock of Ages
+  * 8 June 2019
+  * 6 Apr 2019
+  * 12 Jan 2019
+
 * Be Thou My Vision
   * 1 June 2019
   * 4 May 2019
@@ -27,8 +75,6 @@
   * 4 May 2019
   * 6 Apr 2019
   * 23 Mar 2019
-
-## Previously
 
 * My Lighthouse (2013)
   * 25 May 2019
@@ -70,13 +116,6 @@
   * 18 May 2019
   * 20 Apr 2019
 
-* All Creatures of Our God and king
-  * 18 May 2019
-  * 13 Apr 2019
-  * 16 Mar 2019
-  * 26 Jan 2019
-  * 22 Dec 2018
-
 * By The Cross (1998)
   * 11 May 2019
   * 9 Mar 2019
@@ -88,18 +127,6 @@
   * 9 Feb 2019
   * 29 Dec 2018
 
-* Hallelujah (2009)
-  * 11 May 2019
-  * 16 Feb 2019
-  * 5 Jan 2019
-  
-* Grace Alone (2013)
-  * 11 May 2019
-  * 13 Apr 2019
-  * 9 Mar 2019
-  * 2 Feb 2019
-  * 5 Jan 2019
-
 * 10,000 Reasons (2011)
   * 4 May 2019
   * 16 Feb 2019
@@ -109,19 +136,6 @@
   * 16 Mar 2019
   * 2 Feb 2019
   * 22 Dec 2018
-
-* Rejoice (2013)
-  * 27 Apr 2019
-  * 30 Mar 2019
-  * 23 Feb 2019
-  * 16 Feb 2019
-
-* This is Amazing Grace
-  * 27 Apr 2019
-  * 23 Mar 2019
-  * 9 Feb 2019
-  * 12 Jan 2019
-  * 15 Dec 2018
 
 * In His Name ()
   * 27 Apr 2019
@@ -137,10 +151,6 @@
 
 * Take My Life
   * 13 Apr 2019
-  * 12 Jan 2019
-
-* Rock of Ages
-  * 6 Apr 2019
   * 12 Jan 2019
 
 * Jesus Messiah ()
