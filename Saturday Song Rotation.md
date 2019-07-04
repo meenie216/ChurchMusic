@@ -2,6 +2,33 @@
 
 ## This week
 
+* Only Your Blood
+  * 29 June 2019
+  * 25 May 2019
+  * 6 Apr 2019
+  * 9 Feb 2019
+
+* O Come to the Altar (2015)
+  * 29 June 2019
+  * 1 June 2019
+  * 4 May 2019
+  * 6 Apr 2019
+  * 23 Mar 2019
+
+* When I Survey
+  * 29 June 2019
+  * 18 May 2019
+  * 20 Apr 2019
+
+* No Other Name (2010)
+  * 29 June 2019
+  * 11 May 2019
+  * 30 Mar 2019
+  * 9 Feb 2019
+  * 29 Dec 2018
+
+## Previously
+
 * My Lighthouse (2013)
   * 22 Jun 2019
   * 25 May 2019
@@ -29,8 +56,6 @@
   * 16 Mar 2019
   * 2 Feb 2019
   * 22 Dec 2018
-
-## Previously
 
 * Rejoice (2013)
   * 15 June 2019
@@ -98,22 +123,11 @@
   * 9 Mar 2019
   * 9 Feb 2019
 
-* O Come to the Altar (2015)
-  * 1 June 2019
-  * 4 May 2019
-  * 6 Apr 2019
-  * 23 Mar 2019
-
 * Exalted (2018)
   * 25 May 2019
   * 23 Mar 2019
   * 16 Feb 2019
   * 5 Jan 2019
-
-* Only Your Blood
-  * 25 May 2019
-  * 6 Apr 2019
-  * 9 Feb 2019
 
 * Sooner Count the Stars (2015)
   * 18 May 2019
@@ -126,20 +140,10 @@
   * 2 Mar 2019
   * 19 Jan 2019
 
-* When I Survey
-  * 18 May 2019
-  * 20 Apr 2019
-
 * By The Cross (1998)
   * 11 May 2019
   * 9 Mar 2019
   * 12 Jan 2019
-
-* No Other Name (2010)
-  * 11 May 2019
-  * 30 Mar 2019
-  * 9 Feb 2019
-  * 29 Dec 2018
 
 * 10,000 Reasons (2011)
   * 4 May 2019
