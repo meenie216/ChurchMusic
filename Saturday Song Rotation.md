@@ -21,6 +21,7 @@
   * 5 Jan 2019
 
 * Come As You Are (2014)
+  * 10 Aug 2019
   * 6 July 2019
   * 1 June 2019
   * 20 Apr 2019
@@ -29,7 +30,7 @@
   * 22 Dec 2018
 
 * I Will Trust You in the Darkness
-  * 6 July 2019
+  * 10 Aug 2019
 
 ## Previously
 
