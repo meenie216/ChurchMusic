@@ -2,6 +2,49 @@
 
 ## This week
 
+* No Other Name (2010)
+  * 16 Nov 2019
+  * 5 Oct 2019
+  * 7 Sept 2019
+  * 29 June 2019
+  * 11 May 2019
+  * 30 Mar 2019
+  * 9 Feb 2019
+  * 29 Dec 2018
+
+* Rejoice (2013)
+  * 16 Nov 2019
+  * 21 Sep 2019
+  * 24 Aug 2019
+  * 13 July 2019
+  * 15 June 2019
+  * 27 Apr 2019
+  * 30 Mar 2019
+  * 23 Feb 2019
+  * 16 Feb 2019
+
+* Hallelujah (2009)
+  * 16 Nov 2019
+  * 28 Sep 2019
+  * 30 Aug 2019
+  * 29 July 2019
+  * 15 June 2019
+  * 11 May 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+  
+* Be Thou My Vision
+  * 16 Nov 2019
+  * 10 Aug 2019
+  * 13 July 2019
+  * 1 June 2019
+  * 4 May 2019
+  * 23 Mar 2019
+  * 23 Feb 2019
+  * 5 Jan 2019
+
+## Previously
+
 * Grace Alone (2013)
   * 9 Nov 2019
   * 26 Oct 2019
@@ -42,8 +85,6 @@
   * 13 Apr 2019
   * 2 Mar 2019
   * 19 Jan 2019
-
-## Previously
 
 * All Creatures of Our God and king
   * 2 Nov 2019
@@ -131,15 +172,6 @@
   * 6 Apr 2019
   * 9 Feb 2019
 
-* No Other Name (2010)
-  * 5 Oct 2019
-  * 7 Sept 2019
-  * 29 June 2019
-  * 11 May 2019
-  * 30 Mar 2019
-  * 9 Feb 2019
-  * 29 Dec 2018
-
 * Show Us Christ (2011)
   * 5 Oct 2019
   * 15 Dec 2018
@@ -152,15 +184,6 @@
   * 19 Jan 2019
   * 15 Dec 2018
 
-* Hallelujah (2009)
-  * 28 Sep 2019
-  * 30 Aug 2019
-  * 29 July 2019
-  * 15 June 2019
-  * 11 May 2019
-  * 16 Feb 2019
-  * 5 Jan 2019
-  
 * I Stand Amazed
   * 21 Sep 2019
   * 29 July 2019
@@ -173,16 +196,6 @@
   * 18 May 2019
   * 23 Feb 2019
   * 29 Dec 2018
-
-* Rejoice (2013)
-  * 21 Sep 2019
-  * 24 Aug 2019
-  * 13 July 2019
-  * 15 June 2019
-  * 27 Apr 2019
-  * 30 Mar 2019
-  * 23 Feb 2019
-  * 16 Feb 2019
 
 * How Great You Are (2012)
   * 14 Sep 2019
@@ -210,15 +223,6 @@
 
 * Come Lord (2007)
   * 10 Aug 2019
-
-* Be Thou My Vision
-  * 10 Aug 2019
-  * 13 July 2019
-  * 1 June 2019
-  * 4 May 2019
-  * 23 Mar 2019
-  * 23 Feb 2019
-  * 5 Jan 2019
 
 * I Will Trust You in the Darkness
   * 10 Aug 2019
