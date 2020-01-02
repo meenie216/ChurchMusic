@@ -2,6 +2,39 @@
 
 ## This week
 
+* In His Name ()
+  * 30 Nov 2019
+  * 28 Sep 2019
+  * 13 July 2019
+  * 27 Apr 2019
+  * 16 Mar 2019
+  * 19 Jan 2019
+  * 15 Dec 2018
+
+* Rock of Ages
+  * 3 Aug 2019
+  * 8 June 2019
+  * 6 Apr 2019
+  * 12 Jan 2019
+
+* Never Alone (2006)
+  * 17 Aug 2019
+  * 19 Jan 2019
+
+* O Come to the Altar (2015)
+  * 30 Nov 2019
+  * 26 Oct 2019
+  * 14 Sep 2019
+  * 17 Aug 2019
+  * 20 July 2019
+  * 29 June 2019
+  * 1 June 2019
+  * 4 May 2019
+  * 6 Apr 2019
+  * 23 Mar 2019
+
+## Previously
+
 * Come As You Are (2014)
   * 28 Dec 2019
   * 30 Nov 2019
@@ -43,8 +76,6 @@
   * 9 Mar 2019
   * 2 Feb 2019
   * 5 Jan 2019
-
-## Previously
 
 * Rejoice (2013)
   * 21 Dec 2019
@@ -131,27 +162,6 @@
   * 16 Mar 2019
   * 26 Jan 2019
   * 22 Dec 2018
-
-* In His Name ()
-  * 30 Nov 2019
-  * 28 Sep 2019
-  * 13 July 2019
-  * 27 Apr 2019
-  * 16 Mar 2019
-  * 19 Jan 2019
-  * 15 Dec 2018
-
-* O Come to the Altar (2015)
-  * 30 Nov 2019
-  * 26 Oct 2019
-  * 14 Sep 2019
-  * 17 Aug 2019
-  * 20 July 2019
-  * 29 June 2019
-  * 1 June 2019
-  * 4 May 2019
-  * 6 Apr 2019
-  * 23 Mar 2019
 
 * Only Your Blood
   * 23 Nov 2019
@@ -254,10 +264,6 @@
   * 7 Sept 2019
   * 20 Apr 2019
 
-* Never Alone (2006)
-  * 17 Aug 2019
-  * 19 Jan 2019
-
 * Come Thou Fount
   * 17 Aug 2019
   * 1 June 2019
@@ -276,12 +282,6 @@
   * 29 June 2019
   * 18 May 2019
   * 20 Apr 2019
-
-* Rock of Ages
-  * 3 Aug 2019
-  * 8 June 2019
-  * 6 Apr 2019
-  * 12 Jan 2019
 
 * By The Cross (1998)
   * 11 May 2019
