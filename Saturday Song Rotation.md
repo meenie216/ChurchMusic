@@ -2,7 +2,41 @@
 
 ## This week
 
+* The Chorus of the Saved (2015)
+  * 11 Jan 2020
+  * 9 Nov 2019
+  * 30 Aug 2019
+  * 6 July 2019
+  * 18 May 2019
+  * 13 Apr 2019
+  * 2 Mar 2019
+  * 19 Jan 2019
+
+* I Stand Amazed
+  * 11 Jan 2020
+  * 21 Sep 2019
+  * 29 July 2019
+  * 30 Mar 2019
+  * 2 Feb 2019
+  * 15 Dec 2018
+
+* Only A Holy God (2016)
+  * 11 Jan 2020
+
+* Great Are You Lord (2012)
+  * 11 Jan 2020
+  * 14 Dec 2019
+  * 2 Nov 2019
+  * 28 Sep 2019
+  * 30 Aug 2019
+  * 3 Aug 2019
+  * 15 June 2019
+  * 8 June 2019
+
+## Previously
+
 * In His Name ()
+  * 4 Jan 2020
   * 30 Nov 2019
   * 28 Sep 2019
   * 13 July 2019
@@ -12,16 +46,19 @@
   * 15 Dec 2018
 
 * Rock of Ages
+  * 4 Jan 2020
   * 3 Aug 2019
   * 8 June 2019
   * 6 Apr 2019
   * 12 Jan 2019
 
 * Never Alone (2006)
+  * 4 Jan 2020
   * 17 Aug 2019
   * 19 Jan 2019
 
 * O Come to the Altar (2015)
+  * 4 Jan 2020
   * 30 Nov 2019
   * 26 Oct 2019
   * 14 Sep 2019
@@ -32,8 +69,6 @@
   * 4 May 2019
   * 6 Apr 2019
   * 23 Mar 2019
-
-## Previously
 
 * Come As You Are (2014)
   * 28 Dec 2019
@@ -144,15 +179,6 @@
   * 26 Jan 2019
   * 1 Dec 2019
 
-* Great Are You Lord (2012)
-  * 14 Dec 2019
-  * 2 Nov 2019
-  * 28 Sep 2019
-  * 30 Aug 2019
-  * 3 Aug 2019
-  * 15 June 2019
-  * 8 June 2019
-
 * My Lighthouse (2013)
   * 30 Nov 2019
   * 26 Oct 2019
@@ -210,15 +236,6 @@
   * 30 Mar 2019
   * 26 Jan 2019
 
-* The Chorus of the Saved (2015)
-  * 9 Nov 2019
-  * 30 Aug 2019
-  * 6 July 2019
-  * 18 May 2019
-  * 13 Apr 2019
-  * 2 Mar 2019
-  * 19 Jan 2019
-
 * Exalted (2018)
   * 2 Nov 2019
   * 14 Sep 2019
@@ -237,13 +254,6 @@
 * Crown Him With Many Crowns
   * 12 Oct 2019
   * 20 July 2019
-
-* I Stand Amazed
-  * 21 Sep 2019
-  * 29 July 2019
-  * 30 Mar 2019
-  * 2 Feb 2019
-  * 15 Dec 2018
 
 * Sooner Count the Stars (2015)
   * 21 Sep 2019
