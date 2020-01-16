@@ -2,6 +2,54 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 18 Jan 2020
+  * 14 Dec 2019
+  * 9 Nov 2019
+  * 5 Oct 2019
+  * 17 Aug 2019
+  * 20 July 2019
+  * 22 Jun 2019
+  * 25 May 2019
+  * 6 Apr 2019
+  * 2 Mar 2019
+  * 26 Jan 2019
+  * 1 Dec 2019
+
+* How Great You Are (2012)
+  * 18 Jan 2020
+  * 14 Sep 2019
+  * 29 July 2019
+  * 22 Jun 2019
+  * 4 May 2019
+  * 16 Mar 2019
+  * 2 Feb 2019
+  * 22 Dec 2018
+
+* Hallelujah (2009)
+  * 18 Jan 2020
+  * 16 Nov 2019
+  * 28 Sep 2019
+  * 30 Aug 2019
+  * 29 July 2019
+  * 15 June 2019
+  * 11 May 2019
+  * 16 Feb 2019
+  * 5 Jan 2019
+  
+* Be Thou My Vision
+  * 18 Jan 2020
+  * 16 Nov 2019
+  * 10 Aug 2019
+  * 13 July 2019
+  * 1 June 2019
+  * 4 May 2019
+  * 23 Mar 2019
+  * 23 Feb 2019
+  * 5 Jan 2019
+
+## Previously
+
 * The Chorus of the Saved (2015)
   * 11 Jan 2020
   * 9 Nov 2019
@@ -32,8 +80,6 @@
   * 3 Aug 2019
   * 15 June 2019
   * 8 June 2019
-
-## Previously
 
 * In His Name ()
   * 4 Jan 2020
@@ -166,19 +212,6 @@
   * 14 Dec 2019
   * 1 Dec 2018
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 14 Dec 2019
-  * 9 Nov 2019
-  * 5 Oct 2019
-  * 17 Aug 2019
-  * 20 July 2019
-  * 22 Jun 2019
-  * 25 May 2019
-  * 6 Apr 2019
-  * 2 Mar 2019
-  * 26 Jan 2019
-  * 1 Dec 2019
-
 * My Lighthouse (2013)
   * 30 Nov 2019
   * 26 Oct 2019
@@ -208,26 +241,6 @@
 * We Belong to the Day (2006)
   * 23 Nov 2019
   * 2 Mar 2019
-
-* Hallelujah (2009)
-  * 16 Nov 2019
-  * 28 Sep 2019
-  * 30 Aug 2019
-  * 29 July 2019
-  * 15 June 2019
-  * 11 May 2019
-  * 16 Feb 2019
-  * 5 Jan 2019
-  
-* Be Thou My Vision
-  * 16 Nov 2019
-  * 10 Aug 2019
-  * 13 July 2019
-  * 1 June 2019
-  * 4 May 2019
-  * 23 Mar 2019
-  * 23 Feb 2019
-  * 5 Jan 2019
 
 * Jesus Messiah ()
   * 9 Nov 2019
@@ -260,15 +273,6 @@
   * 18 May 2019
   * 23 Feb 2019
   * 29 Dec 2018
-
-* How Great You Are (2012)
-  * 14 Sep 2019
-  * 29 July 2019
-  * 22 Jun 2019
-  * 4 May 2019
-  * 16 Mar 2019
-  * 2 Feb 2019
-  * 22 Dec 2018
 
 * Speak O Lord (2005)
   * 7 Sept 2019
@@ -307,7 +311,6 @@
 * Our God (2010)
   * 2 Feb 2019
   * 29 Dec 2018
-
 
 ## Off Rotation
 
