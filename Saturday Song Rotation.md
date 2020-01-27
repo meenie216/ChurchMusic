@@ -2,6 +2,24 @@
 
 ## This week
 
+## Previously
+
+* Grace Alone (2013)
+  * 25 Jan 2020
+  * 28 Dec 2019
+
+* Only A Holy God (2016)
+  * 25 Jan 2020
+  * 11 Jan 2020
+
+* Exalted (2018)
+  * 25 Jan 2020
+  * 2 Nov 2019
+
+* Only Your Blood
+  * 25 Jan 2020
+  * 23 Nov 2019
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 18 Jan 2020
 
@@ -14,15 +32,10 @@
 * Be Thou My Vision
   * 18 Jan 2020
 
-## Previously
-
 * The Chorus of the Saved (2015)
   * 11 Jan 2020
 
 * I Stand Amazed
-  * 11 Jan 2020
-
-* Only A Holy God (2016)
   * 11 Jan 2020
 
 * Great Are You Lord (2012)
@@ -46,9 +59,6 @@
 * No Other Name (2010)
   * 28 Dec 2019
 
-* Grace Alone (2013)
-  * 28 Dec 2019
-
 * Rejoice (2013)
   * 21 Dec 2019
 
@@ -64,14 +74,8 @@
 * My Lighthouse (2013)
   * 30 Nov 2019
 
-* Only Your Blood
-  * 23 Nov 2019
-
 * Jesus Messiah ()
   * 9 Nov 2019
-
-* Exalted (2018)
-  * 2 Nov 2019
 
 * Crown Him With Many Crowns
   * 12 Oct 2019
