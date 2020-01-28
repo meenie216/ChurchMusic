@@ -2,6 +2,22 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 1 Feb 2020
+  * 21 Dec 2019
+
+* No Other Name (2010)
+  * 1 Feb 2020
+  * 28 Dec 2019
+
+* Come Thou Fount
+  * 1 Feb 2020
+  * 17 Aug 2019
+
+* All Creatures of Our God and king
+  * 1 Feb 2020
+  * 21 Dec 2019
+
 ## Previously
 
 * Grace Alone (2013)
@@ -56,16 +72,7 @@
 * Come As You Are (2014)
   * 28 Dec 2019
 
-* No Other Name (2010)
-  * 28 Dec 2019
-
-* Rejoice (2013)
-  * 21 Dec 2019
-
 * This is Amazing Grace
-  * 21 Dec 2019
-
-* All Creatures of Our God and king
   * 21 Dec 2019
 
 * 10,000 Reasons (2011)
@@ -79,9 +86,6 @@
 
 * Crown Him With Many Crowns
   * 12 Oct 2019
-
-* Come Thou Fount
-  * 17 Aug 2019
 
 * Come Lord (2007)
   * 10 Aug 2019
