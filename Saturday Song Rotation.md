@@ -2,6 +2,21 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 8 Feb 2020
+
+* In His Name ()
+  * 8 Feb 2020
+  * 4 Jan 2020
+
+* Jesus Messiah ()
+  * 8 Feb 2020
+
+* Come As You Are (2014)
+  * 28 Dec 2019
+
+## Previously
+
 * Rejoice (2013)
   * 1 Feb 2020
   * 21 Dec 2019
@@ -17,8 +32,6 @@
 * All Creatures of Our God and king
   * 1 Feb 2020
   * 21 Dec 2019
-
-## Previously
 
 * Grace Alone (2013)
   * 25 Jan 2020
@@ -57,9 +70,6 @@
 * Great Are You Lord (2012)
   * 11 Jan 2020
 
-* In His Name ()
-  * 4 Jan 2020
-
 * Rock of Ages
   * 4 Jan 2020
 
@@ -69,20 +79,11 @@
 * O Come to the Altar (2015)
   * 4 Jan 2020
 
-* Come As You Are (2014)
-  * 28 Dec 2019
-
-* This is Amazing Grace
-  * 21 Dec 2019
-
 * 10,000 Reasons (2011)
   * 14 Dec 2019
 
 * My Lighthouse (2013)
   * 30 Nov 2019
-
-* Jesus Messiah ()
-  * 9 Nov 2019
 
 * Crown Him With Many Crowns
   * 12 Oct 2019
@@ -126,9 +127,6 @@
 
 * Sooner Count the Stars (2015)
   * 21 Sep 2019
-  * 18 May 2019
-  * 23 Feb 2019
-  * 29 Dec 2018
 
 * Speak O Lord (2005)
   * 7 Sept 2019
