@@ -2,20 +2,82 @@
 
 ## This week
 
-* This is Amazing Grace
-  * 8 Feb 2020
+* All Creatures of Our God and king
+  * 7 Mar 2020
+  * 1 Feb 2020
+  * 21 Dec 2019
 
-* In His Name ()
-  * 8 Feb 2020
-  * 4 Jan 2020
+* 10,000 Reasons (2011)
+  * 7 Mar 2020
+  * 14 Dec 2019
 
-* Jesus Messiah ()
-  * 8 Feb 2020
+* When I Survey
+  * 7 Mar 2020
+  * 3 Aug 2019
 
 * Come As You Are (2014)
+  * 7 Mar 2020
   * 8 Feb 2020
 
 ## Previously
+
+* The Chorus of the Saved (2015)
+  * 29 Feb 2020
+  * 11 Jan 2020
+
+* Only Your Blood
+  * 29 Feb 2020
+  * 25 Jan 2020
+  * 23 Nov 2019
+
+* Be Thou My Vision
+  * 29 Feb 2020
+  * 18 Jan 2020
+
+* O Come to the Altar (2015)
+  * 29 Feb 2020
+  * 4 Jan 2020
+
+* My Lighthouse (2013)
+  * 22 Feb 2020
+  * 30 Nov 2019
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 22 Feb 2020
+  * 18 Jan 2020
+
+* Hallelujah (2009)
+  * 22 Feb 2020
+  * 18 Jan 2020
+  
+* Great Are You Lord (2012)
+  * 22 Feb 2020
+  * 11 Jan 2020
+
+* Grace Alone (2013)
+  * 15 Feb 2020
+  * 25 Jan 2020
+  * 28 Dec 2019
+
+* In His Name ()
+  * 15 Feb 2020
+  * 8 Feb 2020
+  * 4 Jan 2020
+
+* Hallelujah (2009)
+  * 22 Feb 2020
+  * 15 Feb 2020
+  * 18 Jan 2020
+  
+* Rock of Ages
+  * 15 Feb 2020
+  * 4 Jan 2020
+
+* This is Amazing Grace
+  * 8 Feb 2020
+
+* Jesus Messiah ()
+  * 8 Feb 2020
 
 * Rejoice (2013)
   * 1 Feb 2020
@@ -29,14 +91,6 @@
   * 1 Feb 2020
   * 17 Aug 2019
 
-* All Creatures of Our God and king
-  * 1 Feb 2020
-  * 21 Dec 2019
-
-* Grace Alone (2013)
-  * 25 Jan 2020
-  * 28 Dec 2019
-
 * Only A Holy God (2016)
   * 25 Jan 2020
   * 11 Jan 2020
@@ -45,29 +99,10 @@
   * 25 Jan 2020
   * 2 Nov 2019
 
-* Only Your Blood
-  * 25 Jan 2020
-  * 23 Nov 2019
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 18 Jan 2020
-
 * How Great You Are (2012)
   * 18 Jan 2020
 
-* Hallelujah (2009)
-  * 18 Jan 2020
-  
-* Be Thou My Vision
-  * 18 Jan 2020
-
-* The Chorus of the Saved (2015)
-  * 11 Jan 2020
-
 * I Stand Amazed
-  * 11 Jan 2020
-
-* Great Are You Lord (2012)
   * 11 Jan 2020
 
 * Rock of Ages
@@ -76,23 +111,11 @@
 * Never Alone (2006)
   * 4 Jan 2020
 
-* O Come to the Altar (2015)
-  * 4 Jan 2020
-
-* 10,000 Reasons (2011)
-  * 14 Dec 2019
-
-* My Lighthouse (2013)
-  * 30 Nov 2019
-
 * Crown Him With Many Crowns
   * 12 Oct 2019
 
 * Come Lord (2007)
   * 10 Aug 2019
-
-* When I Survey
-  * 3 Aug 2019
 
 ## Off Rotation
 
