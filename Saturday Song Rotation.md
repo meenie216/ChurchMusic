@@ -2,6 +2,26 @@
 
 ## This week
 
+* How Great You Are (2012)
+  * 14 Mar 2020
+  * 18 Jan 2020
+
+* Come Thou Fount
+  * 14 Mar 2020
+  * 1 Feb 2020
+  * 17 Aug 2019
+
+* Jesus Messiah ()
+  * 14 Mar 2020
+  * 8 Feb 2020
+
+* Rejoice (2013)
+  * 14 Mar 2020
+  * 1 Feb 2020
+  * 21 Dec 2019
+
+## Previously
+
 * All Creatures of Our God and king
   * 7 Mar 2020
   * 1 Feb 2020
@@ -18,8 +38,6 @@
 * Come As You Are (2014)
   * 7 Mar 2020
   * 8 Feb 2020
-
-## Previously
 
 * The Chorus of the Saved (2015)
   * 29 Feb 2020
@@ -76,20 +94,9 @@
 * This is Amazing Grace
   * 8 Feb 2020
 
-* Jesus Messiah ()
-  * 8 Feb 2020
-
-* Rejoice (2013)
-  * 1 Feb 2020
-  * 21 Dec 2019
-
 * No Other Name (2010)
   * 1 Feb 2020
   * 28 Dec 2019
-
-* Come Thou Fount
-  * 1 Feb 2020
-  * 17 Aug 2019
 
 * Only A Holy God (2016)
   * 25 Jan 2020
@@ -98,9 +105,6 @@
 * Exalted (2018)
   * 25 Jan 2020
   * 2 Nov 2019
-
-* How Great You Are (2012)
-  * 18 Jan 2020
 
 * I Stand Amazed
   * 11 Jan 2020
