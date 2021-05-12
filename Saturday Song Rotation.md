@@ -2,184 +2,122 @@
 
 ## This week
 
-* How Great You Are (2012)
-  * 14 Mar 2020
-  * 18 Jan 2020
-
-* Come Thou Fount
-  * 14 Mar 2020
-  * 1 Feb 2020
-  * 17 Aug 2019
-
-* Jesus Messiah ()
-  * 14 Mar 2020
-  * 8 Feb 2020
-
 * Rejoice (2013)
-  * 14 Mar 2020
-  * 1 Feb 2020
-  * 21 Dec 2019
+  * 15 May 2021
+  * 11 Apr 2021
+
+* The Chorus of the Saved (2015)
+  * 15 May 2021
+  * 4 Apr 2021
 
 ## Previously
 
-* All Creatures of Our God and king
-  * 7 Mar 2020
-  * 1 Feb 2020
-  * 21 Dec 2019
-
-* 10,000 Reasons (2011)
-  * 7 Mar 2020
-  * 14 Dec 2019
-
-* When I Survey
-  * 7 Mar 2020
-  * 3 Aug 2019
-
-* Come As You Are (2014)
-  * 7 Mar 2020
-  * 8 Feb 2020
-
-* The Chorus of the Saved (2015)
-  * 29 Feb 2020
-  * 11 Jan 2020
-
-* Only Your Blood
-  * 29 Feb 2020
-  * 25 Jan 2020
-  * 23 Nov 2019
-
-* Be Thou My Vision
-  * 29 Feb 2020
-  * 18 Jan 2020
-
-* O Come to the Altar (2015)
-  * 29 Feb 2020
-  * 4 Jan 2020
-
-* My Lighthouse (2013)
-  * 22 Feb 2020
-  * 30 Nov 2019
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 22 Feb 2020
-  * 18 Jan 2020
-
-* Hallelujah (2009)
-  * 22 Feb 2020
-  * 18 Jan 2020
-  
-* Great Are You Lord (2012)
-  * 22 Feb 2020
-  * 11 Jan 2020
+* No Other Name (2010)
+  * 8 May 2021
 
 * Grace Alone (2013)
-  * 15 Feb 2020
-  * 25 Jan 2020
-  * 28 Dec 2019
+  * 8 May 2021
+  * 7 Mar 2021
+
+* Come As You Are (2014)
+  * 1 May 2021
+  * 28 Mar 2021
+
+* Where Else? (2007)
+  * 1 May 2021
+  
+* *Sooner Count the Stars* (2015)
+  * 25 Apr 2021
+
+* *Before the Throne*
+  * 25 Apr 2021
+
+* O Come to the Altar (2015)
+  * 18 Apr 2021
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 18 Apr 2021
 
 * In His Name ()
-  * 15 Feb 2020
-  * 8 Feb 2020
-  * 4 Jan 2020
+  * 11 Apr 2021
+  * 28 Feb 2021
 
-* Hallelujah (2009)
-  * 22 Feb 2020
-  * 15 Feb 2020
-  * 18 Jan 2020
-  
-* Rock of Ages
-  * 15 Feb 2020
-  * 4 Jan 2020
-
-* This is Amazing Grace
-  * 8 Feb 2020
-
-* No Other Name (2010)
-  * 1 Feb 2020
-  * 28 Dec 2019
-
-* Only A Holy God (2016)
-  * 25 Jan 2020
-  * 11 Jan 2020
+* Jesus Messiah ()
+  * 4 Apr 2021
 
 * Exalted (2018)
-  * 25 Jan 2020
-  * 2 Nov 2019
+  * 4 Apr 2021
+
+* Only Your Blood
+  * 28 Mar 2021
 
 * I Stand Amazed
-  * 11 Jan 2020
+  * 7 Mar 2021
 
+* How Great You Are (2012)
+  * 28 Feb 2021
+
+* Come Thou Fount
+
+* All Creatures of Our God and King
+
+* 10,000 Reasons (2011)
+
+* When I Survey
+
+* Be Thou My Vision
+
+* My Lighthouse (2013)
+
+* Hallelujah (2009)
+  
+* Great Are You Lord (2012)
+
+* Hallelujah (2009)
+  
 * Rock of Ages
-  * 4 Jan 2020
+
+* This is Amazing Grace
+
+* Only A Holy God (2016)
 
 * Never Alone (2006)
-  * 4 Jan 2020
 
 * Crown Him With Many Crowns
-  * 12 Oct 2019
 
 * Come Lord (2007)
-  * 10 Aug 2019
 
 ## Off Rotation
 
 * Holy (2011)
-  * 28 Dec 2019
-  * 29 Dec 2018
 
 * Show Us Christ (2011)
-  * 21 Dec 2019
-  * 5 Oct 2019
-  * 15 Dec 2018
 
 * He Shall Reign (2015)
-  * 14 Dec 2019
-  * 1 Dec 2018
 
 * Blessed Be Your Name
-  * 23 Nov 2019
 
-* Where Else? (2007)
-  * 23 Nov 2019
-  
 * We Belong to the Day (2006)
-  * 23 Nov 2019
-  * 2 Mar 2019
 
 * Take My Life
-  * 26 Oct 2019
-  * 22 Jun 2019
-  * 13 Apr 2019
-  * 12 Jan 2019
-
-* Sooner Count the Stars (2015)
-  * 21 Sep 2019
 
 * Speak O Lord (2005)
-  * 7 Sept 2019
-  * 20 Apr 2019
 
 * I Will Trust You in the Darkness
-  * 10 Aug 2019
 
 * By The Cross (1998)
-  * 11 May 2019
 
 * Behold Our God (2011)
-  * 20 Apr 2019
 
 * May the Mind Of Christ
-  * 23 Feb 2019
 
 * Our God (2010)
-  * 2 Feb 2019
 
 * Create In Me a Clean Heart
 
 * Jesus, Thank You (2003)
 
 * Highest Place (1998)
-  * 28 July 2018
 
 * It Is Well With My Soul
 

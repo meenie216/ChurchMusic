@@ -3,30 +3,24 @@
 ## Keys
 
 - Bel Balhatchet
-- Ruth Barry
+- Lauren Askew
 - Andrew Petty
 - Jenn Phillips
-- Sarah Skuthorpe
-- ~~Pat Arthur~~
 
 ## Guitar
 
 - Andrew Petty
-- David Mutch
 - Matt Nicholls
 
 ## Bass
 
-- ~~Craig Schwarze~~
 - Andrew Petty
-- Sarah Skuthorpe
 
 ## Drums
 
 - Brett Flower
 - Daniel Hancock
-- David Mutch
-- ~~Stephen Shearsby~~
+- Scott Balhatchet
 
 ## Other
 
@@ -37,15 +31,12 @@
 ### Female
 
 - Bel Balhatchet
-- Jen Dosetto
-- Justine Mutch
-- ~~Rachel Ware~~
 - Maddie Winton
-- ~~Amelia Schwarze~~
+- Lauren Askew
 
 ### Male
 
 - Paul Johnston
-- ~~Norman Lee~~
 - Matt Nicholls
 - Aidan Stanton
+- Sean Balhatchet
