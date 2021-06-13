@@ -2,10 +2,23 @@
 
 ## This week
 
+## Previously
+
 * Only Your Blood
-  * 5 June 2021
+  * 12 June 2021
   * 29 May 2021
   * 28 Mar 2021
+
+* No Other Name (2010)
+  * 12 June 2021
+  * 8 May 2021
+
+* Rejoice (2013)
+  * 15 May 2021
+  * 11 Apr 2021
+
+* My Lighthouse (2013)
+  * 5 June 2021
 
 * Come As You Are (2014)
   * 5 June 2021
@@ -15,8 +28,6 @@
 * Amazing Grace (My Chains are Gone) (2006)
   * 5 June 2021
   * 18 Apr 2021
-
-## Previously
 
 * Yet Not I But Through Christ In Me
   * 29 May 2021
@@ -31,16 +42,9 @@
     * 22 May 2021
     * 18 Apr 2021
 
-* Rejoice (2013)
-  * 15 May 2021
-  * 11 Apr 2021
-
 * The Chorus of the Saved (2015)
   * 15 May 2021
   * 4 Apr 2021
-
-* No Other Name (2010)
-  * 8 May 2021
 
 * Grace Alone (2013)
   * 8 May 2021
@@ -78,8 +82,6 @@
 * When I Survey
 
 * Be Thou My Vision
-
-* My Lighthouse (2013)
 
 * Hallelujah (2009)
   
