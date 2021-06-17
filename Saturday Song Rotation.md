@@ -2,6 +2,20 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 19 June 2021
+  * 8 May 2021
+  * 7 Mar 2021
+
+* O Come to the Altar (2015)
+  * 19 June 2021
+  * 22 May 2021
+  * 18 Apr 2021
+
+* Jesus Messiah ()
+  * 19 June 2021
+  * 4 Apr 2021
+
 ## Previously
 
 * Only Your Blood
@@ -38,17 +52,9 @@
 * This is Amazing Grace
   * 22 May 2021
 
-* O Come to the Altar (2015)
-    * 22 May 2021
-    * 18 Apr 2021
-
 * The Chorus of the Saved (2015)
   * 15 May 2021
   * 4 Apr 2021
-
-* Grace Alone (2013)
-  * 8 May 2021
-  * 7 Mar 2021
 
 * Where Else? (2007)
   * 1 May 2021
@@ -62,9 +68,6 @@
 * In His Name ()
   * 11 Apr 2021
   * 28 Feb 2021
-
-* Jesus Messiah ()
-  * 4 Apr 2021
 
 * Exalted (2018)
   * 4 Apr 2021
