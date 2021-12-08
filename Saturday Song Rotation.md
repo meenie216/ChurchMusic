@@ -2,21 +2,68 @@
 
 ## This week
 
-* Grace Alone (2013)
-  * 19 June 2021
-  * 8 May 2021
-  * 7 Mar 2021
+* This is Amazing Grace
+  * 27 Nov 2021
+  * 22 May 2021
+
+* Great Are You Lord (2012)
+  * 27 Nov 2021
+
+* Be Thou My Vision
+  * 27 Nov 2021
 
 * O Come to the Altar (2015)
+  * 20 Nov 2021
   * 19 June 2021
   * 22 May 2021
   * 18 Apr 2021
 
+* Rock of Ages
+  * 20 Nov 2021
+
+* Grace Alone (2013)
+  * 20 Nov 2021
+  * 19 June 2021
+  * 8 May 2021
+  * 7 Mar 2021
+
+* Rejoice (2013)
+  * 13 Nov 2021
+  * 15 May 2021
+  * 11 Apr 2021
+
+* All Creatures of Our God and King
+  * 13 Nov 2021
+  * 29 May 2021
+
+* Yet Not I But Through Christ In Me
+  * 13 Nov 2021
+  * 29 May 2021
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 6 Nov 2021
+  * 5 June 2021
+  * 18 Apr 2021
+
+* The Chorus of the Saved (2015)
+  * 6 Nov 2021
+  * 15 May 2021
+  * 4 Apr 2021
+
+* Come As You Are (2014)
+  * 30 Oct 2021
+  * 5 June 2021
+  * 1 May 2021
+  * 28 Mar 2021
+
+* 10,000 Reasons (2011)
+  * 30 Oct 2021
+
+## Previously
+
 * Jesus Messiah ()
   * 19 June 2021
   * 4 Apr 2021
-
-## Previously
 
 * Only Your Blood
   * 12 June 2021
@@ -27,34 +74,8 @@
   * 12 June 2021
   * 8 May 2021
 
-* Rejoice (2013)
-  * 15 May 2021
-  * 11 Apr 2021
-
 * My Lighthouse (2013)
   * 5 June 2021
-
-* Come As You Are (2014)
-  * 5 June 2021
-  * 1 May 2021
-  * 28 Mar 2021
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 5 June 2021
-  * 18 Apr 2021
-
-* Yet Not I But Through Christ In Me
-  * 29 May 2021
-
-* All Creatures of Our God and King
-  * 29 May 2021
-
-* This is Amazing Grace
-  * 22 May 2021
-
-* The Chorus of the Saved (2015)
-  * 15 May 2021
-  * 4 Apr 2021
 
 * Where Else? (2007)
   * 1 May 2021
@@ -80,20 +101,12 @@
 
 * Come Thou Fount
 
-* 10,000 Reasons (2011)
-
 * When I Survey
 
-* Be Thou My Vision
-
 * Hallelujah (2009)
   
-* Great Are You Lord (2012)
-
 * Hallelujah (2009)
   
-* Rock of Ages
-
 * Only A Holy God (2016)
 
 * Never Alone (2006)
