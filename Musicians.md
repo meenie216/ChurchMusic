@@ -11,10 +11,13 @@
 
 - Andrew Petty
 - Matt Nicholls
+- Chris Askew
 
 ## Bass
 
 - Andrew Petty
+- Matt Nicholls
+- Chris Askew
 
 ## Drums
 
