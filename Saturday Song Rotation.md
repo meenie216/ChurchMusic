@@ -2,6 +2,21 @@
 
 ## This week
 
+* In His Name ()
+  * 11 Dec 2021
+  * 11 Apr 2021
+  * 28 Feb 2021
+
+* Only A Holy God (2016)
+  * 11 Dec 2021
+
+* No Other Name (2010)
+  * 11 Dec 2021
+  * 12 June 2021
+  * 8 May 2021
+
+## Previously
+
 * This is Amazing Grace
   * 27 Nov 2021
   * 22 May 2021
@@ -59,8 +74,6 @@
 * 10,000 Reasons (2011)
   * 30 Oct 2021
 
-## Previously
-
 * Jesus Messiah ()
   * 19 June 2021
   * 4 Apr 2021
@@ -69,10 +82,6 @@
   * 12 June 2021
   * 29 May 2021
   * 28 Mar 2021
-
-* No Other Name (2010)
-  * 12 June 2021
-  * 8 May 2021
 
 * My Lighthouse (2013)
   * 5 June 2021
@@ -85,10 +94,6 @@
 
 * *Before the Throne*
   * 25 Apr 2021
-
-* In His Name ()
-  * 11 Apr 2021
-  * 28 Feb 2021
 
 * Exalted (2018)
   * 4 Apr 2021
@@ -107,8 +112,6 @@
   
 * Hallelujah (2009)
   
-* Only A Holy God (2016)
-
 * Never Alone (2006)
 
 * Crown Him With Many Crowns
