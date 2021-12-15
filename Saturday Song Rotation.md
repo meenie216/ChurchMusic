@@ -2,6 +2,19 @@
 
 ## This week
 
+* Yet Not I But Through Christ In Me
+  * 18 Dec 2021
+  * 13 Nov 2021
+  * 29 May 2021
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 18 Dec 2021
+  * 6 Nov 2021
+  * 5 June 2021
+  * 18 Apr 2021
+  
+  ## Previously
+
 * In His Name ()
   * 11 Dec 2021
   * 11 Apr 2021
@@ -14,8 +27,6 @@
   * 11 Dec 2021
   * 12 June 2021
   * 8 May 2021
-
-## Previously
 
 * This is Amazing Grace
   * 27 Nov 2021
@@ -50,15 +61,6 @@
 * All Creatures of Our God and King
   * 13 Nov 2021
   * 29 May 2021
-
-* Yet Not I But Through Christ In Me
-  * 13 Nov 2021
-  * 29 May 2021
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 6 Nov 2021
-  * 5 June 2021
-  * 18 Apr 2021
 
 * The Chorus of the Saved (2015)
   * 6 Nov 2021
