@@ -1,5 +1,20 @@
 ﻿# Saturday Song Rotation
 
+## Previously
+
+* Come As You Are (2014)
+  * 8 Jan 2022
+  * 30 Oct 2021
+  * 5 June 2021
+  * 1 May 2021
+  * 28 Mar 2021
+
+* Rejoice (2013)
+  * 8 Jan 2022
+  * 13 Nov 2021
+  * 15 May 2021
+  * 11 Apr 2021
+
 ## This week
 
 * Yet Not I But Through Christ In Me
@@ -13,8 +28,6 @@
   * 5 June 2021
   * 18 Apr 2021
   
-  ## Previously
-
 * In His Name ()
   * 11 Dec 2021
   * 11 Apr 2021
@@ -53,11 +66,6 @@
   * 8 May 2021
   * 7 Mar 2021
 
-* Rejoice (2013)
-  * 13 Nov 2021
-  * 15 May 2021
-  * 11 Apr 2021
-
 * All Creatures of Our God and King
   * 13 Nov 2021
   * 29 May 2021
@@ -66,12 +74,6 @@
   * 6 Nov 2021
   * 15 May 2021
   * 4 Apr 2021
-
-* Come As You Are (2014)
-  * 30 Oct 2021
-  * 5 June 2021
-  * 1 May 2021
-  * 28 Mar 2021
 
 * 10,000 Reasons (2011)
   * 30 Oct 2021
