@@ -2,6 +2,24 @@
 
 ## Previously
 
+* This is Amazing Grace
+  * 15 Jan 2022
+  * 27 Nov 2021
+  * 22 May 2021
+
+* O Come to the Altar (2015)
+  * 15 Jan 2022
+  * 20 Nov 2021
+  * 19 June 2021
+  * 22 May 2021
+  * 18 Apr 2021
+
+* 10,000 Reasons (2011)
+  * 15 Jan 2022
+  * 30 Oct 2021
+
+## This week
+
 * Come As You Are (2014)
   * 8 Jan 2022
   * 30 Oct 2021
@@ -14,8 +32,6 @@
   * 13 Nov 2021
   * 15 May 2021
   * 11 Apr 2021
-
-## This week
 
 * Yet Not I But Through Christ In Me
   * 18 Dec 2021
@@ -41,21 +57,11 @@
   * 12 June 2021
   * 8 May 2021
 
-* This is Amazing Grace
-  * 27 Nov 2021
-  * 22 May 2021
-
 * Great Are You Lord (2012)
   * 27 Nov 2021
 
 * Be Thou My Vision
   * 27 Nov 2021
-
-* O Come to the Altar (2015)
-  * 20 Nov 2021
-  * 19 June 2021
-  * 22 May 2021
-  * 18 Apr 2021
 
 * Rock of Ages
   * 20 Nov 2021
@@ -74,9 +80,6 @@
   * 6 Nov 2021
   * 15 May 2021
   * 4 Apr 2021
-
-* 10,000 Reasons (2011)
-  * 30 Oct 2021
 
 * Jesus Messiah ()
   * 19 June 2021
