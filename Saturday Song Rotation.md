@@ -2,6 +2,21 @@
 
 ## Previously
 
+* Great Are You Lord (2012)
+  * 22 Jan 2022
+  * 27 Nov 2021
+
+* All Creatures of Our God and King
+  * 22 Jan 2022
+  * 13 Nov 2021
+  * 29 May 2021
+
+* Only A Holy God (2016)
+  * 22 Jan 2022
+  * 11 Dec 2021
+
+## This week
+
 * This is Amazing Grace
   * 15 Jan 2022
   * 27 Nov 2021
@@ -17,8 +32,6 @@
 * 10,000 Reasons (2011)
   * 15 Jan 2022
   * 30 Oct 2021
-
-## This week
 
 * Come As You Are (2014)
   * 8 Jan 2022
@@ -49,16 +62,10 @@
   * 11 Apr 2021
   * 28 Feb 2021
 
-* Only A Holy God (2016)
-  * 11 Dec 2021
-
 * No Other Name (2010)
   * 11 Dec 2021
   * 12 June 2021
   * 8 May 2021
-
-* Great Are You Lord (2012)
-  * 27 Nov 2021
 
 * Be Thou My Vision
   * 27 Nov 2021
@@ -71,10 +78,6 @@
   * 19 June 2021
   * 8 May 2021
   * 7 Mar 2021
-
-* All Creatures of Our God and King
-  * 13 Nov 2021
-  * 29 May 2021
 
 * The Chorus of the Saved (2015)
   * 6 Nov 2021
