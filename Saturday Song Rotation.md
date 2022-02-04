@@ -2,6 +2,43 @@
 
 ## Previously
 
+* My Lighthouse (2013)
+  * 5 Feb 2022
+  * 5 June 2021
+
+* Come As You Are (2014)
+  * 5 Feb 2022
+  * 8 Jan 2022
+  * 30 Oct 2021
+  * 5 June 2021
+  * 1 May 2021
+  * 28 Mar 2021
+
+* In His Name ()
+  * 5 Feb 2022
+  * 11 Dec 2021
+  * 11 Apr 2021
+  * 28 Feb 2021
+
+## This week
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 29 Jan 2022
+  * 18 Dec 2021
+  * 6 Nov 2021
+  * 5 June 2021
+  * 18 Apr 2021
+  
+* Yet Not I But Through Christ In Me
+  * 29 Jan 2022
+  * 18 Dec 2021
+  * 13 Nov 2021
+  * 29 May 2021
+
+* Rock of Ages
+  * 29 Jan 2022
+  * 20 Nov 2021
+
 * Great Are You Lord (2012)
   * 22 Jan 2022
   * 27 Nov 2021
@@ -14,8 +51,6 @@
 * Only A Holy God (2016)
   * 22 Jan 2022
   * 11 Dec 2021
-
-## This week
 
 * This is Amazing Grace
   * 15 Jan 2022
@@ -33,34 +68,11 @@
   * 15 Jan 2022
   * 30 Oct 2021
 
-* Come As You Are (2014)
-  * 8 Jan 2022
-  * 30 Oct 2021
-  * 5 June 2021
-  * 1 May 2021
-  * 28 Mar 2021
-
 * Rejoice (2013)
   * 8 Jan 2022
   * 13 Nov 2021
   * 15 May 2021
   * 11 Apr 2021
-
-* Yet Not I But Through Christ In Me
-  * 18 Dec 2021
-  * 13 Nov 2021
-  * 29 May 2021
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 18 Dec 2021
-  * 6 Nov 2021
-  * 5 June 2021
-  * 18 Apr 2021
-  
-* In His Name ()
-  * 11 Dec 2021
-  * 11 Apr 2021
-  * 28 Feb 2021
 
 * No Other Name (2010)
   * 11 Dec 2021
@@ -69,9 +81,6 @@
 
 * Be Thou My Vision
   * 27 Nov 2021
-
-* Rock of Ages
-  * 20 Nov 2021
 
 * Grace Alone (2013)
   * 20 Nov 2021
@@ -92,9 +101,6 @@
   * 12 June 2021
   * 29 May 2021
   * 28 Mar 2021
-
-* My Lighthouse (2013)
-  * 5 June 2021
 
 * Where Else? (2007)
   * 1 May 2021
