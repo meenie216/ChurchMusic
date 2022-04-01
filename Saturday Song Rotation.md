@@ -1,6 +1,71 @@
 ﻿# Saturday Song Rotation
 
+## This week
+
+* This is Amazing Grace
+  * 2 Apr 2022
+  * 19 Feb 2022
+  * 15 Jan 2022
+  * 27 Nov 2021
+  * 22 May 2021
+
+* Jesus Messiah ()
+  * 2 Apr 2022
+  * 5 March 2022
+  * 19 June 2021
+  * 4 Apr 2021
+
+* No Other Name (2010)
+  * 2 Apr 2022
+  * 11 Dec 2021
+  * 12 June 2021
+  * 8 May 2021
+
 ## Previously
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 26 Mar 2022
+  * 26 Feb 2022
+  * 29 Jan 2022
+  * 18 Dec 2021
+  * 6 Nov 2021
+  * 5 June 2021
+  * 18 Apr 2021
+  
+* O Come to the Altar (2015)
+  * 26 Mar 2022
+  * 12 Feb 2022
+  * 15 Jan 2022
+  * 20 Nov 2021
+  * 19 June 2021
+  * 22 May 2021
+  * 18 Apr 2021
+
+* Only A Holy God (2016)
+  * 26 Mar 2022
+  * 26 Feb 2022
+  * 22 Jan 2022
+  * 11 Dec 2021
+
+* Rejoice (2013)
+  * 19 Mar 2022
+  * 19 Feb 2022
+  * 8 Jan 2022
+  * 13 Nov 2021
+  * 15 May 2021
+  * 11 Apr 2021
+
+* Great Are You Lord (2012)
+  * 19 Mar 2022
+  * 19 Feb 2022
+  * 22 Jan 2022
+  * 27 Nov 2021
+
+* The Chorus of the Saved (2015)
+  * 19 Mar 2022
+  * 6 Nov 2021
+  * 15 May 2021
+  * 4 Apr 2021
 
 * Grace Alone (2013)
   * 12 March 2022
@@ -25,18 +90,11 @@
   * 13 Nov 2021
   * 29 May 2021
 
-## This week
-
 * Only Your Blood
   * 5 March 2022
   * 12 June 2021
   * 29 May 2021
   * 28 Mar 2021
-
-* Jesus Messiah ()
-  * 5 March 2022
-  * 19 June 2021
-  * 4 Apr 2021
 
 * Yet Not I But Through Christ In Me
   * 5 March 2022
@@ -45,48 +103,9 @@
   * 13 Nov 2021
   * 29 May 2021
 
-* Only A Holy God (2016)
-  * 26 Feb 2022
-  * 22 Jan 2022
-  * 11 Dec 2021
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 26 Feb 2022
-  * 29 Jan 2022
-  * 18 Dec 2021
-  * 6 Nov 2021
-  * 5 June 2021
-  * 18 Apr 2021
-  
 * Exalted (2018)
   * 26 Feb 2022
   * 4 Apr 2021
-
-* This is Amazing Grace
-  * 19 Feb 2022
-  * 15 Jan 2022
-  * 27 Nov 2021
-  * 22 May 2021
-
-* Great Are You Lord (2012)
-  * 19 Feb 2022
-  * 22 Jan 2022
-  * 27 Nov 2021
-
-* Rejoice (2013)
-  * 19 Feb 2022
-  * 8 Jan 2022
-  * 13 Nov 2021
-  * 15 May 2021
-  * 11 Apr 2021
-
-* O Come to the Altar (2015)
-  * 12 Feb 2022
-  * 15 Jan 2022
-  * 20 Nov 2021
-  * 19 June 2021
-  * 22 May 2021
-  * 18 Apr 2021
 
 * Be Thou My Vision
   * 12 Feb 2022
@@ -109,16 +128,6 @@
 * 10,000 Reasons (2011)
   * 15 Jan 2022
   * 30 Oct 2021
-
-* No Other Name (2010)
-  * 11 Dec 2021
-  * 12 June 2021
-  * 8 May 2021
-
-* The Chorus of the Saved (2015)
-  * 6 Nov 2021
-  * 15 May 2021
-  * 4 Apr 2021
 
 * Where Else? (2007)
   * 1 May 2021
