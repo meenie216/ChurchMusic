@@ -2,6 +2,33 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 16 Jul 2022
+  * 28 May 2022
+  * 23 Apr 2022
+  * 26 Mar 2022
+  * 26 Feb 2022
+  * 29 Jan 2022
+  * 18 Dec 2021
+  * 6 Nov 2021
+  * 5 June 2021
+  * 18 Apr 2021
+  
+* Great Are You Lord (2012)
+  * 16 Jul 2022
+  * 4 Jun 2022
+  * 23 Apr 2022
+  * 19 Mar 2022
+  * 19 Feb 2022
+  * 22 Jan 2022
+  * 27 Nov 2021
+
+* Wherever You Lead (2020)
+  * 16 Jul 2022
+  * 11 June 2022
+
+## Previously
+
 * This is Amazing Grace
   * 9 Jul 2022
   * 4 Jun 2022
@@ -31,8 +58,6 @@
   * 12 June 2021
   * 29 May 2021
   * 28 Mar 2021
-
-## Previously
 
 * My Lighthouse (2013)
   * 25 June 2022
@@ -95,37 +120,15 @@
   * 8 May 2021
   * 7 Mar 2021
 
-* Wherever You Lead (2020)
-  * 11 June 2022
-
 * Be Thou My Vision
   * 11 June 2022
   * 12 Feb 2022
-  * 27 Nov 2021
-
-* Great Are You Lord (2012)
-  * 4 Jun 2022
-  * 23 Apr 2022
-  * 19 Mar 2022
-  * 19 Feb 2022
-  * 22 Jan 2022
   * 27 Nov 2021
 
 * Where Else? (2007)
   * 4 Jun 2022
   * 1 May 2021
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 28 May 2022
-  * 23 Apr 2022
-  * 26 Mar 2022
-  * 26 Feb 2022
-  * 29 Jan 2022
-  * 18 Dec 2021
-  * 6 Nov 2021
-  * 5 June 2021
-  * 18 Apr 2021
-  
 * All Creatures of Our God and King
   * 28 May 2022
   * 12 March 2022
