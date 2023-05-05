@@ -2,22 +2,77 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 6 May 2023
+  * 25 Mar 2023
+  * 25 Feb 2023
+  * 28 Jan 2023
+  
+* Yet Not I But Through Christ In Me
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+* Grace Alone (2013)
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
 ## Previously
+
+* This Life I Live (2009)
+  * 29 Apr 2023
+
+* How Great Thou Art
+  * 29 Apr 2023
+
+* Come As You Are (2014)
+  * 29 Apr 2023
+  * 11 Mar 2023
+  * 4 Feb 2023
+
+* This is Amazing Grace
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Build My Life (2016)
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+
+* No Other Name (2010)
+  * 22 Apr 2023
+  * 11 Mar 2023
+
+* In His Name (2010)
+  * 8 Apr 2023
+  * 14 Jan 2023
+
+* Jerusalem (2014)
+  * 8 Apr 2023
+
+* Jesus Messiah (2008)
+  * 8 Apr 2023
+
+* Rejoice (2013)
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+
+* Only A Holy God (2016)
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* All Creatures of Our God and King
+  * 1 Apr 2023
 
 * My Lighthouse (2013)
   * 25 Mar 2023
   
 * Rock of Ages
   * 25 Mar 2023
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 25 Mar 2023
-  * 25 Feb 2023
-  * 28 Jan 2023
-  
-* This is Amazing Grace
-  * 18 Mar 2023
-  * 11 Feb 2023
 
 * O Come to the Altar (2015)
   * 18 Mar 2023
@@ -26,38 +81,14 @@
 * When I Survey
   * 18 Mar 2023
 
-* Grace Alone (2013)
-  * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
-
-* Come As You Are (2014)
-  * 11 Mar 2023
-  * 4 Feb 2023
-
-* No Other Name (2010)
-  * 11 Mar 2023
-
-* Rejoice (2013)
-  * 4 Mar 2023
-  * 28 Jan 2023
-
 * I Stand Amazed
   * 4 Mar 2023
 
 * Jesus, Thank You (2003)
   * 4 Mar 2023
 
-* Yet Not I But Through Christ In Me
-  * 25 Feb 2023
-  * 21 Jan 2023
-
 * We Belong to the Day (2006)
   * 25 Feb 2023
-
-* Build My Life (2016)
-  * 18 Feb 2023
-  * 11 Feb 2023
 
 * The Chorus of the Saved (2015)
   * 18 Feb 2023
@@ -68,26 +99,14 @@
 * 10,000 Reasons (2011)
   * 4 Feb 2023
 
-* Only A Holy God (2016)
-  * 4 Feb 2023
-
 * Wherever You Lead (2020)
   * 21 Jan 2023
-
-* In His Name ()
-  * 14 Jan 2023
 
 * How Great is Our God ()
   * 14 Jan 2023
 
 * Never Alone (2006)
   * 3 Dec 2022
-
-* All Creatures of Our God and King
-  * 26 Nov 2022
-
-* Jesus Messiah ()
-  * 19 Nov 2022
 
 * Great Are You Lord (2012)
   * 5 Nov 2022
@@ -155,7 +174,5 @@
 * And Can It Be
 
 * Now unto Him
-
-* *This Life I Live* (2009)
 
 * *All Glory be to Christ*
