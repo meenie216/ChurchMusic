@@ -2,6 +2,53 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 27 May 2023
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+
+* Come As You Are (2014)
+  * 27 May 2023
+  * 29 Apr 2023
+  * 11 Mar 2023
+  * 4 Feb 2023
+
+* Rock of Ages
+  * 27 May 2023
+  * 25 Mar 2023
+
+## Previously
+
+* This is Amazing Grace
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Only A Holy God (2016)
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* When I Survey
+  * 20 May 2023
+  * 18 Mar 2023
+
+* Only Your Blood
+  * 13 May 2023
+  * 11 Feb 2023
+
+* Build My Life (2016)
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* We Belong to the Day (2006)
+  * 13 May 2023
+  * 25 Feb 2023
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 6 May 2023
   * 25 Mar 2023
@@ -19,28 +66,11 @@
   * 18 Feb 2023
   * 21 Jan 2023
 
-## Previously
-
 * This Life I Live (2009)
   * 29 Apr 2023
 
 * How Great Thou Art
   * 29 Apr 2023
-
-* Come As You Are (2014)
-  * 29 Apr 2023
-  * 11 Mar 2023
-  * 4 Feb 2023
-
-* This is Amazing Grace
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
-
-* Build My Life (2016)
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
 
 * No Other Name (2010)
   * 22 Apr 2023
@@ -56,30 +86,15 @@
 * Jesus Messiah (2008)
   * 8 Apr 2023
 
-* Rejoice (2013)
-  * 1 Apr 2023
-  * 4 Mar 2023
-  * 28 Jan 2023
-
-* Only A Holy God (2016)
-  * 1 Apr 2023
-  * 4 Feb 2023
-
 * All Creatures of Our God and King
   * 1 Apr 2023
 
 * My Lighthouse (2013)
   * 25 Mar 2023
   
-* Rock of Ages
-  * 25 Mar 2023
-
 * O Come to the Altar (2015)
   * 18 Mar 2023
   * 28 Jan 2023
-
-* When I Survey
-  * 18 Mar 2023
 
 * I Stand Amazed
   * 4 Mar 2023
@@ -87,14 +102,8 @@
 * Jesus, Thank You (2003)
   * 4 Mar 2023
 
-* We Belong to the Day (2006)
-  * 25 Feb 2023
-
 * The Chorus of the Saved (2015)
   * 18 Feb 2023
-
-* Only Your Blood
-  * 11 Feb 2023
 
 * 10,000 Reasons (2011)
   * 4 Feb 2023
