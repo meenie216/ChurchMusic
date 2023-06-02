@@ -2,6 +2,23 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 3 June 2023
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
+* Jerusalem (2014)
+  * 3 June 2023
+  * 8 Apr 2023
+
+* All Creatures of Our God and King
+  * 3 June 2023
+  * 1 Apr 2023
+
+## Previously
+
 * Rejoice (2013)
   * 27 May 2023
   * 1 Apr 2023
@@ -17,8 +34,6 @@
 * Rock of Ages
   * 27 May 2023
   * 25 Mar 2023
-
-## Previously
 
 * This is Amazing Grace
   * 20 May 2023
@@ -60,12 +75,6 @@
   * 25 Feb 2023
   * 21 Jan 2023
 
-* Grace Alone (2013)
-  * 6 May 2023
-  * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
-
 * This Life I Live (2009)
   * 29 Apr 2023
 
@@ -80,14 +89,8 @@
   * 8 Apr 2023
   * 14 Jan 2023
 
-* Jerusalem (2014)
-  * 8 Apr 2023
-
 * Jesus Messiah (2008)
   * 8 Apr 2023
-
-* All Creatures of Our God and King
-  * 1 Apr 2023
 
 * My Lighthouse (2013)
   * 25 Mar 2023
