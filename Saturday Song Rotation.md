@@ -2,6 +2,34 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 6 May 2023
+  * 25 Mar 2023
+  * 25 Feb 2023
+  * 28 Jan 2023
+  
+* O Come to the Altar (2015)
+  * 18 Mar 2023
+  * 28 Jan 2023
+
+* This Life I Live (2009)
+  * 29 Apr 2023
+
+## Previously
+
+* Build My Life (2016)
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* Only A Holy God (2016)
+  * 10 June 2023
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
 * Grace Alone (2013)
   * 3 June 2023
   * 6 May 2023
@@ -16,8 +44,6 @@
 * All Creatures of Our God and King
   * 3 June 2023
   * 1 Apr 2023
-
-## Previously
 
 * Rejoice (2013)
   * 27 May 2023
@@ -41,11 +67,6 @@
   * 18 Mar 2023
   * 11 Feb 2023
 
-* Only A Holy God (2016)
-  * 20 May 2023
-  * 1 Apr 2023
-  * 4 Feb 2023
-
 * When I Survey
   * 20 May 2023
   * 18 Mar 2023
@@ -54,29 +75,14 @@
   * 13 May 2023
   * 11 Feb 2023
 
-* Build My Life (2016)
-  * 13 May 2023
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
 * We Belong to the Day (2006)
   * 13 May 2023
   * 25 Feb 2023
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 6 May 2023
-  * 25 Mar 2023
-  * 25 Feb 2023
-  * 28 Jan 2023
-  
 * Yet Not I But Through Christ In Me
   * 6 May 2023
   * 25 Feb 2023
   * 21 Jan 2023
-
-* This Life I Live (2009)
-  * 29 Apr 2023
 
 * How Great Thou Art
   * 29 Apr 2023
@@ -95,10 +101,6 @@
 * My Lighthouse (2013)
   * 25 Mar 2023
   
-* O Come to the Altar (2015)
-  * 18 Mar 2023
-  * 28 Jan 2023
-
 * I Stand Amazed
   * 4 Mar 2023
 
