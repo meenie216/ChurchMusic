@@ -3,16 +3,19 @@
 ## This week
 
 * Amazing Grace (My Chains are Gone) (2006)
+  * 17 June 2023
   * 6 May 2023
   * 25 Mar 2023
   * 25 Feb 2023
   * 28 Jan 2023
   
 * O Come to the Altar (2015)
+  * 17 June 2023
   * 18 Mar 2023
   * 28 Jan 2023
 
 * This Life I Live (2009)
+  * 17 June 2023
   * 29 Apr 2023
 
 ## Previously
