@@ -2,6 +2,27 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Come As You Are (2014)
+  * 24 June 2023
+  * 27 May 2023
+  * 29 Apr 2023
+  * 11 Mar 2023
+  * 4 Feb 2023
+
+* No Other Name (2010)
+  * 24 June 2023
+  * 22 Apr 2023
+  * 11 Mar 2023
+
+## Previously
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 17 June 2023
   * 6 May 2023
@@ -17,8 +38,6 @@
 * This Life I Live (2009)
   * 17 June 2023
   * 29 Apr 2023
-
-## Previously
 
 * Build My Life (2016)
   * 10 June 2023
@@ -54,21 +73,9 @@
   * 4 Mar 2023
   * 28 Jan 2023
 
-* Come As You Are (2014)
-  * 27 May 2023
-  * 29 Apr 2023
-  * 11 Mar 2023
-  * 4 Feb 2023
-
 * Rock of Ages
   * 27 May 2023
   * 25 Mar 2023
-
-* This is Amazing Grace
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
 
 * When I Survey
   * 20 May 2023
@@ -89,10 +96,6 @@
 
 * How Great Thou Art
   * 29 Apr 2023
-
-* No Other Name (2010)
-  * 22 Apr 2023
-  * 11 Mar 2023
 
 * In His Name (2010)
   * 8 Apr 2023
