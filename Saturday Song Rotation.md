@@ -21,7 +21,7 @@
   * 22 Apr 2023
   * 11 Mar 2023
 
-## Previously
+## Previously...
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 17 June 2023
