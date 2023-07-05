@@ -2,6 +2,28 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 8 July 2023
+  * 27 May 2023
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+
+* Build My Life (2016)
+  * 8 July 2023
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* Only Your Blood
+  * 8 July 2023
+  * 13 May 2023
+  * 11 Feb 2023
+
+## Previously
+
 * This is Amazing Grace
   * 24 June 2023
   * 20 May 2023
@@ -21,8 +43,6 @@
   * 22 Apr 2023
   * 11 Mar 2023
 
-## Previously...
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 17 June 2023
   * 6 May 2023
@@ -39,13 +59,6 @@
   * 17 June 2023
   * 29 Apr 2023
 
-* Build My Life (2016)
-  * 10 June 2023
-  * 13 May 2023
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
 * Only A Holy God (2016)
   * 10 June 2023
   * 20 May 2023
@@ -67,12 +80,6 @@
   * 3 June 2023
   * 1 Apr 2023
 
-* Rejoice (2013)
-  * 27 May 2023
-  * 1 Apr 2023
-  * 4 Mar 2023
-  * 28 Jan 2023
-
 * Rock of Ages
   * 27 May 2023
   * 25 Mar 2023
@@ -80,10 +87,6 @@
 * When I Survey
   * 20 May 2023
   * 18 Mar 2023
-
-* Only Your Blood
-  * 13 May 2023
-  * 11 Feb 2023
 
 * We Belong to the Day (2006)
   * 13 May 2023
