@@ -2,6 +2,25 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 15 July 2023
+  * 3 June 2023
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
+* Yet Not I But Through Christ In Me
+  * 15 July 2023
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+*  Now Unto Him
+  * 15 July 2023
+
+## Previously
+
 * Rejoice (2013)
   * 8 July 2023
   * 27 May 2023
@@ -21,8 +40,6 @@
   * 8 July 2023
   * 13 May 2023
   * 11 Feb 2023
-
-## Previously
 
 * This is Amazing Grace
   * 24 June 2023
@@ -65,13 +82,6 @@
   * 1 Apr 2023
   * 4 Feb 2023
 
-* Grace Alone (2013)
-  * 3 June 2023
-  * 6 May 2023
-  * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
-
 * Jerusalem (2014)
   * 3 June 2023
   * 8 Apr 2023
@@ -91,11 +101,6 @@
 * We Belong to the Day (2006)
   * 13 May 2023
   * 25 Feb 2023
-
-* Yet Not I But Through Christ In Me
-  * 6 May 2023
-  * 25 Feb 2023
-  * 21 Jan 2023
 
 * How Great Thou Art
   * 29 Apr 2023
