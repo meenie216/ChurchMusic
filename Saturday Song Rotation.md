@@ -2,6 +2,38 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 29 July 2023
+
+* Jesus, Thank You (2003)
+  * 29 July 2023
+  * 4 Mar 2023
+  
+* By The Cross (1998)
+  * 29 July 2023
+  * 27 Aug 2022
+
+## Previously
+
+* This is Amazing Grace
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Only A Holy God (2016)
+  * 22 July 2023
+  * 10 June 2023
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* The Chorus of the Saved (2015)
+  * 22 July 2023
+  * 18 Feb 2023
+
 * Grace Alone (2013)
   * 15 July 2023
   * 3 June 2023
@@ -18,8 +50,6 @@
 
 *  Now Unto Him
   * 15 July 2023
-
-## Previously
 
 * Rejoice (2013)
   * 8 July 2023
@@ -39,13 +69,6 @@
 * Only Your Blood
   * 8 July 2023
   * 13 May 2023
-  * 11 Feb 2023
-
-* This is Amazing Grace
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
   * 11 Feb 2023
 
 * Come As You Are (2014)
@@ -75,12 +98,6 @@
 * This Life I Live (2009)
   * 17 June 2023
   * 29 Apr 2023
-
-* Only A Holy God (2016)
-  * 10 June 2023
-  * 20 May 2023
-  * 1 Apr 2023
-  * 4 Feb 2023
 
 * Jerusalem (2014)
   * 3 June 2023
@@ -118,12 +135,6 @@
 * I Stand Amazed
   * 4 Mar 2023
 
-* Jesus, Thank You (2003)
-  * 4 Mar 2023
-
-* The Chorus of the Saved (2015)
-  * 18 Feb 2023
-
 * 10,000 Reasons (2011)
   * 4 Feb 2023
 
@@ -144,9 +155,6 @@
 
 * How Great You Are (2012)
   * 24 Sept 2022
-
-* By The Cross (1998)
-  * 27 Aug 2022
 
 * May the Mind Of Christ
   * 27 Aug 2022
