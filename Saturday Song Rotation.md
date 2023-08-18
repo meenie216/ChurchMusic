@@ -2,6 +2,70 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 19 August 2023
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* O Come to the Altar (2015)
+  * 19 August 2023
+  * 17 June 2023
+  * 18 Mar 2023
+  * 28 Jan 2023
+
+* No Other Name (2010)
+  * 19 August 2023
+  * 24 June 2023
+  * 22 Apr 2023
+  * 11 Mar 2023
+
+## Previously
+
+* Grace Alone (2013)
+  * 12 August 2023
+  * 15 July 2023
+  * 3 June 2023
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
+* When I Survey
+  * 12 August 2023
+  * 20 May 2023
+  * 18 Mar 2023
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 12 August 2023
+  * 17 June 2023
+  * 6 May 2023
+  * 25 Mar 2023
+  * 25 Feb 2023
+  * 28 Jan 2023
+  
+* Rejoice (2013)
+  * 5 August 2023
+  * 8 July 2023
+  * 27 May 2023
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+
+* Come As You Are (2014)
+  * 5 August 2023
+  * 24 June 2023
+  * 27 May 2023
+  * 29 Apr 2023
+  * 11 Mar 2023
+  * 4 Feb 2023
+
+* Blessed Be Your Name
+  * 5 August 2023
+
 * Live For The Kingdom
   * 29 July 2023
 
@@ -12,16 +76,6 @@
 * By The Cross (1998)
   * 29 July 2023
   * 27 Aug 2022
-
-## Previously
-
-* This is Amazing Grace
-  * 22 July 2023
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
 
 * Only A Holy God (2016)
   * 22 July 2023
@@ -34,29 +88,14 @@
   * 22 July 2023
   * 18 Feb 2023
 
-* Grace Alone (2013)
-  * 15 July 2023
-  * 3 June 2023
-  * 6 May 2023
-  * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
-
 * Yet Not I But Through Christ In Me
   * 15 July 2023
   * 6 May 2023
   * 25 Feb 2023
   * 21 Jan 2023
 
-*  Now Unto Him
+* Now Unto Him
   * 15 July 2023
-
-* Rejoice (2013)
-  * 8 July 2023
-  * 27 May 2023
-  * 1 Apr 2023
-  * 4 Mar 2023
-  * 28 Jan 2023
 
 * Build My Life (2016)
   * 8 July 2023
@@ -70,30 +109,6 @@
   * 8 July 2023
   * 13 May 2023
   * 11 Feb 2023
-
-* Come As You Are (2014)
-  * 24 June 2023
-  * 27 May 2023
-  * 29 Apr 2023
-  * 11 Mar 2023
-  * 4 Feb 2023
-
-* No Other Name (2010)
-  * 24 June 2023
-  * 22 Apr 2023
-  * 11 Mar 2023
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 17 June 2023
-  * 6 May 2023
-  * 25 Mar 2023
-  * 25 Feb 2023
-  * 28 Jan 2023
-  
-* O Come to the Altar (2015)
-  * 17 June 2023
-  * 18 Mar 2023
-  * 28 Jan 2023
 
 * This Life I Live (2009)
   * 17 June 2023
@@ -192,8 +207,6 @@
 * Show Us Christ (2011)
 
 * He Shall Reign (2015)
-
-* Blessed Be Your Name
 
 * Take My Life
 
