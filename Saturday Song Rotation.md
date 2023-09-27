@@ -2,30 +2,9 @@
 
 ## This week
 
-* This is Amazing Grace
-  * 19 August 2023
-  * 22 July 2023
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
-
-* O Come to the Altar (2015)
-  * 19 August 2023
-  * 17 June 2023
-  * 18 Mar 2023
-  * 28 Jan 2023
-
-* No Other Name (2010)
-  * 19 August 2023
-  * 24 June 2023
-  * 22 Apr 2023
-  * 11 Mar 2023
-
-## Previously
-
 * Grace Alone (2013)
+  * 30 Sept 2023
+  * 2 Sept 2023
   * 12 August 2023
   * 15 July 2023
   * 3 June 2023
@@ -34,20 +13,25 @@
   * 18 Feb 2023
   * 21 Jan 2023
 
+* O Come to the Altar (2015)
+  * 30 Sept 2023
+  * 19 August 2023
+  * 17 June 2023
+  * 18 Mar 2023
+  * 28 Jan 2023
+
 * When I Survey
+  * 30 Sept 2023
   * 12 August 2023
   * 20 May 2023
   * 18 Mar 2023
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 12 August 2023
-  * 17 June 2023
-  * 6 May 2023
-  * 25 Mar 2023
-  * 25 Feb 2023
-  * 28 Jan 2023
   
+## Previously
+
 * Rejoice (2013)
+  * 23 Sept 2023
+  * 26 August 2023
+  * 19 August 2023
   * 5 August 2023
   * 8 July 2023
   * 27 May 2023
@@ -56,12 +40,82 @@
   * 28 Jan 2023
 
 * Come As You Are (2014)
+  * 23 Sept 2023
   * 5 August 2023
   * 24 June 2023
   * 27 May 2023
   * 29 Apr 2023
   * 11 Mar 2023
   * 4 Feb 2023
+
+* The Chorus of the Saved (2015)
+  * 23 Sept 2023
+  * 22 July 2023
+  * 18 Feb 2023
+
+* This is Amazing Grace
+  * 16 Sept 2023
+  * 19 August 2023
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Never Alone (2006)
+  * 16 Sept 2023
+  * 3 Dec 2022
+
+* We Belong to the Day (2006)
+  * 16 Sept 2023
+  * 13 May 2023
+  * 25 Feb 2023
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 9 Sept 2023
+  * 12 August 2023
+  * 17 June 2023
+  * 6 May 2023
+  * 25 Mar 2023
+  * 25 Feb 2023
+  * 28 Jan 2023
+
+* Only A Holy God (2016)
+  * 9 Sept 2023
+  * 22 July 2023
+  * 10 June 2023
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* Yet Not I But Through Christ In Me
+  * 2 Sept 2023
+  * 15 July 2023
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+* Only Your Blood
+  * 2 Sept 2023
+  * 8 July 2023
+  * 13 May 2023
+  * 11 Feb 2023
+
+* Build My Life (2016)
+  * 26 August 2023
+  * 8 July 2023
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* No Other Name (2010)
+  * 19 August 2023
+  * 24 June 2023
+  * 22 Apr 2023
+  * 11 Mar 2023
 
 * Blessed Be Your Name
   * 5 August 2023
@@ -77,38 +131,8 @@
   * 29 July 2023
   * 27 Aug 2022
 
-* Only A Holy God (2016)
-  * 22 July 2023
-  * 10 June 2023
-  * 20 May 2023
-  * 1 Apr 2023
-  * 4 Feb 2023
-
-* The Chorus of the Saved (2015)
-  * 22 July 2023
-  * 18 Feb 2023
-
-* Yet Not I But Through Christ In Me
-  * 15 July 2023
-  * 6 May 2023
-  * 25 Feb 2023
-  * 21 Jan 2023
-
 * Now Unto Him
   * 15 July 2023
-
-* Build My Life (2016)
-  * 8 July 2023
-  * 10 June 2023
-  * 13 May 2023
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
-* Only Your Blood
-  * 8 July 2023
-  * 13 May 2023
-  * 11 Feb 2023
 
 * This Life I Live (2009)
   * 17 June 2023
@@ -129,10 +153,6 @@
 * When I Survey
   * 20 May 2023
   * 18 Mar 2023
-
-* We Belong to the Day (2006)
-  * 13 May 2023
-  * 25 Feb 2023
 
 * How Great Thou Art
   * 29 Apr 2023
@@ -158,9 +178,6 @@
 
 * How Great is Our God ()
   * 14 Jan 2023
-
-* Never Alone (2006)
-  * 3 Dec 2022
 
 * Great Are You Lord (2012)
   * 5 Nov 2022
