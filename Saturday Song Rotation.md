@@ -2,6 +2,37 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 21 Oct 2023
+  * 16 Sept 2023
+  * 19 August 2023
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Build My Life (2016)
+  * 21 Oct 2023
+  * 26 August 2023
+  * 8 July 2023
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* Yet Not I But Through Christ In Me
+  * 21 Oct 2023
+  * 2 Sept 2023
+  * 15 July 2023
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+## Previously
+
 * Grace Alone (2013)
   * 30 Sept 2023
   * 2 Sept 2023
@@ -26,8 +57,6 @@
   * 20 May 2023
   * 18 Mar 2023
   
-## Previously
-
 * Rejoice (2013)
   * 23 Sept 2023
   * 26 August 2023
@@ -52,16 +81,6 @@
   * 23 Sept 2023
   * 22 July 2023
   * 18 Feb 2023
-
-* This is Amazing Grace
-  * 16 Sept 2023
-  * 19 August 2023
-  * 22 July 2023
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
 
 * Never Alone (2006)
   * 16 Sept 2023
@@ -89,28 +108,12 @@
   * 1 Apr 2023
   * 4 Feb 2023
 
-* Yet Not I But Through Christ In Me
-  * 2 Sept 2023
-  * 15 July 2023
-  * 6 May 2023
-  * 25 Feb 2023
-  * 21 Jan 2023
-
 * Only Your Blood
   * 2 Sept 2023
   * 8 July 2023
   * 13 May 2023
   * 11 Feb 2023
 
-* Build My Life (2016)
-  * 26 August 2023
-  * 8 July 2023
-  * 10 June 2023
-  * 13 May 2023
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
 * No Other Name (2010)
   * 19 August 2023
   * 24 June 2023
