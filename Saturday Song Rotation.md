@@ -2,6 +2,54 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 4 Nov 2023
+  * 9 Sept 2023
+  * 12 August 2023
+  * 17 June 2023
+  * 6 May 2023
+  * 25 Mar 2023
+  * 25 Feb 2023
+  * 28 Jan 2023
+
+* Only A Holy God (2016)
+  * 4 Nov 2023
+  * 9 Sept 2023
+  * 22 July 2023
+  * 10 June 2023
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* All Creatures of Our God and King
+  * 4 Nov 2023
+  * 3 June 2023
+  * 1 Apr 2023
+
+## Previously
+
+* Rejoice (2013)
+  * 28 Oct 2023
+  * 23 Sept 2023
+  * 26 August 2023
+  * 19 August 2023
+  * 5 August 2023
+  * 8 July 2023
+  * 27 May 2023
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+  
+* Jesus, Thank You (2003)
+  * 28 Oct 2023
+  * 29 July 2023
+  * 4 Mar 2023
+  
+* Rock of Ages
+  * 28 Oct 2023
+  * 27 May 2023
+  * 25 Mar 2023
+
 * This is Amazing Grace
   * 21 Oct 2023
   * 16 Sept 2023
@@ -31,8 +79,6 @@
   * 25 Feb 2023
   * 21 Jan 2023
 
-## Previously
-
 * Grace Alone (2013)
   * 30 Sept 2023
   * 2 Sept 2023
@@ -57,17 +103,6 @@
   * 20 May 2023
   * 18 Mar 2023
   
-* Rejoice (2013)
-  * 23 Sept 2023
-  * 26 August 2023
-  * 19 August 2023
-  * 5 August 2023
-  * 8 July 2023
-  * 27 May 2023
-  * 1 Apr 2023
-  * 4 Mar 2023
-  * 28 Jan 2023
-
 * Come As You Are (2014)
   * 23 Sept 2023
   * 5 August 2023
@@ -91,23 +126,6 @@
   * 13 May 2023
   * 25 Feb 2023
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 9 Sept 2023
-  * 12 August 2023
-  * 17 June 2023
-  * 6 May 2023
-  * 25 Mar 2023
-  * 25 Feb 2023
-  * 28 Jan 2023
-
-* Only A Holy God (2016)
-  * 9 Sept 2023
-  * 22 July 2023
-  * 10 June 2023
-  * 20 May 2023
-  * 1 Apr 2023
-  * 4 Feb 2023
-
 * Only Your Blood
   * 2 Sept 2023
   * 8 July 2023
@@ -126,10 +144,6 @@
 * Live For The Kingdom
   * 29 July 2023
 
-* Jesus, Thank You (2003)
-  * 29 July 2023
-  * 4 Mar 2023
-  
 * By The Cross (1998)
   * 29 July 2023
   * 27 Aug 2022
@@ -144,14 +158,6 @@
 * Jerusalem (2014)
   * 3 June 2023
   * 8 Apr 2023
-
-* All Creatures of Our God and King
-  * 3 June 2023
-  * 1 Apr 2023
-
-* Rock of Ages
-  * 27 May 2023
-  * 25 Mar 2023
 
 * When I Survey
   * 20 May 2023
