@@ -3,6 +3,7 @@
 ## This week
 
 * Amazing Grace (My Chains are Gone) (2006)
+  * 9 Dec 2023
   * 4 Nov 2023
   * 9 Sept 2023
   * 12 August 2023
@@ -12,6 +13,103 @@
   * 25 Feb 2023
   * 28 Jan 2023
 
+* O Come to the Altar (2015)
+  * 9 Dec 2023
+  * 30 Sept 2023
+  * 19 August 2023
+  * 17 June 2023
+  * 18 Mar 2023
+  * 28 Jan 2023
+
+* Yet Not I But Through Christ In Me
+  * 9 Dec 2023
+  * 21 Oct 2023
+  * 2 Sept 2023
+  * 15 July 2023
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+## Previously
+
+* Rejoice (2013)
+  * 2 Dec 2023
+  * 28 Oct 2023
+  * 23 Sept 2023
+  * 26 August 2023
+  * 19 August 2023
+  * 5 August 2023
+  * 8 July 2023
+  * 27 May 2023
+  * 1 Apr 2023
+  * 4 Mar 2023
+  * 28 Jan 2023
+  
+* Build My Life (2016)
+  * 2 Dec 2023
+  * 21 Oct 2023
+  * 26 August 2023
+  * 8 July 2023
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+  
+* Never Alone (2006)
+  * 2 Dec 2023
+  * 16 Sept 2023
+  * 3 Dec 2022
+
+* This is Amazing Grace
+  * 25 Nov 2023
+  * 21 Oct 2023
+  * 16 Sept 2023
+  * 19 August 2023
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Come As You Are (2014)
+  * 25 Nov 2023
+  * 23 Sept 2023
+  * 5 August 2023
+  * 24 June 2023
+  * 27 May 2023
+  * 29 Apr 2023
+  * 11 Mar 2023
+  * 4 Feb 2023
+
+* Highest Place (1998)
+
+* Grace Alone (2013)
+  * 30 Sept 2023
+  * 2 Sept 2023
+  * 12 August 2023
+  * 15 July 2023
+  * 3 June 2023
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
+* The Chorus of the Saved (2015)
+  * 23 Sept 2023
+  * 22 July 2023
+  * 18 Feb 2023
+
+* Live For The Kingdom
+  * 29 July 2023
+
+* When I Survey
+  * 30 Sept 2023
+  * 12 August 2023
+  * 20 May 2023
+  * 18 Mar 2023
+  
 * Only A Holy God (2016)
   * 4 Nov 2023
   * 9 Sept 2023
@@ -26,20 +124,6 @@
   * 3 June 2023
   * 1 Apr 2023
 
-## Previously
-
-* Rejoice (2013)
-  * 28 Oct 2023
-  * 23 Sept 2023
-  * 26 August 2023
-  * 19 August 2023
-  * 5 August 2023
-  * 8 July 2023
-  * 27 May 2023
-  * 1 Apr 2023
-  * 4 Mar 2023
-  * 28 Jan 2023
-  
 * Jesus, Thank You (2003)
   * 28 Oct 2023
   * 29 July 2023
@@ -49,77 +133,6 @@
   * 28 Oct 2023
   * 27 May 2023
   * 25 Mar 2023
-
-* This is Amazing Grace
-  * 21 Oct 2023
-  * 16 Sept 2023
-  * 19 August 2023
-  * 22 July 2023
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
-
-* Build My Life (2016)
-  * 21 Oct 2023
-  * 26 August 2023
-  * 8 July 2023
-  * 10 June 2023
-  * 13 May 2023
-  * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
-* Yet Not I But Through Christ In Me
-  * 21 Oct 2023
-  * 2 Sept 2023
-  * 15 July 2023
-  * 6 May 2023
-  * 25 Feb 2023
-  * 21 Jan 2023
-
-* Grace Alone (2013)
-  * 30 Sept 2023
-  * 2 Sept 2023
-  * 12 August 2023
-  * 15 July 2023
-  * 3 June 2023
-  * 6 May 2023
-  * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
-
-* O Come to the Altar (2015)
-  * 30 Sept 2023
-  * 19 August 2023
-  * 17 June 2023
-  * 18 Mar 2023
-  * 28 Jan 2023
-
-* When I Survey
-  * 30 Sept 2023
-  * 12 August 2023
-  * 20 May 2023
-  * 18 Mar 2023
-  
-* Come As You Are (2014)
-  * 23 Sept 2023
-  * 5 August 2023
-  * 24 June 2023
-  * 27 May 2023
-  * 29 Apr 2023
-  * 11 Mar 2023
-  * 4 Feb 2023
-
-* The Chorus of the Saved (2015)
-  * 23 Sept 2023
-  * 22 July 2023
-  * 18 Feb 2023
-
-* Never Alone (2006)
-  * 16 Sept 2023
-  * 3 Dec 2022
 
 * We Belong to the Day (2006)
   * 16 Sept 2023
@@ -141,9 +154,6 @@
 * Blessed Be Your Name
   * 5 August 2023
 
-* Live For The Kingdom
-  * 29 July 2023
-
 * By The Cross (1998)
   * 29 July 2023
   * 27 Aug 2022
@@ -158,10 +168,6 @@
 * Jerusalem (2014)
   * 3 June 2023
   * 8 Apr 2023
-
-* When I Survey
-  * 20 May 2023
-  * 18 Mar 2023
 
 * How Great Thou Art
   * 29 Apr 2023
@@ -241,8 +247,6 @@
 * Our God (2010)
 
 * Create In Me a Clean Heart
-
-* Highest Place (1998)
 
 * It Is Well With My Soul
 
