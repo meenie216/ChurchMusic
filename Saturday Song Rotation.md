@@ -2,6 +2,65 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 16 Mar 2024
+  * 10 Feb 2024
+  * 6 Jan 2024
+  * 30 Sept 2023
+  * 2 Sept 2023
+  * 12 August 2023
+  * 15 July 2023
+  * 3 June 2023
+  * 6 May 2023
+  * 11 Mar 2023
+  * 18 Feb 2023
+  * 21 Jan 2023
+
+* Build My Life (2016)
+  * 16 Mar 2024
+  * 20 Jan 2024
+  * 2 Dec 2023
+  * 21 Oct 2023
+  * 26 August 2023
+  * 8 July 2023
+  * 10 June 2023
+  * 13 May 2023
+  * 22 Apr 2023
+  * 18 Feb 2023
+  * 11 Feb 2023
+
+* Live For The Kingdom
+  * 16 Mar 2024
+  * 6 Jan 2024
+  * 29 July 2023
+
+## Previously
+
+* This is Amazing Grace
+  * 9 Mar 2024
+  * 20 Jan 2024
+  * 25 Nov 2023
+  * 21 Oct 2023
+  * 16 Sept 2023
+  * 19 August 2023
+  * 22 July 2023
+  * 24 June 2023
+  * 20 May 2023
+  * 22 Apr 2023
+  * 18 Mar 2023
+  * 11 Feb 2023
+
+* Grace Uneasured (2005)
+  * 9 Mar 2024
+  * 3 Feb 2024
+
+* Rock of Ages
+  * 9 Mar 2024
+  * 6 Jan 2024
+  * 28 Oct 2023
+  * 27 May 2023
+  * 25 Mar 2023
+
 * Rejoice (2013)
   * 27 Jan 2024
   * 2 Dec 2023
@@ -16,7 +75,23 @@
   * 4 Mar 2023
   * 28 Jan 2023
   
+* Yet Not I But Through Christ In Me
+  * 10 Feb 2024
+  * 9 Dec 2023
+  * 21 Oct 2023
+  * 2 Sept 2023
+  * 15 July 2023
+  * 6 May 2023
+  * 25 Feb 2023
+  * 21 Jan 2023
+
+* All Creatures of Our God and King
+  * 4 Nov 2023
+  * 3 June 2023
+  * 1 Apr 2023
+
 * Amazing Grace (My Chains are Gone) (2006)
+  * 24 Feb 2024
   * 27 Jan 2024
   * 9 Dec 2023
   * 4 Nov 2023
@@ -28,56 +103,32 @@
   * 25 Feb 2023
   * 28 Jan 2023
 
-## Previously
-
-* This is Amazing Grace
-  * 20 Jan 2024
-  * 25 Nov 2023
-  * 21 Oct 2023
-  * 16 Sept 2023
-  * 19 August 2023
+* Only A Holy God (2016)
+  * 24 Feb 2024
+  * 4 Nov 2023
+  * 9 Sept 2023
   * 22 July 2023
-  * 24 June 2023
-  * 20 May 2023
-  * 22 Apr 2023
-  * 18 Mar 2023
-  * 11 Feb 2023
-
-* Build My Life (2016)
-  * 20 Jan 2024
-  * 2 Dec 2023
-  * 21 Oct 2023
-  * 26 August 2023
-  * 8 July 2023
   * 10 June 2023
-  * 13 May 2023
+  * 20 May 2023
+  * 1 Apr 2023
+  * 4 Feb 2023
+
+* No Other Name (2010)
+  * 24 Feb 2024
+  * 19 August 2023
+  * 24 June 2023
   * 22 Apr 2023
-  * 18 Feb 2023
-  * 11 Feb 2023
-  
-* Grace Alone (2013)
-  * 13 Jan 2024
-  * 30 Sept 2023
-  * 2 Sept 2023
-  * 12 August 2023
-  * 15 July 2023
-  * 3 June 2023
-  * 6 May 2023
   * 11 Mar 2023
-  * 18 Feb 2023
-  * 21 Jan 2023
 
-* Rock of Ages
-  * 13 Jan 2024
-  * 28 Oct 2023
-  * 27 May 2023
-  * 25 Mar 2023
-
-* Live For The Kingdom
-  * 13 Jan 2024
-  * 29 July 2023
+* Only Your Blood
+  * 17 Feb 2024
+  * 2 Sept 2023
+  * 8 July 2023
+  * 13 May 2023
+  * 11 Feb 2023
 
 * O Come to the Altar (2015)
+  * 17 Feb 2024
   * 9 Dec 2023
   * 30 Sept 2023
   * 19 August 2023
@@ -85,14 +136,27 @@
   * 18 Mar 2023
   * 28 Jan 2023
 
-* Yet Not I But Through Christ In Me
-  * 9 Dec 2023
-  * 21 Oct 2023
-  * 2 Sept 2023
-  * 15 July 2023
-  * 6 May 2023
+* How Great You Are (2012)
+  * 17 Feb 2024
+  * 24 Sept 2022
+
+* We Belong to the Day (2006)
+  * 10 Feb 2024
+  * 16 Sept 2023
+  * 13 May 2023
   * 25 Feb 2023
-  * 21 Jan 2023
+
+* 10,000 Reasons (2011)
+  * 3 Feb 2024
+  * 4 Feb 2023
+
+* Lifted Me Up
+  * 13 Jan 2024
+
+* By The Cross (1998)
+  * 13 Jan 2024
+  * 29 July 2023
+  * 27 Aug 2022
 
 * Never Alone (2006)
   * 2 Dec 2023
@@ -122,48 +186,13 @@
   * 20 May 2023
   * 18 Mar 2023
   
-* Only A Holy God (2016)
-  * 4 Nov 2023
-  * 9 Sept 2023
-  * 22 July 2023
-  * 10 June 2023
-  * 20 May 2023
-  * 1 Apr 2023
-  * 4 Feb 2023
-
-* All Creatures of Our God and King
-  * 4 Nov 2023
-  * 3 June 2023
-  * 1 Apr 2023
-
 * Jesus, Thank You (2003)
   * 28 Oct 2023
   * 29 July 2023
   * 4 Mar 2023
   
-* We Belong to the Day (2006)
-  * 16 Sept 2023
-  * 13 May 2023
-  * 25 Feb 2023
-
-* Only Your Blood
-  * 2 Sept 2023
-  * 8 July 2023
-  * 13 May 2023
-  * 11 Feb 2023
-
-* No Other Name (2010)
-  * 19 August 2023
-  * 24 June 2023
-  * 22 Apr 2023
-  * 11 Mar 2023
-
 * Blessed Be Your Name
   * 5 August 2023
-
-* By The Cross (1998)
-  * 29 July 2023
-  * 27 Aug 2022
 
 * Now Unto Him
   * 15 July 2023
@@ -192,9 +221,6 @@
 * I Stand Amazed
   * 4 Mar 2023
 
-* 10,000 Reasons (2011)
-  * 4 Feb 2023
-
 * Wherever You Lead (2020)
   * 21 Jan 2023
 
@@ -206,9 +232,6 @@
 
 * Behold Our God (2011)
   * 1 Oct 2022
-
-* How Great You Are (2012)
-  * 24 Sept 2022
 
 * May the Mind Of Christ
   * 27 Aug 2022
