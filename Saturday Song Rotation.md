@@ -2,6 +2,19 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 23 Mar 2024
+  * 24 Feb 2024
+  * 27 Jan 2024
+
+* Come As You Are (2014)
+  * 23 Mar 2024
+
+* I Stand Amazed
+  * 23 Mar 2024
+
+## Previously
+
 * Grace Alone (2013)
   * 16 Mar 2024
   * 10 Feb 2024
@@ -13,8 +26,6 @@
 
 * Live For The Kingdom
   * 16 Mar 2024
-
-## Previously
 
 * This is Amazing Grace
   * 9 Mar 2024
@@ -38,10 +49,6 @@
 
 * All Creatures of Our God and King
   * 2 Mar 2024
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 24 Feb 2024
-  * 27 Jan 2024
 
 * Only A Holy God (2016)
   * 24 Feb 2024
@@ -72,9 +79,6 @@
 
 * Never Alone (2006)
   * 2 Dec 2023
-
-* Come As You Are (2014)
-  * 25 Nov 2023
 
 * Highest Place (1998)
 
@@ -111,9 +115,6 @@
 * My Lighthouse (2013)
   * 25 Mar 2023
   
-* I Stand Amazed
-  * 4 Mar 2023
-
 * Wherever You Lead (2020)
   * 21 Jan 2023
 
