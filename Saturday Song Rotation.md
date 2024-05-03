@@ -2,10 +2,58 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 4 May 2024
+  * 6 Apr 2024
+  * 2 Mar 2024
+  * 27 Jan 2024
+  
+* Yet Not I But Through Christ In Me
+  * 4 May 2024
+  * 30 Mar 2024
+  * 2 Mar 2024
+  * 10 Feb 2024
+
+* Live For The Kingdom
+  * 4 May 2024
+  * 16 Mar 2024
+
+## Previously
+
 * Amazing Grace (My Chains are Gone) (2006)
+  * 27 Apr 2024
   * 23 Mar 2024
   * 24 Feb 2024
   * 27 Jan 2024
+
+* Now Unto Him
+  * 27 Apr 2024
+  * 15 July 2023
+
+* Grace Alone (2013)
+  * 20 Apr 2024
+  * 16 Mar 2024
+  * 10 Feb 2024
+  * 6 Jan 2024
+
+* It Is Well With My Soul
+  * 20 Apr 2024
+
+* O Come to the Altar (2015)
+  * 6 Apr 2024
+  * 17 Feb 2024
+
+* How Great You Are (2012)
+  * 6 Apr 2024
+  * 17 Feb 2024
+
+* Jerusalem (2014)
+  * 30 Mar 2024
+  * 3 June 2023
+
+* Never Alone (2006)
+  * 30 Mar 2024
+  * 2 Dec 2023
 
 * Come As You Are (2014)
   * 23 Mar 2024
@@ -13,19 +61,9 @@
 * I Stand Amazed
   * 23 Mar 2024
 
-## Previously
-
-* Grace Alone (2013)
-  * 16 Mar 2024
-  * 10 Feb 2024
-  * 6 Jan 2024
-
 * Build My Life (2016)
   * 16 Mar 2024
   * 20 Jan 2024
-
-* Live For The Kingdom
-  * 16 Mar 2024
 
 * This is Amazing Grace
   * 9 Mar 2024
@@ -39,14 +77,6 @@
   * 9 Mar 2024
   * 6 Jan 2024
 
-* Rejoice (2013)
-  * 2 Mar 2024
-  * 27 Jan 2024
-  
-* Yet Not I But Through Christ In Me
-  * 2 Mar 2024
-  * 10 Feb 2024
-
 * All Creatures of Our God and King
   * 2 Mar 2024
 
@@ -57,12 +87,6 @@
   * 24 Feb 2024
 
 * Only Your Blood
-  * 17 Feb 2024
-
-* O Come to the Altar (2015)
-  * 17 Feb 2024
-
-* How Great You Are (2012)
   * 17 Feb 2024
 
 * We Belong to the Day (2006)
@@ -76,9 +100,6 @@
 
 * By The Cross (1998)
   * 13 Jan 2024
-
-* Never Alone (2006)
-  * 2 Dec 2023
 
 * Highest Place (1998)
 
@@ -94,14 +115,8 @@
 * Blessed Be Your Name
   * 5 August 2023
 
-* Now Unto Him
-  * 15 July 2023
-
 * This Life I Live (2009)
   * 17 June 2023
-
-* Jerusalem (2014)
-  * 3 June 2023
 
 * How Great Thou Art
   * 29 Apr 2023
@@ -171,8 +186,6 @@
 * Our God (2010)
 
 * Create In Me a Clean Heart
-
-* It Is Well With My Soul
 
 * And Can It Be
 
