@@ -1,6 +1,21 @@
-﻿# Saturday Song Rotation
+# Saturday Song Rotation
 
 ## This week
+
+* May the Mind Of Christ
+  * 11 May 2024
+  * 27 Aug 2022
+
+* Build My Life (2016)
+  * 11 May 2024
+  * 16 Mar 2024
+  * 20 Jan 2024
+
+* When I Survey
+  * 11 May 2024
+  * 30 Sept 2023
+  
+## Previously
 
 * Rejoice (2013)
   * 4 May 2024
@@ -17,8 +32,6 @@
 * Live For The Kingdom
   * 4 May 2024
   * 16 Mar 2024
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 27 Apr 2024
@@ -61,10 +74,6 @@
 * I Stand Amazed
   * 23 Mar 2024
 
-* Build My Life (2016)
-  * 16 Mar 2024
-  * 20 Jan 2024
-
 * This is Amazing Grace
   * 9 Mar 2024
   * 20 Jan 2024
@@ -106,9 +115,6 @@
 * The Chorus of the Saved (2015)
   * 23 Sept 2023
 
-* When I Survey
-  * 30 Sept 2023
-  
 * Jesus, Thank You (2003)
   * 28 Oct 2023
   
@@ -141,9 +147,6 @@
 
 * Behold Our God (2011)
   * 1 Oct 2022
-
-* May the Mind Of Christ
-  * 27 Aug 2022
 
 * Just As I Am
   * 23 July 2022
