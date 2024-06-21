@@ -2,6 +2,34 @@
 
 ## This week
 
+* By The Cross (1998)
+  * 13 Jan 2024
+
+* Build My Life (2016)
+  * 11 May 2024
+  * 16 Mar 2024
+  * 20 Jan 2024
+
+* I Stand Amazed
+  * 23 Mar 2024
+
+## Previously
+
+* Be Thou My Vision
+  * 15 Jun 2024
+  * 11 June 202
+
+* Yet Not I But Through Christ In Me
+  * 15 Jun 2024
+  * 4 May 2024
+  * 30 Mar 2024
+  * 2 Mar 2024
+  * 10 Feb 2024
+
+* In His Name (2010)
+  * 15 Jun 2024
+  * 8 Apr 2023
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 08 Jun 2024
   * 27 Apr 2024
@@ -17,8 +45,6 @@
 * This Life I Live (2009)
   * 08 Jun 2024
   * 17 June 2023
-
-## Previously
 
 * Only A Holy God (2016)
   * 1 Jun 2024
@@ -64,11 +90,6 @@
   * 11 May 2024
   * 27 Aug 2022
 
-* Build My Life (2016)
-  * 11 May 2024
-  * 16 Mar 2024
-  * 20 Jan 2024
-
 * When I Survey
   * 11 May 2024
   * 30 Sept 2023
@@ -79,12 +100,6 @@
   * 2 Mar 2024
   * 27 Jan 2024
   
-* Yet Not I But Through Christ In Me
-  * 4 May 2024
-  * 30 Mar 2024
-  * 2 Mar 2024
-  * 10 Feb 2024
-
 * Live For The Kingdom
   * 4 May 2024
   * 16 Mar 2024
@@ -110,9 +125,6 @@
 * Come As You Are (2014)
   * 23 Mar 2024
 
-* I Stand Amazed
-  * 23 Mar 2024
-
 * No Other Name (2010)
   * 24 Feb 2024
 
@@ -125,9 +137,6 @@
 * Lifted Me Up
   * 13 Jan 2024
 
-* By The Cross (1998)
-  * 13 Jan 2024
-
 * Highest Place (1998)
 
 * The Chorus of the Saved (2015)
@@ -136,9 +145,6 @@
 * Jesus, Thank You (2003)
   * 28 Oct 2023
   
-* In His Name (2010)
-  * 8 Apr 2023
-
 * Jesus Messiah (2008)
   * 8 Apr 2023
 
@@ -159,9 +165,6 @@
 
 * Just As I Am
   * 23 July 2022
-
-* Be Thou My Vision
-  * 11 June 2022
 
 * Where Else? (2007)
   * 4 Jun 2022
