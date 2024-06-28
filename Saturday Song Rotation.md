@@ -2,18 +2,36 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 29 Jun 2024
+  * 4 May 2024
+  * 6 Apr 2024
+  * 2 Mar 2024
+  * 27 Jan 2024
+  
+* Come As You Are (2014)
+  * 29 Jun 2024
+  * 23 Mar 2024
+
+* Jesus Messiah (2008)
+  * 29 Jun 2024
+  * 8 Apr 2023
+
+## Previously
+
 * By The Cross (1998)
+  * 22 Jun 2024
   * 13 Jan 2024
 
 * Build My Life (2016)
+  * 22 Jun 2024
   * 11 May 2024
   * 16 Mar 2024
   * 20 Jan 2024
 
 * I Stand Amazed
+  * 22 Jun 2024
   * 23 Mar 2024
-
-## Previously
 
 * Be Thou My Vision
   * 15 Jun 2024
@@ -94,12 +112,6 @@
   * 11 May 2024
   * 30 Sept 2023
   
-* Rejoice (2013)
-  * 4 May 2024
-  * 6 Apr 2024
-  * 2 Mar 2024
-  * 27 Jan 2024
-  
 * Live For The Kingdom
   * 4 May 2024
   * 16 Mar 2024
@@ -122,9 +134,6 @@
   * 30 Mar 2024
   * 3 June 2023
 
-* Come As You Are (2014)
-  * 23 Mar 2024
-
 * No Other Name (2010)
   * 24 Feb 2024
 
@@ -145,9 +154,6 @@
 * Jesus, Thank You (2003)
   * 28 Oct 2023
   
-* Jesus Messiah (2008)
-  * 8 Apr 2023
-
 * My Lighthouse (2013)
   * 25 Mar 2023
   
