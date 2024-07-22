@@ -1,6 +1,24 @@
 # Saturday Song Rotation
 
 ## This week
+  
+* Live For The Kingdom
+  * 20 Jul 2024
+  * 4 May 2024
+  * 16 Mar 2024
+  
+* Rock of Ages
+  * 20 Jul 2024
+  * 08 Jun 2024
+  * 9 Mar 2024
+  * 6 Jan 2024
+
+## Previously
+
+* How Great You Are (2012)
+  * 13 Jul 2024
+  * 6 Apr 2024
+  * 17 Feb 2024
 
 * Rejoice (2013)
   * 29 Jun 2024
@@ -16,8 +34,6 @@
 * Jesus Messiah (2008)
   * 29 Jun 2024
   * 8 Apr 2023
-
-## Previously
 
 * By The Cross (1998)
   * 22 Jun 2024
@@ -54,11 +70,6 @@
   * 23 Mar 2024
   * 24 Feb 2024
   * 27 Jan 2024
-
-* Rock of Ages
-  * 08 Jun 2024
-  * 9 Mar 2024
-  * 6 Jan 2024
 
 * This Life I Live (2009)
   * 08 Jun 2024
@@ -111,10 +122,6 @@
 * When I Survey
   * 11 May 2024
   * 30 Sept 2023
-  
-* Live For The Kingdom
-  * 4 May 2024
-  * 16 Mar 2024
 
 * Now Unto Him
   * 27 Apr 2024
@@ -125,10 +132,6 @@
   * 16 Mar 2024
   * 10 Feb 2024
   * 6 Jan 2024
-
-* How Great You Are (2012)
-  * 6 Apr 2024
-  * 17 Feb 2024
 
 * Jerusalem (2014)
   * 30 Mar 2024
