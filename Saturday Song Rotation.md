@@ -2,6 +2,22 @@
 
 ## This week
 
+* All Creatures of Our God and King
+  * 10 Aug 2024
+  * 25 May 2024
+  * 2 Mar 2024
+
+* Come As You Are (2014)
+  * 10 Aug 2024
+  * 29 Jun 2024
+  * 23 Mar 2024
+
+* The Chorus of the Saved (2015)
+  * 10 Aug 2024
+  * 23 Sept 2023
+
+## Previously
+
 * Grace Alone (2013)
   * 03 Aug 2024
   * 20 Apr 2024
@@ -22,8 +38,6 @@
   * 18 May 2024
   * 9 Mar 2024
   * 20 Jan 2024
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 27 Jul 2024
@@ -67,10 +81,6 @@
   * 2 Mar 2024
   * 27 Jan 2024
   
-* Come As You Are (2014)
-  * 29 Jun 2024
-  * 23 Mar 2024
-
 * Jesus Messiah (2008)
   * 29 Jun 2024
   * 8 Apr 2023
@@ -107,10 +117,6 @@
 * Blessed Be Your Name
   * 1 Jun 2024
   * 5 August 2023
-
-* All Creatures of Our God and King
-  * 25 May 2024
-  * 2 Mar 2024
 
 * Never Alone (2006)
   * 25 May 2024
@@ -159,9 +165,6 @@
   * 13 Jan 2024
 
 * Highest Place (1998)
-
-* The Chorus of the Saved (2015)
-  * 23 Sept 2023
 
 * Jesus, Thank You (2003)
   * 28 Oct 2023
