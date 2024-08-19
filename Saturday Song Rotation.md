@@ -2,6 +2,25 @@
 
 ## This week
 
+* This is the Day
+  * 17 Aug 2024
+
+* O Come to the Altar (2015)
+  * 17 Aug 2024
+  * 18 May 2024
+  * 6 Apr 2024
+  * 17 Feb 2024
+
+ Rejoice (2013)
+  * 17 Aug 2024
+  * 29 Jun 2024
+  * 4 May 2024
+  * 6 Apr 2024
+  * 2 Mar 2024
+  * 27 Jan 2024
+  
+## Previously
+
 * All Creatures of Our God and King
   * 10 Aug 2024
   * 25 May 2024
@@ -15,8 +34,6 @@
 * The Chorus of the Saved (2015)
   * 10 Aug 2024
   * 23 Sept 2023
-
-## Previously
 
 * Grace Alone (2013)
   * 03 Aug 2024
@@ -74,13 +91,6 @@
   * 6 Apr 2024
   * 17 Feb 2024
 
-* Rejoice (2013)
-  * 29 Jun 2024
-  * 4 May 2024
-  * 6 Apr 2024
-  * 2 Mar 2024
-  * 27 Jan 2024
-  
 * Jesus Messiah (2008)
   * 29 Jun 2024
   * 8 Apr 2023
@@ -126,11 +136,6 @@
 * How Great Thou Art
   * 25 May 2024
   * 29 Apr 2023
-
-* O Come to the Altar (2015)
-  * 18 May 2024
-  * 6 Apr 2024
-  * 17 Feb 2024
 
 * 10,000 Reasons (2011)
   * 18 May 2024
