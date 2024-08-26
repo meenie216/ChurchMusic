@@ -2,6 +2,28 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 24 Aug 2024
+  * 20 Jul 2024
+  * 4 May 2024
+  * 16 Mar 2024
+  
+* Only A Holy God (2016)
+  * 24 Aug 2024
+  * 1 Jun 2024
+  * 24 Feb 2024
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 24 Aug 2024
+  * 27 Jul 2024
+  * 08 Jun 2024
+  * 27 Apr 2024
+  * 23 Mar 2024
+  * 24 Feb 2024
+  * 27 Jan 2024
+
+## Previously
+
 * This is the Day
   * 17 Aug 2024
 
@@ -19,8 +41,6 @@
   * 2 Mar 2024
   * 27 Jan 2024
   
-## Previously
-
 * All Creatures of Our God and King
   * 10 Aug 2024
   * 25 May 2024
@@ -56,14 +76,6 @@
   * 9 Mar 2024
   * 20 Jan 2024
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 27 Jul 2024
-  * 08 Jun 2024
-  * 27 Apr 2024
-  * 23 Mar 2024
-  * 24 Feb 2024
-  * 27 Jan 2024
-
 * Build My Life (2016)
   * 27 Jul 2024
   * 22 Jun 2024
@@ -75,11 +87,6 @@
   * 27 Jul 2024
   * 23 July 2022
 
-* Live For The Kingdom
-  * 20 Jul 2024
-  * 4 May 2024
-  * 16 Mar 2024
-  
 * Rock of Ages
   * 20 Jul 2024
   * 08 Jun 2024
@@ -114,10 +121,6 @@
 * This Life I Live (2009)
   * 08 Jun 2024
   * 17 June 2023
-
-* Only A Holy God (2016)
-  * 1 Jun 2024
-  * 24 Feb 2024
 
 * Grace Uneasured (2005)
   * 1 Jun 2024
