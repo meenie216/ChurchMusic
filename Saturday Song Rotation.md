@@ -2,17 +2,89 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 5 Oct 2024
+  * 03 Aug 2024
+  * 20 Apr 2024
+  * 16 Mar 2024
+  * 10 Feb 2024
+  * 6 Jan 2024
+  
+* Only A Holy God (2016)
+  * 5 Oct 2024
+  * 24 Aug 2024
+  * 1 Jun 2024
+  * 24 Feb 2024
+
+* All Creatures of Our God and King
+  * 5 Oct 2024
+  * 10 Aug 2024
+  * 25 May 2024
+  * 2 Mar 2024
+
+## Previously
+
+* Behold The Lamb of God
+  * 21 Sept 2024
+
+* Jesus, Strong and Kind (2019)
+  * 21 Sept 2024  
+  * 14 Sept 2024
+
+* In His Name (2010)
+  * 21 Sept 2024  
+  * 15 Jun 2024
+  * 8 Apr 2023
+
+* Yet Not I But Through Christ In Me
+  * 14 Sept 2024
+  * 03 Aug 2024
+  * 15 Jun 2024
+  * 4 May 2024
+  * 30 Mar 2024
+  * 2 Mar 2024
+  * 10 Feb 2024
+
+* Blessed Be Your Name
+  * 14 Sept 2024
+  * 1 Jun 2024
+  * 5 August 2023
+
+* Jesus Messiah (2008)
+  * 7 Sept 2024
+  * 29 Jun 2024
+  * 8 Apr 2023
+
+* I Stand Amazed
+  * 7 Sept 2024
+  * 22 Jun 2024
+  * 23 Mar 2024
+
+* 10,000 Reasons (2011)
+  * 7 Sept 2024
+  * 18 May 2024
+  * 3 Feb 2024
+
+* Be Thou My Vision
+  * 31 Aug 2024
+  * 15 Jun 2024
+  * 11 June 202
+
+* This Life I Live (2009)
+  * 31 Aug 2024
+  * 08 Jun 2024
+  * 17 June 2023
+
+* This is the Day
+  * 31 Aug 2024
+  * 17 Aug 2024
+
 * Live For The Kingdom
   * 24 Aug 2024
   * 20 Jul 2024
   * 4 May 2024
   * 16 Mar 2024
   
-* Only A Holy God (2016)
-  * 24 Aug 2024
-  * 1 Jun 2024
-  * 24 Feb 2024
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 24 Aug 2024
   * 27 Jul 2024
@@ -21,11 +93,6 @@
   * 23 Mar 2024
   * 24 Feb 2024
   * 27 Jan 2024
-
-## Previously
-
-* This is the Day
-  * 17 Aug 2024
 
 * O Come to the Altar (2015)
   * 17 Aug 2024
@@ -41,11 +108,6 @@
   * 2 Mar 2024
   * 27 Jan 2024
   
-* All Creatures of Our God and King
-  * 10 Aug 2024
-  * 25 May 2024
-  * 2 Mar 2024
-
 * Come As You Are (2014)
   * 10 Aug 2024
   * 29 Jun 2024
@@ -54,21 +116,6 @@
 * The Chorus of the Saved (2015)
   * 10 Aug 2024
   * 23 Sept 2023
-
-* Grace Alone (2013)
-  * 03 Aug 2024
-  * 20 Apr 2024
-  * 16 Mar 2024
-  * 10 Feb 2024
-  * 6 Jan 2024
-  
-* Yet Not I But Through Christ In Me
-  * 03 Aug 2024
-  * 15 Jun 2024
-  * 4 May 2024
-  * 30 Mar 2024
-  * 2 Mar 2024
-  * 10 Feb 2024
 
 * This is Amazing Grace
   * 03 Aug 2024
@@ -98,38 +145,18 @@
   * 6 Apr 2024
   * 17 Feb 2024
 
-* Jesus Messiah (2008)
-  * 29 Jun 2024
-  * 8 Apr 2023
-
 * By The Cross (1998)
   * 22 Jun 2024
   * 13 Jan 2024
-
-* I Stand Amazed
-  * 22 Jun 2024
-  * 23 Mar 2024
-
-* Be Thou My Vision
-  * 15 Jun 2024
-  * 11 June 202
 
 * In His Name (2010)
   * 15 Jun 2024
   * 8 Apr 2023
 
-* This Life I Live (2009)
-  * 08 Jun 2024
-  * 17 June 2023
-
 * Grace Uneasured (2005)
   * 1 Jun 2024
   * 9 Mar 2024
   * 3 Feb 2024
-
-* Blessed Be Your Name
-  * 1 Jun 2024
-  * 5 August 2023
 
 * Never Alone (2006)
   * 25 May 2024
@@ -139,10 +166,6 @@
 * How Great Thou Art
   * 25 May 2024
   * 29 Apr 2023
-
-* 10,000 Reasons (2011)
-  * 18 May 2024
-  * 3 Feb 2024
 
 * May the Mind Of Christ
   * 11 May 2024
