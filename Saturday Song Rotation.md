@@ -2,14 +2,67 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 02 Nov 2024
+  * 03 Aug 2024
+  * 18 May 2024
+  * 9 Mar 2024
+  * 20 Jan 2024
+
+* Live For The Kingdom
+  * 02 Nov 2024
+  * 24 Aug 2024
+  * 20 Jul 2024
+  * 4 May 2024
+  * 16 Mar 2024
+  
+* Be Thou My Vision
+  * 02 Nov 2024
+  * 31 Aug 2024
+  * 15 Jun 2024
+  * 11 June 202
+  
+## Previously
+
 * Grace Alone (2013)
-  * 5 Oct 2024
+  * 26 Oct 2024
   * 03 Aug 2024
   * 20 Apr 2024
   * 16 Mar 2024
   * 10 Feb 2024
   * 6 Jan 2024
-  
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 26 Oct 2024
+  * 24 Aug 2024
+  * 27 Jul 2024
+  * 08 Jun 2024
+  * 27 Apr 2024
+  * 23 Mar 2024
+  * 24 Feb 2024
+  * 27 Jan 2024
+
+* O Come to the Altar (2015)
+  * 26 Oct 2024
+  * 17 Aug 2024
+  * 18 May 2024
+  * 6 Apr 2024
+  * 17 Feb 2024
+
+* We Belong to the Day (2006)
+  * 12 Oct 2024
+  * 10 Feb 2024
+
+* Yet Not I But Through Christ In Me
+  * 12 Oct 2024
+  * 14 Sept 2024
+  * 03 Aug 2024
+  * 15 Jun 2024
+  * 4 May 2024
+  * 30 Mar 2024
+  * 2 Mar 2024
+  * 10 Feb 2024
+
 * Only A Holy God (2016)
   * 5 Oct 2024
   * 24 Aug 2024
@@ -22,8 +75,6 @@
   * 25 May 2024
   * 2 Mar 2024
 
-## Previously
-
 * Behold The Lamb of God
   * 21 Sept 2024
 
@@ -35,15 +86,6 @@
   * 21 Sept 2024  
   * 15 Jun 2024
   * 8 Apr 2023
-
-* Yet Not I But Through Christ In Me
-  * 14 Sept 2024
-  * 03 Aug 2024
-  * 15 Jun 2024
-  * 4 May 2024
-  * 30 Mar 2024
-  * 2 Mar 2024
-  * 10 Feb 2024
 
 * Blessed Be Your Name
   * 14 Sept 2024
@@ -65,11 +107,6 @@
   * 18 May 2024
   * 3 Feb 2024
 
-* Be Thou My Vision
-  * 31 Aug 2024
-  * 15 Jun 2024
-  * 11 June 202
-
 * This Life I Live (2009)
   * 31 Aug 2024
   * 08 Jun 2024
@@ -78,27 +115,6 @@
 * This is the Day
   * 31 Aug 2024
   * 17 Aug 2024
-
-* Live For The Kingdom
-  * 24 Aug 2024
-  * 20 Jul 2024
-  * 4 May 2024
-  * 16 Mar 2024
-  
-* Amazing Grace (My Chains are Gone) (2006)
-  * 24 Aug 2024
-  * 27 Jul 2024
-  * 08 Jun 2024
-  * 27 Apr 2024
-  * 23 Mar 2024
-  * 24 Feb 2024
-  * 27 Jan 2024
-
-* O Come to the Altar (2015)
-  * 17 Aug 2024
-  * 18 May 2024
-  * 6 Apr 2024
-  * 17 Feb 2024
 
  Rejoice (2013)
   * 17 Aug 2024
@@ -116,12 +132,6 @@
 * The Chorus of the Saved (2015)
   * 10 Aug 2024
   * 23 Sept 2023
-
-* This is Amazing Grace
-  * 03 Aug 2024
-  * 18 May 2024
-  * 9 Mar 2024
-  * 20 Jan 2024
 
 * Build My Life (2016)
   * 27 Jul 2024
@@ -188,9 +198,6 @@
 
 * Only Your Blood
   * 17 Feb 2024
-
-* We Belong to the Day (2006)
-  * 10 Feb 2024
 
 * Lifted Me Up
   * 13 Jan 2024
