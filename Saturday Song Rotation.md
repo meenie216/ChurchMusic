@@ -2,6 +2,27 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 23 Nov 2024
+  * 26 Oct 2024
+  * 03 Aug 2024
+  * 20 Apr 2024
+  * 16 Mar 2024
+  * 10 Feb 2024
+  * 6 Jan 2024
+
+* Jesus, Thank You (2003)
+  * 23 Nov 2024
+  * 28 Oct 2023
+  
+* This Life I Live (2009)
+  * 23 Nov 2024
+  * 31 Aug 2024
+  * 08 Jun 2024
+  * 17 June 2023
+
+## Previously
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 16 Nov 2024
   * 26 Oct 2024
@@ -30,8 +51,6 @@
   * 08 Jun 2024
   * 9 Mar 2024
   * 6 Jan 2024
-
-## Previously
 
  Rejoice (2013)
   * 09 Nov 2024
@@ -74,14 +93,6 @@
   * 15 Jun 2024
   * 11 June 202
   
-* Grace Alone (2013)
-  * 26 Oct 2024
-  * 03 Aug 2024
-  * 20 Apr 2024
-  * 16 Mar 2024
-  * 10 Feb 2024
-  * 6 Jan 2024
-
 * O Come to the Altar (2015)
   * 26 Oct 2024
   * 17 Aug 2024
@@ -131,11 +142,6 @@
   * 7 Sept 2024
   * 18 May 2024
   * 3 Feb 2024
-
-* This Life I Live (2009)
-  * 31 Aug 2024
-  * 08 Jun 2024
-  * 17 June 2023
 
 * This is the Day
   * 31 Aug 2024
@@ -210,9 +216,6 @@
 
 * Highest Place (1998)
 
-* Jesus, Thank You (2003)
-  * 28 Oct 2023
-  
 * My Lighthouse (2013)
   * 25 Mar 2023
   
