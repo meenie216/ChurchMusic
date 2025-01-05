@@ -2,6 +2,42 @@
 
 ## This week
 
+* This Life I Live (2009)
+  * 4 Jan 2025
+  * 23 Nov 2024
+  * 31 Aug 2024
+  * 08 Jun 2024
+  * 17 June 2023
+
+* The Chorus of the Saved (2015)
+  * 4 Jan 2025
+  * 10 Aug 2024
+  * 23 Sept 2023
+
+## Previously
+
+* This is Amazing Grace
+  * 07 Dec 2024
+  * 02 Nov 2024
+  * 03 Aug 2024
+  * 18 May 2024
+  * 9 Mar 2024
+  * 20 Jan 2024
+
+* O Come to the Altar (2015)
+  * 07 Dec 2024
+  * 26 Oct 2024
+  * 17 Aug 2024
+  * 18 May 2024
+  * 6 Apr 2024
+  * 17 Feb 2024
+
+* 10,000 Reasons (2011)
+  * 07 Dec 2024
+  * 7 Sept 2024
+  * 18 May 2024
+  * 3 Feb 2024
+
 * Jesus, Strong and Kind (2019)
   * 30 Nov 2024
   * 21 Sept 2024  
@@ -19,8 +55,6 @@
   * 11 May 2024
   * 27 Aug 2022
 
-## Previously
-
 * Grace Alone (2013)
   * 23 Nov 2024
   * 26 Oct 2024
@@ -34,12 +68,6 @@
   * 23 Nov 2024
   * 28 Oct 2023
   
-* This Life I Live (2009)
-  * 23 Nov 2024
-  * 31 Aug 2024
-  * 08 Jun 2024
-  * 17 June 2023
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 16 Nov 2024
   * 26 Oct 2024
@@ -90,13 +118,6 @@
   * 29 Jun 2024
   * 8 Apr 2023
 
-* This is Amazing Grace
-  * 02 Nov 2024
-  * 03 Aug 2024
-  * 18 May 2024
-  * 9 Mar 2024
-  * 20 Jan 2024
-
 * Live For The Kingdom
   * 02 Nov 2024
   * 24 Aug 2024
@@ -110,13 +131,6 @@
   * 15 Jun 2024
   * 11 June 202
   
-* O Come to the Altar (2015)
-  * 26 Oct 2024
-  * 17 Aug 2024
-  * 18 May 2024
-  * 6 Apr 2024
-  * 17 Feb 2024
-
 * We Belong to the Day (2006)
   * 12 Oct 2024
   * 10 Feb 2024
@@ -145,18 +159,9 @@
   * 22 Jun 2024
   * 23 Mar 2024
 
-* 10,000 Reasons (2011)
-  * 7 Sept 2024
-  * 18 May 2024
-  * 3 Feb 2024
-
 * This is the Day
   * 31 Aug 2024
   * 17 Aug 2024
-
-* The Chorus of the Saved (2015)
-  * 10 Aug 2024
-  * 23 Sept 2023
 
 * Build My Life (2016)
   * 27 Jul 2024
