@@ -2,6 +2,76 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 08 Mar 2025
+  * 07 Dec 2024
+  * 02 Nov 2024
+  * 03 Aug 2024
+  * 18 May 2024
+  * 9 Mar 2024
+  * 20 Jan 2024
+
+* This Life I Live (2009)
+  * 08 Mar 2025
+  * 4 Jan 2025
+  * 23 Nov 2024
+  * 31 Aug 2024
+  * 08 Jun 2024
+  * 17 June 2023
+
+* Blessed Be Your Name
+  * 08 Mar 2025
+  * 14 Sept 2024
+  * 1 Jun 2024
+  * 5 August 2023
+
+## Previously
+
+* Live For The Kingdom
+  * 01 Mar 2025
+  * 02 Nov 2024
+  * 24 Aug 2024
+  * 20 Jul 2024
+  * 4 May 2024
+  * 16 Mar 2024
+  
+* Build My Life (2016)
+  * 01 Mar 2025
+  * 27 Jul 2024
+  * 22 Jun 2024
+  * 11 May 2024
+  * 16 Mar 2024
+  * 20 Jan 2024
+
+* Behold The Lamb of God
+  * 01 Mar 2025
+  * 21 Sept 2024
+
+* Rejoice (2013)
+  * 22 Feb 2024
+  * 18 Jan 2025
+  * 09 Nov 2024
+  * 17 Aug 2024
+  * 29 Jun 2024
+  * 4 May 2024
+  * 6 Apr 2024
+  * 2 Mar 2024
+  * 27 Jan 2024
+  
+* Come As You Are (2014)
+  * 22 Feb 2024
+  * 09 Nov 2024
+  * 10 Aug 2024
+  * 29 Jun 2024
+  * 23 Mar 2024
+
+* 10,000 Reasons (2011)
+  * 22 Feb 2024
+  * 07 Dec 2024
+  * 7 Sept 2024
+  * 18 May 2024
+  * 3 Feb 2024
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 15 Feb 2025
   * 16 Nov 2024
@@ -31,8 +101,6 @@
   * 24 Aug 2024
   * 1 Jun 2024
   * 24 Feb 2024
-
-## Previously
 
 * Just As I Am
   * 8 Feb 2025
@@ -88,16 +156,6 @@
   * 25 May 2024
   * 2 Mar 2024
 
-* Rejoice (2013)
-  * 18 Jan 2025
-  * 09 Nov 2024
-  * 17 Aug 2024
-  * 29 Jun 2024
-  * 4 May 2024
-  * 6 Apr 2024
-  * 2 Mar 2024
-  * 27 Jan 2024
-  
 * Be Thou My Vision
   * 18 Jan 2025
   * 02 Nov 2024
@@ -108,25 +166,10 @@
 * It is Well With My Soul 
   * 11 Jan 2025
 
-* This Life I Live (2009)
-  * 4 Jan 2025
-  * 23 Nov 2024
-  * 31 Aug 2024
-  * 08 Jun 2024
-  * 17 June 2023
-
 * The Chorus of the Saved (2015)
   * 4 Jan 2025
   * 10 Aug 2024
   * 23 Sept 2023
-
-* This is Amazing Grace
-  * 07 Dec 2024
-  * 02 Nov 2024
-  * 03 Aug 2024
-  * 18 May 2024
-  * 9 Mar 2024
-  * 20 Jan 2024
 
 * 10,000 Reasons (2011)
   * 07 Dec 2024
@@ -148,41 +191,20 @@
   * 23 Nov 2024
   * 28 Oct 2023
   
-* Come As You Are (2014)
-  * 09 Nov 2024
-  * 10 Aug 2024
-  * 29 Jun 2024
-  * 23 Mar 2024
-
 * Jesus Messiah (2008)
   * 09 Nov 2024
   * 7 Sept 2024
   * 29 Jun 2024
   * 8 Apr 2023
 
-* Live For The Kingdom
-  * 02 Nov 2024
-  * 24 Aug 2024
-  * 20 Jul 2024
-  * 4 May 2024
-  * 16 Mar 2024
-  
 * We Belong to the Day (2006)
   * 12 Oct 2024
   * 10 Feb 2024
-
-* Behold The Lamb of God
-  * 21 Sept 2024
 
 * In His Name (2010)
   * 21 Sept 2024  
   * 15 Jun 2024
   * 8 Apr 2023
-
-* Blessed Be Your Name
-  * 14 Sept 2024
-  * 1 Jun 2024
-  * 5 August 2023
 
 * I Stand Amazed
   * 7 Sept 2024
@@ -192,13 +214,6 @@
 * This is the Day
   * 31 Aug 2024
   * 17 Aug 2024
-
-* Build My Life (2016)
-  * 27 Jul 2024
-  * 22 Jun 2024
-  * 11 May 2024
-  * 16 Mar 2024
-  * 20 Jan 2024
 
 * How Great You Are (2012)
   * 13 Jul 2024
