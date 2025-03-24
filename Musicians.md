@@ -2,28 +2,31 @@
 
 ## Keys
 
-- Bel Balhatchet
 - Lauren Askew
 - Andrew Petty
-- Jenn Phillips
+- Michael Smithers
 
 ## Guitar
 
 - Andrew Petty
 - Matt Nicholls
 - Chris Askew
+- Stephen Hampton
 
 ## Bass
 
 - Andrew Petty
 - Matt Nicholls
 - Chris Askew
+- Stephen Hampton
+- Kurt Hilzinger
 
 ## Drums
 
-- Brett Flower
 - Daniel Hancock
-- Scott Balhatchet
+- Stephen Shearsby
+- Micah Winton
+- Brett Flower
 
 ## Other
 
@@ -33,13 +36,11 @@
 
 ### Female
 
-- Bel Balhatchet
 - Maddie Winton
 - Lauren Askew
 
 ### Male
 
-- Paul Johnston
 - Matt Nicholls
-- Aidan Stanton
-- Sean Balhatchet
+- Andrew Petty
+- Chris Askew
