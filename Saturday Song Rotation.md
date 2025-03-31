@@ -2,6 +2,21 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Never Alone (2006)
+  * 29 Mar 2025
+  * 8 Feb 2025
+
+* Rock of Ages
+  * 29 Mar 2025
+  * 8 Feb 2025
+
+## Previously
+
 * 10,000 Reasons (2011)
   * 22 Mar 2025
   * 22 Feb 2024
@@ -13,8 +28,6 @@
 * Come As You Are (2014)
   * 22 Mar 2025
   * 22 Feb 2024
-
-## Previously
 
 * Grace Alone (2013)
   * 15 Mar 2025
@@ -46,10 +59,6 @@
 * Behold The Lamb of God
   * 01 Mar 2025
 
-* Rejoice (2013)
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Amazing Grace (My Chains are Gone) (2006)
   * 15 Feb 2025
 
@@ -58,12 +67,6 @@
   * 11 Jan 2025
 
 * Just As I Am
-  * 8 Feb 2025
-
-* Never Alone (2006)
-  * 8 Feb 2025
-
-* Rock of Ages
   * 8 Feb 2025
 
 * Grace Uneasured (2005)
