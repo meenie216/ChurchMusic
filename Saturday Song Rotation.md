@@ -2,6 +2,20 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 05 Apr 2025
+  * 08 Mar 2025
+
+* Grace Unmeasured (2005)
+  * 05 Apr 2025
+  * 8 Feb 2025
+
+* The Chorus of the Saved (2015)
+  * 05 Apr 2025
+  * 4 Jan 2025
+
+## Previously
+
 * Rejoice (2013)
   * 29 Mar 2025
   * 22 Feb 2024
@@ -14,8 +28,6 @@
 * Rock of Ages
   * 29 Mar 2025
   * 8 Feb 2025
-
-## Previously
 
 * 10,000 Reasons (2011)
   * 22 Mar 2025
@@ -40,9 +52,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-* This is Amazing Grace
-  * 08 Mar 2025
-
 * This Life I Live (2009)
   * 08 Mar 2025
   * 4 Jan 2025
@@ -69,9 +78,6 @@
 * Just As I Am
   * 8 Feb 2025
 
-* Grace Uneasured (2005)
-  * 8 Feb 2025
-
 * Yet Not I But Through Christ In Me
   * 1 Feb 2025
 
@@ -80,9 +86,6 @@
 
 * It is Well With My Soul 
   * 11 Jan 2025
-
-* The Chorus of the Saved (2015)
-  * 4 Jan 2025
 
 * Jesus, Strong and Kind (2019)
   * 30 Nov 2024
