@@ -2,6 +2,67 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+
+* Only A Holy God (2016)
+  * 17 May 2025
+  * 22 Mar 2025
+  * 15 Feb 2025
+
+* No Other Name (2010)
+  * 17 May 2025
+  * 24 Feb 2024
+
+## Previously
+
+* Rejoice (2013)
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Yet Not I But Through Christ In Me
+  * 10 May 2025
+  * 1 Feb 2025
+
+* Now Unto Him
+  * 10 May 2025
+  * 27 Apr 2024
+
+* 10,000 Reasons (2011)
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* Come As You Are (2014)
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* Only Your Blood
+  * 03 May 2025
+  * 17 Feb 2024
+
+* O Come to the Altar (2015)
+  * 26 Apr 2025
+  * 15 Feb 2025
+  * 11 Jan 2025
+
+* Live For The Kingdom
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+* Amazing Grace (My Chains are Gone) (2006)
+  * 19 Apr 2025
+  * 15 Feb 2025
+
+* I Stand Amazed
+  * 19 Apr 2025
+  * 7 Sept 2024
+
 * This is Amazing Grace
   * 05 Apr 2025
   * 08 Mar 2025
@@ -14,13 +75,6 @@
   * 05 Apr 2025
   * 4 Jan 2025
 
-## Previously
-
-* Rejoice (2013)
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Never Alone (2006)
   * 29 Mar 2025
   * 8 Feb 2025
@@ -28,22 +82,6 @@
 * Rock of Ages
   * 29 Mar 2025
   * 8 Feb 2025
-
-* 10,000 Reasons (2011)
-  * 22 Mar 2025
-  * 22 Feb 2024
-
-* Only A Holy God (2016)
-  * 22 Mar 2025
-  * 15 Feb 2025
-
-* Come As You Are (2014)
-  * 22 Mar 2025
-  * 22 Feb 2024
-
-* Grace Alone (2013)
-  * 15 Mar 2025
-  * 1 Feb 2025
 
 * Jesus Messiah (2008)
   * 15 Mar 2025
@@ -59,27 +97,14 @@
 * Blessed Be Your Name
   * 08 Mar 2025
 
-* Live For The Kingdom
-  * 01 Mar 2025
-  
 * Build My Life (2016)
   * 01 Mar 2025
 
 * Behold The Lamb of God
   * 01 Mar 2025
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 15 Feb 2025
-
-* O Come to the Altar (2015)
-  * 15 Feb 2025
-  * 11 Jan 2025
-
 * Just As I Am
   * 8 Feb 2025
-
-* Yet Not I But Through Christ In Me
-  * 1 Feb 2025
 
 * All Creatures of Our God and King
   * 1 Feb 2025
@@ -102,9 +127,6 @@
 * In His Name (2010)
   * 21 Sept 2024  
 
-* I Stand Amazed
-  * 7 Sept 2024
-
 * This is the Day
   * 31 Aug 2024
 
@@ -114,26 +136,14 @@
 * By The Cross (1998)
   * 22 Jun 2024
 
-* In His Name (2010)
-  * 15 Jun 2024
-
 * How Great Thou Art
   * 25 May 2024
 
 * When I Survey
   * 11 May 2024
 
-* Now Unto Him
-  * 27 Apr 2024
-
 * Jerusalem (2014)
   * 30 Mar 2024
-
-* No Other Name (2010)
-  * 24 Feb 2024
-
-* Only Your Blood
-  * 17 Feb 2024
 
 * Lifted Me Up
   * 13 Jan 2024
