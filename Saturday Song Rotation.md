@@ -2,6 +2,21 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 24 May 2025
+  * 05 Apr 2025
+  * 08 Mar 2025
+
+* Just As I Am
+  * 24 May 2025
+  * 8 Feb 2025
+
+* All Creatures of Our God and King
+  * 24 May 2025
+  * 1 Feb 2025
+
+## Previously
+
 * Grace Alone (2013)
   * 17 May 2025
   * 15 Mar 2025
@@ -15,8 +30,6 @@
 * No Other Name (2010)
   * 17 May 2025
   * 24 Feb 2024
-
-## Previously
 
 * Rejoice (2013)
   * 10 May 2025
@@ -63,10 +76,6 @@
   * 19 Apr 2025
   * 7 Sept 2024
 
-* This is Amazing Grace
-  * 05 Apr 2025
-  * 08 Mar 2025
-
 * Grace Unmeasured (2005)
   * 05 Apr 2025
   * 8 Feb 2025
@@ -102,12 +111,6 @@
 
 * Behold The Lamb of God
   * 01 Mar 2025
-
-* Just As I Am
-  * 8 Feb 2025
-
-* All Creatures of Our God and King
-  * 1 Feb 2025
 
 * It is Well With My Soul 
   * 11 Jan 2025
