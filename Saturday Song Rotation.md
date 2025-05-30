@@ -2,6 +2,23 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 31 May 2025
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+* Never Alone (2006)
+  * 31 May 2025
+  * 29 Mar 2025
+  * 8 Feb 2025
+
+* Be Thou My Vision
+  * 31 May 2025
+  * 15 Mar 2025
+  * 18 Jan 2025
+  
+## Previously
+
 * This is Amazing Grace
   * 24 May 2025
   * 05 Apr 2025
@@ -14,8 +31,6 @@
 * All Creatures of Our God and King
   * 24 May 2025
   * 1 Feb 2025
-
-## Previously
 
 * Grace Alone (2013)
   * 17 May 2025
@@ -64,10 +79,6 @@
   * 15 Feb 2025
   * 11 Jan 2025
 
-* Live For The Kingdom
-  * 26 Apr 2025
-  * 01 Mar 2025
-  
 * Amazing Grace (My Chains are Gone) (2006)
   * 19 Apr 2025
   * 15 Feb 2025
@@ -95,10 +106,6 @@
 * Jesus Messiah (2008)
   * 15 Mar 2025
 
-* Be Thou My Vision
-  * 15 Mar 2025
-  * 18 Jan 2025
-  
 * This Life I Live (2009)
   * 08 Mar 2025
   * 4 Jan 2025
