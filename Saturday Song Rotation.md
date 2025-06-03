@@ -1,6 +1,40 @@
 # Saturday Song Rotation
 
+* Rejoice (2013)
+  * 14 June 2025
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* O Come to the Altar (2015)
+  * 14 June 2025
+  * 26 Apr 2025
+  * 15 Feb 2025
+  * 11 Jan 2025
+
+* 10,000 Reasons (2011)
+  * 14 June 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
 ## This week
+
+* The Chorus of the Saved (2015)
+  * 07 June 2025
+  * 05 Apr 2025
+  * 4 Jan 2025
+
+* May the Mind Of Christ
+  * 07 June 2025
+  * 30 Nov 2024
+
+* In His Name (2010)
+  * 07 June 2025
+  * 21 Sept 2024  
+
+## Previously
 
 * Live For The Kingdom
   * 31 May 2025
@@ -17,8 +51,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-## Previously
-
 * This is Amazing Grace
   * 24 May 2025
   * 05 Apr 2025
@@ -46,12 +78,6 @@
   * 17 May 2025
   * 24 Feb 2024
 
-* Rejoice (2013)
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Yet Not I But Through Christ In Me
   * 10 May 2025
   * 1 Feb 2025
@@ -59,11 +85,6 @@
 * Now Unto Him
   * 10 May 2025
   * 27 Apr 2024
-
-* 10,000 Reasons (2011)
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
 
 * Come As You Are (2014)
   * 03 May 2025
@@ -73,11 +94,6 @@
 * Only Your Blood
   * 03 May 2025
   * 17 Feb 2024
-
-* O Come to the Altar (2015)
-  * 26 Apr 2025
-  * 15 Feb 2025
-  * 11 Jan 2025
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 19 Apr 2025
@@ -89,14 +105,6 @@
 
 * Grace Unmeasured (2005)
   * 05 Apr 2025
-  * 8 Feb 2025
-
-* The Chorus of the Saved (2015)
-  * 05 Apr 2025
-  * 4 Jan 2025
-
-* Never Alone (2006)
-  * 29 Mar 2025
   * 8 Feb 2025
 
 * Rock of Ages
@@ -125,17 +133,11 @@
 * Jesus, Strong and Kind (2019)
   * 30 Nov 2024
 
-* May the Mind Of Christ
-  * 30 Nov 2024
-
 * Jesus, Thank You (2003)
   * 23 Nov 2024
   
 * We Belong to the Day (2006)
   * 12 Oct 2024
-
-* In His Name (2010)
-  * 21 Sept 2024  
 
 * This is the Day
   * 31 Aug 2024
