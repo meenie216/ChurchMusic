@@ -1,5 +1,41 @@
 # Saturday Song Rotation
 
+## This week
+
+* This is Amazing Grace
+  * 28 June 2025
+  * 24 May 2025
+  * 05 Apr 2025
+  * 08 Mar 2025
+
+* Only A Holy God (2016)
+  * 28 June 2025
+  * 17 May 2025
+  * 22 Mar 2025
+  * 15 Feb 2025
+
+* I Stand Amazed
+  * 28 June 2025
+  * 19 Apr 2025
+  * 7 Sept 2024
+
+## Previously
+
+* Grace Alone (2013)
+  * 21 June 2025
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+
+* When I Survey
+  * 21 June 2025
+  * 11 May 2024
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 21 June 2025
+  * 19 Apr 2025
+  * 15 Feb 2025
+
 * Rejoice (2013)
   * 14 June 2025
   * 10 May 2025
@@ -19,8 +55,6 @@
   * 22 Mar 2025
   * 22 Feb 2024
 
-## This week
-
 * The Chorus of the Saved (2015)
   * 07 June 2025
   * 05 Apr 2025
@@ -33,8 +67,6 @@
 * In His Name (2010)
   * 07 June 2025
   * 21 Sept 2024  
-
-## Previously
 
 * Live For The Kingdom
   * 31 May 2025
@@ -51,11 +83,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-* This is Amazing Grace
-  * 24 May 2025
-  * 05 Apr 2025
-  * 08 Mar 2025
-
 * Just As I Am
   * 24 May 2025
   * 8 Feb 2025
@@ -63,16 +90,6 @@
 * All Creatures of Our God and King
   * 24 May 2025
   * 1 Feb 2025
-
-* Grace Alone (2013)
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
-
-* Only A Holy God (2016)
-  * 17 May 2025
-  * 22 Mar 2025
-  * 15 Feb 2025
 
 * No Other Name (2010)
   * 17 May 2025
@@ -94,14 +111,6 @@
 * Only Your Blood
   * 03 May 2025
   * 17 Feb 2024
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 19 Apr 2025
-  * 15 Feb 2025
-
-* I Stand Amazed
-  * 19 Apr 2025
-  * 7 Sept 2024
 
 * Grace Unmeasured (2005)
   * 05 Apr 2025
@@ -150,9 +159,6 @@
 
 * How Great Thou Art
   * 25 May 2024
-
-* When I Survey
-  * 11 May 2024
 
 * Jerusalem (2014)
   * 30 Mar 2024
