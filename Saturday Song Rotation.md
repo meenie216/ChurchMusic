@@ -2,6 +2,17 @@
 
 ## This week
 
+* Yet Not I But Through Christ In Me
+  * 10 May 2025
+  * 1 Feb 2025
+
+* Live For The Kingdom
+  * 31 May 2025
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+## Previously
+
 * This is Amazing Grace
   * 28 June 2025
   * 24 May 2025
@@ -18,8 +29,6 @@
   * 28 June 2025
   * 19 Apr 2025
   * 7 Sept 2024
-
-## Previously
 
 * Grace Alone (2013)
   * 21 June 2025
@@ -68,11 +77,6 @@
   * 07 June 2025
   * 21 Sept 2024  
 
-* Live For The Kingdom
-  * 31 May 2025
-  * 26 Apr 2025
-  * 01 Mar 2025
-  
 * Never Alone (2006)
   * 31 May 2025
   * 29 Mar 2025
@@ -94,10 +98,6 @@
 * No Other Name (2010)
   * 17 May 2025
   * 24 Feb 2024
-
-* Yet Not I But Through Christ In Me
-  * 10 May 2025
-  * 1 Feb 2025
 
 * Now Unto Him
   * 10 May 2025
