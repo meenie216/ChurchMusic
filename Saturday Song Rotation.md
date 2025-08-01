@@ -2,17 +2,68 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 02 Aug 2025
+  * 21 June 2025
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+
+* Build My Life (2016)
+  * 02 Aug 2025
+  * 01 Mar 2025
+
+* A Thousand Hallelujahs (2022)
+  * 02 Aug 2025
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 02 Aug 2025
+  * 21 June 2025
+  * 19 Apr 2025
+  * 15 Feb 2025
+
+## Previously
+
+* Rejoice (2013)
+  * 26 July 2025
+  * 14 June 2025
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Grace Unmeasured (2005)
+  * 26 July 2025
+  * 05 Apr 2025
+  * 8 Feb 2025
+
+* Blessed Be Your Name
+  * 26 July 2025
+  * 08 Mar 2025
+
+* Come As You Are (2014)
+  * 19 July 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* The Chorus of the Saved (2015)
+  * 19 July 2025
+  * 07 June 2025
+  * 05 Apr 2025
+  * 4 Jan 2025
+
 * Yet Not I But Through Christ In Me
+  * 12 July 2025
   * 10 May 2025
   * 1 Feb 2025
 
 * Live For The Kingdom
+  * 12 July 2025
   * 31 May 2025
   * 26 Apr 2025
   * 01 Mar 2025
   
-## Previously
-
 * This is Amazing Grace
   * 28 June 2025
   * 24 May 2025
@@ -30,28 +81,10 @@
   * 19 Apr 2025
   * 7 Sept 2024
 
-* Grace Alone (2013)
-  * 21 June 2025
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
-
 * When I Survey
   * 21 June 2025
   * 11 May 2024
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 21 June 2025
-  * 19 Apr 2025
-  * 15 Feb 2025
-
-* Rejoice (2013)
-  * 14 June 2025
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * O Come to the Altar (2015)
   * 14 June 2025
   * 26 Apr 2025
@@ -63,11 +96,6 @@
   * 03 May 2025
   * 22 Mar 2025
   * 22 Feb 2024
-
-* The Chorus of the Saved (2015)
-  * 07 June 2025
-  * 05 Apr 2025
-  * 4 Jan 2025
 
 * May the Mind Of Christ
   * 07 June 2025
@@ -103,18 +131,9 @@
   * 10 May 2025
   * 27 Apr 2024
 
-* Come As You Are (2014)
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
-
 * Only Your Blood
   * 03 May 2025
   * 17 Feb 2024
-
-* Grace Unmeasured (2005)
-  * 05 Apr 2025
-  * 8 Feb 2025
 
 * Rock of Ages
   * 29 Mar 2025
@@ -126,12 +145,6 @@
 * This Life I Live (2009)
   * 08 Mar 2025
   * 4 Jan 2025
-
-* Blessed Be Your Name
-  * 08 Mar 2025
-
-* Build My Life (2016)
-  * 01 Mar 2025
 
 * Behold The Lamb of God
   * 01 Mar 2025
