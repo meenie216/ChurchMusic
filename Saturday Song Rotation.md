@@ -2,16 +2,33 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 09 August 2025
+  * 28 June 2025
+  * 24 May 2025
+  * 05 Apr 2025
+  * 08 Mar 2025
+
+* O Come to the Altar (2015)
+  * 09 August 2025
+  * 14 June 2025
+  * 26 Apr 2025
+  * 15 Feb 2025
+  * 11 Jan 2025
+
+* Just As I Am
+  * 09 August 2025
+  * 24 May 2025
+  * 8 Feb 2025
+
+## Previously
+
 * Grace Alone (2013)
   * 02 Aug 2025
   * 21 June 2025
   * 17 May 2025
   * 15 Mar 2025
   * 1 Feb 2025
-
-* Build My Life (2016)
-  * 02 Aug 2025
-  * 01 Mar 2025
 
 * A Thousand Hallelujahs (2022)
   * 02 Aug 2025
@@ -21,8 +38,6 @@
   * 21 June 2025
   * 19 Apr 2025
   * 15 Feb 2025
-
-## Previously
 
 * Rejoice (2013)
   * 26 July 2025
@@ -64,12 +79,6 @@
   * 26 Apr 2025
   * 01 Mar 2025
   
-* This is Amazing Grace
-  * 28 June 2025
-  * 24 May 2025
-  * 05 Apr 2025
-  * 08 Mar 2025
-
 * Only A Holy God (2016)
   * 28 June 2025
   * 17 May 2025
@@ -84,12 +93,6 @@
 * When I Survey
   * 21 June 2025
   * 11 May 2024
-
-* O Come to the Altar (2015)
-  * 14 June 2025
-  * 26 Apr 2025
-  * 15 Feb 2025
-  * 11 Jan 2025
 
 * 10,000 Reasons (2011)
   * 14 June 2025
@@ -115,10 +118,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-* Just As I Am
-  * 24 May 2025
-  * 8 Feb 2025
-
 * All Creatures of Our God and King
   * 24 May 2025
   * 1 Feb 2025
@@ -147,6 +146,9 @@
   * 4 Jan 2025
 
 * Behold The Lamb of God
+  * 01 Mar 2025
+
+* Build My Life (2016)
   * 01 Mar 2025
 
 * It is Well With My Soul 
