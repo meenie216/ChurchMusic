@@ -2,6 +2,26 @@
 
 ## This week
 
+* 10,000 Reasons (2011)
+  * 16 August 2025
+  * 14 June 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* Only A Holy God (2016)
+  * 16 August 2025
+  * 28 June 2025
+  * 17 May 2025
+  * 22 Mar 2025
+  * 15 Feb 2025
+
+* Jesus Messiah (2008)
+  * 16 August 2025
+  * 15 Mar 2025
+
+## Previously
+
 * This is Amazing Grace
   * 09 August 2025
   * 28 June 2025
@@ -20,8 +40,6 @@
   * 09 August 2025
   * 24 May 2025
   * 8 Feb 2025
-
-## Previously
 
 * Grace Alone (2013)
   * 02 Aug 2025
@@ -79,12 +97,6 @@
   * 26 Apr 2025
   * 01 Mar 2025
   
-* Only A Holy God (2016)
-  * 28 June 2025
-  * 17 May 2025
-  * 22 Mar 2025
-  * 15 Feb 2025
-
 * I Stand Amazed
   * 28 June 2025
   * 19 Apr 2025
@@ -93,16 +105,6 @@
 * When I Survey
   * 21 June 2025
   * 11 May 2024
-
-* 10,000 Reasons (2011)
-  * 14 June 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
-
-* May the Mind Of Christ
-  * 07 June 2025
-  * 30 Nov 2024
 
 * In His Name (2010)
   * 07 June 2025
@@ -137,9 +139,6 @@
 * Rock of Ages
   * 29 Mar 2025
   * 8 Feb 2025
-
-* Jesus Messiah (2008)
-  * 15 Mar 2025
 
 * This Life I Live (2009)
   * 08 Mar 2025
