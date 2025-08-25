@@ -2,42 +2,81 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 30 Aug 2025
+  * 26 July 2025
+  * 14 June 2025
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Yet Not I But Through Christ In Me
+  * 30 Aug 2025
+  * 12 July 2025
+  * 10 May 2025
+  * 1 Feb 2025
+
+* All Creatures of Our God and King
+  * 30 Aug 2025
+  * 24 May 2025
+  * 1 Feb 2025
+
+## Previously
+
+* Live For The Kingdom
+  * 23 Aug 2025
+  * 12 July 2025
+  * 31 May 2025
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+* Come As You Are (2014)
+  * 23 Aug 2025
+  * 19 July 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* Rock of Ages
+  * 23 Aug 2025
+  * 29 Mar 2025
+  * 8 Feb 2025
+
 * 10,000 Reasons (2011)
-  * 16 August 2025
+  * 16 Aug 2025
   * 14 June 2025
   * 03 May 2025
   * 22 Mar 2025
   * 22 Feb 2024
 
 * Only A Holy God (2016)
-  * 16 August 2025
+  * 16 Aug 2025
   * 28 June 2025
   * 17 May 2025
   * 22 Mar 2025
   * 15 Feb 2025
 
 * Jesus Messiah (2008)
-  * 16 August 2025
+  * 16 Aug 2025
   * 15 Mar 2025
 
-## Previously
-
 * This is Amazing Grace
-  * 09 August 2025
+  * 09 Aug 2025
   * 28 June 2025
   * 24 May 2025
   * 05 Apr 2025
   * 08 Mar 2025
 
 * O Come to the Altar (2015)
-  * 09 August 2025
+  * 09 Aug 2025
   * 14 June 2025
   * 26 Apr 2025
   * 15 Feb 2025
   * 11 Jan 2025
 
 * Just As I Am
-  * 09 August 2025
+  * 09 Aug 2025
   * 24 May 2025
   * 8 Feb 2025
 
@@ -57,14 +96,6 @@
   * 19 Apr 2025
   * 15 Feb 2025
 
-* Rejoice (2013)
-  * 26 July 2025
-  * 14 June 2025
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Grace Unmeasured (2005)
   * 26 July 2025
   * 05 Apr 2025
@@ -74,29 +105,12 @@
   * 26 July 2025
   * 08 Mar 2025
 
-* Come As You Are (2014)
-  * 19 July 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
-
 * The Chorus of the Saved (2015)
   * 19 July 2025
   * 07 June 2025
   * 05 Apr 2025
   * 4 Jan 2025
 
-* Yet Not I But Through Christ In Me
-  * 12 July 2025
-  * 10 May 2025
-  * 1 Feb 2025
-
-* Live For The Kingdom
-  * 12 July 2025
-  * 31 May 2025
-  * 26 Apr 2025
-  * 01 Mar 2025
-  
 * I Stand Amazed
   * 28 June 2025
   * 19 Apr 2025
@@ -120,10 +134,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-* All Creatures of Our God and King
-  * 24 May 2025
-  * 1 Feb 2025
-
 * No Other Name (2010)
   * 17 May 2025
   * 24 Feb 2024
@@ -135,10 +145,6 @@
 * Only Your Blood
   * 03 May 2025
   * 17 Feb 2024
-
-* Rock of Ages
-  * 29 Mar 2025
-  * 8 Feb 2025
 
 * This Life I Live (2009)
   * 08 Mar 2025
