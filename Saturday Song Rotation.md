@@ -2,6 +2,85 @@
 
 ## This week
 
+* Blessed Be Your Name
+  * 11 Oct 2025
+  * 26 July 2025
+  * 08 Mar 2025
+
+* Ancient of Days (1992)
+  * 11 Oct 2025
+
+## Previously
+
+* Come As You Are (2014)
+  * 04 Oct 2025
+  * 23 Aug 2025
+  * 19 July 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* When I Survey
+  * 04 Oct 2025
+  * 21 June 2025
+  * 11 May 2024
+
+* Grace Alone (2013)
+  * 20 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+
+* Only Your Blood
+  * 20 Sep 2025
+  * 03 May 2025
+  * 17 Feb 2024
+
+* Live For The Kingdom
+  * 20 Sep 2025
+  * 23 Aug 2025
+  * 12 July 2025
+  * 31 May 2025
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+* A Thousand Hallelujahs (2022)
+  * 13 Sep 2025
+  * 02 Aug 2025
+
+* O Come to the Altar (2015)
+  * 13 Sep 2025
+  * 09 Aug 2025
+  * 14 June 2025
+  * 26 Apr 2025
+  * 15 Feb 2025
+  * 11 Jan 2025
+
+* The Chorus of the Saved (2015)
+  * 13 Sep 2025
+  * 19 July 2025
+  * 07 June 2025
+  * 05 Apr 2025
+  * 4 Jan 2025
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 06 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 19 Apr 2025
+  * 15 Feb 2025
+
+* Build My Life (2016)
+  * 06 Sep 2025
+  * 01 Mar 2025
+
+* No Other Name (2010)
+  * 06 Sep 2025
+  * 17 May 2025
+  * 24 Feb 2024
+
 * Rejoice (2013)
   * 30 Aug 2025
   * 26 July 2025
@@ -21,22 +100,6 @@
   * 30 Aug 2025
   * 24 May 2025
   * 1 Feb 2025
-
-## Previously
-
-* Live For The Kingdom
-  * 23 Aug 2025
-  * 12 July 2025
-  * 31 May 2025
-  * 26 Apr 2025
-  * 01 Mar 2025
-  
-* Come As You Are (2014)
-  * 23 Aug 2025
-  * 19 July 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
 
 * Rock of Ages
   * 23 Aug 2025
@@ -68,57 +131,20 @@
   * 05 Apr 2025
   * 08 Mar 2025
 
-* O Come to the Altar (2015)
-  * 09 Aug 2025
-  * 14 June 2025
-  * 26 Apr 2025
-  * 15 Feb 2025
-  * 11 Jan 2025
-
 * Just As I Am
   * 09 Aug 2025
   * 24 May 2025
   * 8 Feb 2025
-
-* Grace Alone (2013)
-  * 02 Aug 2025
-  * 21 June 2025
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
-
-* A Thousand Hallelujahs (2022)
-  * 02 Aug 2025
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 02 Aug 2025
-  * 21 June 2025
-  * 19 Apr 2025
-  * 15 Feb 2025
 
 * Grace Unmeasured (2005)
   * 26 July 2025
   * 05 Apr 2025
   * 8 Feb 2025
 
-* Blessed Be Your Name
-  * 26 July 2025
-  * 08 Mar 2025
-
-* The Chorus of the Saved (2015)
-  * 19 July 2025
-  * 07 June 2025
-  * 05 Apr 2025
-  * 4 Jan 2025
-
 * I Stand Amazed
   * 28 June 2025
   * 19 Apr 2025
   * 7 Sept 2024
-
-* When I Survey
-  * 21 June 2025
-  * 11 May 2024
 
 * In His Name (2010)
   * 07 June 2025
@@ -134,26 +160,15 @@
   * 15 Mar 2025
   * 18 Jan 2025
   
-* No Other Name (2010)
-  * 17 May 2025
-  * 24 Feb 2024
-
 * Now Unto Him
   * 10 May 2025
   * 27 Apr 2024
-
-* Only Your Blood
-  * 03 May 2025
-  * 17 Feb 2024
 
 * This Life I Live (2009)
   * 08 Mar 2025
   * 4 Jan 2025
 
 * Behold The Lamb of God
-  * 01 Mar 2025
-
-* Build My Life (2016)
   * 01 Mar 2025
 
 * It is Well With My Soul 
