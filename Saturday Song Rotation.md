@@ -2,6 +2,32 @@
 
 ## This week
 
+* Rejoice (2013)
+  * 25 Oct 2025
+  * 30 Aug 2025
+  * 26 July 2025
+  * 14 June 2025
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Only A Holy God (2016)
+  * 25 Oct 2025
+  * 16 Aug 2025
+  * 28 June 2025
+  * 17 May 2025
+  * 22 Mar 2025
+  * 15 Feb 2025
+
+* Be Thou My Vision
+  * 25 Oct 2025
+  * 31 May 2025
+  * 15 Mar 2025
+  * 18 Jan 2025
+ 
+## Previously
+
 * Blessed Be Your Name
   * 11 Oct 2025
   * 26 July 2025
@@ -9,8 +35,6 @@
 
 * Ancient of Days (1992)
   * 11 Oct 2025
-
-## Previously
 
 * Come As You Are (2014)
   * 04 Oct 2025
@@ -33,7 +57,7 @@
   * 15 Mar 2025
   * 1 Feb 2025
 
-* Only Your Blood
+* Only Your Blood Is Enough
   * 20 Sep 2025
   * 03 May 2025
   * 17 Feb 2024
@@ -81,15 +105,6 @@
   * 17 May 2025
   * 24 Feb 2024
 
-* Rejoice (2013)
-  * 30 Aug 2025
-  * 26 July 2025
-  * 14 June 2025
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Yet Not I But Through Christ In Me
   * 30 Aug 2025
   * 12 July 2025
@@ -112,13 +127,6 @@
   * 03 May 2025
   * 22 Mar 2025
   * 22 Feb 2024
-
-* Only A Holy God (2016)
-  * 16 Aug 2025
-  * 28 June 2025
-  * 17 May 2025
-  * 22 Mar 2025
-  * 15 Feb 2025
 
 * Jesus Messiah (2008)
   * 16 Aug 2025
@@ -154,11 +162,6 @@
   * 31 May 2025
   * 29 Mar 2025
   * 8 Feb 2025
-
-* Be Thou My Vision
-  * 31 May 2025
-  * 15 Mar 2025
-  * 18 Jan 2025
   
 * Now Unto Him
   * 10 May 2025
