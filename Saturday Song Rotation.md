@@ -2,6 +2,30 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 01 Nov 2025
+  * 20 Sep 2025
+  * 23 Aug 2025
+  * 12 July 2025
+  * 31 May 2025
+  * 26 Apr 2025
+  * 01 Mar 2025
+  
+* A Thousand Hallelujahs (2022)
+  * 01 Nov 2025
+  * 13 Sep 2025
+  * 02 Aug 2025
+  
+* Amazing Grace (My Chains are Gone) (2006)
+  * 01 Nov 2025
+  * 06 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 19 Apr 2025
+  * 15 Feb 2025
+
+## Previously
+
 * Rejoice (2013)
   * 25 Oct 2025
   * 30 Aug 2025
@@ -26,8 +50,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
  
-## Previously
-
 * Blessed Be Your Name
   * 11 Oct 2025
   * 26 July 2025
@@ -62,18 +84,6 @@
   * 03 May 2025
   * 17 Feb 2024
 
-* Live For The Kingdom
-  * 20 Sep 2025
-  * 23 Aug 2025
-  * 12 July 2025
-  * 31 May 2025
-  * 26 Apr 2025
-  * 01 Mar 2025
-  
-* A Thousand Hallelujahs (2022)
-  * 13 Sep 2025
-  * 02 Aug 2025
-
 * O Come to the Altar (2015)
   * 13 Sep 2025
   * 09 Aug 2025
@@ -88,13 +98,6 @@
   * 07 June 2025
   * 05 Apr 2025
   * 4 Jan 2025
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 06 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 19 Apr 2025
-  * 15 Feb 2025
 
 * Build My Life (2016)
   * 06 Sep 2025
