@@ -2,6 +2,30 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 08 Nov 2025
+  * 20 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+
+* Build My Life (2016)
+  * 08 Nov 2025
+  * 06 Sep 2025
+  * 01 Mar 2025
+
+* The Chorus of the Saved (2015)
+  * 08 Nov 2025
+  * 13 Sep 2025
+  * 19 July 2025
+  * 07 June 2025
+  * 05 Apr 2025
+  * 4 Jan 2025
+
+## Previously
+
 * Live For The Kingdom
   * 01 Nov 2025
   * 20 Sep 2025
@@ -23,8 +47,6 @@
   * 21 June 2025
   * 19 Apr 2025
   * 15 Feb 2025
-
-## Previously
 
 * Rejoice (2013)
   * 25 Oct 2025
@@ -71,14 +93,6 @@
   * 21 June 2025
   * 11 May 2024
 
-* Grace Alone (2013)
-  * 20 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
-
 * Only Your Blood Is Enough
   * 20 Sep 2025
   * 03 May 2025
@@ -91,17 +105,6 @@
   * 26 Apr 2025
   * 15 Feb 2025
   * 11 Jan 2025
-
-* The Chorus of the Saved (2015)
-  * 13 Sep 2025
-  * 19 July 2025
-  * 07 June 2025
-  * 05 Apr 2025
-  * 4 Jan 2025
-
-* Build My Life (2016)
-  * 06 Sep 2025
-  * 01 Mar 2025
 
 * No Other Name (2010)
   * 06 Sep 2025
