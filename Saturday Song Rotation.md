@@ -2,6 +2,29 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 15 Nov 2025
+  * 09 Aug 2025
+  * 28 June 2025
+  * 24 May 2025
+  * 05 Apr 2025
+  * 08 Mar 2025
+
+* Yet Not I But Through Christ In Me
+  * 15 Nov 2025
+  * 30 Aug 2025
+  * 12 July 2025
+  * 10 May 2025
+  * 1 Feb 2025
+
+* Blessed Be Your Name
+  * 15 Nov 2025
+  * 11 Oct 2025
+  * 26 July 2025
+  * 08 Mar 2025
+
+## Previously
+
 * Grace Alone (2013)
   * 08 Nov 2025
   * 20 Sep 2025
@@ -23,8 +46,6 @@
   * 07 June 2025
   * 05 Apr 2025
   * 4 Jan 2025
-
-## Previously
 
 * Live For The Kingdom
   * 01 Nov 2025
@@ -72,11 +93,6 @@
   * 15 Mar 2025
   * 18 Jan 2025
  
-* Blessed Be Your Name
-  * 11 Oct 2025
-  * 26 July 2025
-  * 08 Mar 2025
-
 * Ancient of Days (1992)
   * 11 Oct 2025
 
@@ -111,12 +127,6 @@
   * 17 May 2025
   * 24 Feb 2024
 
-* Yet Not I But Through Christ In Me
-  * 30 Aug 2025
-  * 12 July 2025
-  * 10 May 2025
-  * 1 Feb 2025
-
 * All Creatures of Our God and King
   * 30 Aug 2025
   * 24 May 2025
@@ -137,13 +147,6 @@
 * Jesus Messiah (2008)
   * 16 Aug 2025
   * 15 Mar 2025
-
-* This is Amazing Grace
-  * 09 Aug 2025
-  * 28 June 2025
-  * 24 May 2025
-  * 05 Apr 2025
-  * 08 Mar 2025
 
 * Just As I Am
   * 09 Aug 2025
