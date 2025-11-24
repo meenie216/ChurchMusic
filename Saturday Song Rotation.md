@@ -2,6 +2,24 @@
 
 ## This week
 
+* In His Name (2010)
+  * 22 Nov 2025
+  * 07 June 2025
+  * 21 Sept 2024  
+
+* Never Alone (2006)
+  * 22 Nov 2025
+  * 31 May 2025
+  * 29 Mar 2025
+  * 8 Feb 2025
+  
+* Now Unto Him
+  * 22 Nov 2025
+  * 10 May 2025
+  * 27 Apr 2024
+
+## Previously
+
 * This is Amazing Grace
   * 15 Nov 2025
   * 09 Aug 2025
@@ -23,8 +41,6 @@
   * 26 July 2025
   * 08 Mar 2025
 
-## Previously
-
 * Grace Alone (2013)
   * 08 Nov 2025
   * 20 Sep 2025
@@ -38,14 +54,6 @@
   * 08 Nov 2025
   * 06 Sep 2025
   * 01 Mar 2025
-
-* The Chorus of the Saved (2015)
-  * 08 Nov 2025
-  * 13 Sep 2025
-  * 19 July 2025
-  * 07 June 2025
-  * 05 Apr 2025
-  * 4 Jan 2025
 
 * Live For The Kingdom
   * 01 Nov 2025
@@ -69,16 +77,6 @@
   * 19 Apr 2025
   * 15 Feb 2025
 
-* Rejoice (2013)
-  * 25 Oct 2025
-  * 30 Aug 2025
-  * 26 July 2025
-  * 14 June 2025
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
-  
 * Only A Holy God (2016)
   * 25 Oct 2025
   * 16 Aug 2025
@@ -96,14 +94,6 @@
 * Ancient of Days (1992)
   * 11 Oct 2025
 
-* Come As You Are (2014)
-  * 04 Oct 2025
-  * 23 Aug 2025
-  * 19 July 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
-
 * When I Survey
   * 04 Oct 2025
   * 21 June 2025
@@ -113,14 +103,6 @@
   * 20 Sep 2025
   * 03 May 2025
   * 17 Feb 2024
-
-* O Come to the Altar (2015)
-  * 13 Sep 2025
-  * 09 Aug 2025
-  * 14 June 2025
-  * 26 Apr 2025
-  * 15 Feb 2025
-  * 11 Jan 2025
 
 * No Other Name (2010)
   * 06 Sep 2025
@@ -163,19 +145,6 @@
   * 19 Apr 2025
   * 7 Sept 2024
 
-* In His Name (2010)
-  * 07 June 2025
-  * 21 Sept 2024  
-
-* Never Alone (2006)
-  * 31 May 2025
-  * 29 Mar 2025
-  * 8 Feb 2025
-  
-* Now Unto Him
-  * 10 May 2025
-  * 27 Apr 2024
-
 * This Life I Live (2009)
   * 08 Mar 2025
   * 4 Jan 2025
@@ -214,6 +183,40 @@
   * 13 Jan 2024
 
 ## Off Rotation
+
+* The Chorus of the Saved (2015)
+  * 08 Nov 2025
+  * 13 Sep 2025
+  * 19 July 2025
+  * 07 June 2025
+  * 05 Apr 2025
+  * 4 Jan 2025
+
+* Rejoice (2013)
+  * 25 Oct 2025
+  * 30 Aug 2025
+  * 26 July 2025
+  * 14 June 2025
+  * 10 May 2025
+  * 29 Mar 2025
+  * 22 Feb 2024
+  * 18 Jan 2025
+  
+* Come As You Are (2014)
+  * 04 Oct 2025
+  * 23 Aug 2025
+  * 19 July 2025
+  * 03 May 2025
+  * 22 Mar 2025
+  * 22 Feb 2024
+
+* O Come to the Altar (2015)
+  * 13 Sep 2025
+  * 09 Aug 2025
+  * 14 June 2025
+  * 26 Apr 2025
+  * 15 Feb 2025
+  * 11 Jan 2025
 
 * Highest Place (1998)
 
