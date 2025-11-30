@@ -2,6 +2,45 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 06 Dec 2025
+  * 01 Nov 2025
+  * 06 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 19 Apr 2025
+  * 15 Feb 2025
+
+* Take My Life
+  * 06 Dec 2025
+
+* Rock of Ages
+  * 06 Dec 2025
+  * 23 Aug 2025
+  * 29 Mar 2025
+  * 8 Feb 2025
+
+## Previously
+
+* Ancient of Days (1992)
+  * 29 Nov 2025
+  * 11 Oct 2025
+
+* Only A Holy God (2016)
+  * 29 Nov 2025
+  * 25 Oct 2025
+  * 16 Aug 2025
+  * 28 June 2025
+  * 17 May 2025
+  * 22 Mar 2025
+  * 15 Feb 2025
+
+* All Creatures of Our God and King
+  * 29 Nov 2025
+  * 30 Aug 2025
+  * 24 May 2025
+  * 1 Feb 2025
+
 * In His Name (2010)
   * 22 Nov 2025
   * 07 June 2025
@@ -17,8 +56,6 @@
   * 22 Nov 2025
   * 10 May 2025
   * 27 Apr 2024
-
-## Previously
 
 * This is Amazing Grace
   * 15 Nov 2025
@@ -69,31 +106,12 @@
   * 13 Sep 2025
   * 02 Aug 2025
   
-* Amazing Grace (My Chains are Gone) (2006)
-  * 01 Nov 2025
-  * 06 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 19 Apr 2025
-  * 15 Feb 2025
-
-* Only A Holy God (2016)
-  * 25 Oct 2025
-  * 16 Aug 2025
-  * 28 June 2025
-  * 17 May 2025
-  * 22 Mar 2025
-  * 15 Feb 2025
-
 * Be Thou My Vision
   * 25 Oct 2025
   * 31 May 2025
   * 15 Mar 2025
   * 18 Jan 2025
  
-* Ancient of Days (1992)
-  * 11 Oct 2025
-
 * When I Survey
   * 04 Oct 2025
   * 21 June 2025
@@ -108,16 +126,6 @@
   * 06 Sep 2025
   * 17 May 2025
   * 24 Feb 2024
-
-* All Creatures of Our God and King
-  * 30 Aug 2025
-  * 24 May 2025
-  * 1 Feb 2025
-
-* Rock of Ages
-  * 23 Aug 2025
-  * 29 Mar 2025
-  * 8 Feb 2025
 
 * 10,000 Reasons (2011)
   * 16 Aug 2025
@@ -260,8 +268,6 @@
 * Show Us Christ (2011)
 
 * He Shall Reign (2015)
-
-* Take My Life
 
 * I Will Trust You in the Darkness
 
