@@ -2,6 +2,24 @@
 
 ## This week
 
+* Apostles' Creed ()
+  * 07 Mar 2026
+  * 21 Feb 2026
+
+* Build My Life (2016)
+  * 07 Mar 2026
+  * 10 Jan 2026
+  * 08 Nov 2025
+  * 06 Sep 2025
+  * 01 Mar 2025
+
+* This Life I Live (2009)
+  * 07 Mar 2026
+  * 08 Mar 2025
+  * 4 Jan 2025
+
+## Previously
+
 * His Glory And My Good (2024)
   * 28 Feb 2026
   * 14 Feb 2026
@@ -23,8 +41,6 @@
   * 05 Apr 2025
   * 08 Mar 2025
 
-## Previously
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 21 Feb 2026
   * 10 Jan 2026
@@ -35,9 +51,6 @@
   * 21 June 2025
   * 19 Apr 2025
   * 15 Feb 2025
-
-* Apostles' Creed ()
-  * 21 Feb 2026
 
 * Live For The Kingdom
   * 21 Feb 2026
@@ -119,12 +132,6 @@
   * 19 Apr 2025
   * 7 Sept 2024
 
-* Build My Life (2016)
-  * 10 Jan 2026
-  * 08 Nov 2025
-  * 06 Sep 2025
-  * 01 Mar 2025
-
 * Rock of Ages
   * 20 Dec 2025
   * 06 Dec 2025
@@ -185,10 +192,6 @@
   * 26 July 2025
   * 05 Apr 2025
   * 8 Feb 2025
-
-* This Life I Live (2009)
-  * 08 Mar 2025
-  * 4 Jan 2025
 
 * Behold The Lamb of God
   * 01 Mar 2025
