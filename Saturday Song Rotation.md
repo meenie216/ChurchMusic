@@ -2,6 +2,68 @@
 
 ## This week
 
+* His Glory And My Good (2024)
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* Only Your Blood Is Enough
+  * 28 Mar 2026
+  * 20 Sep 2025
+  * 03 May 2025
+  * 17 Feb 2024
+
+* I Stand Amazed
+  * 28 Mar 2026
+  * 17 Jan 2026
+  * 28 June 2025
+  * 19 Apr 2025
+  * 7 Sept 2024
+
+## Previously
+
+* Grace Alone (2013)
+  * 21 Mar 2026
+  * 24 Jan 2026
+  * 08 Nov 2025
+  * 20 Sep 2025
+  * 02 Aug 2025
+  * 21 June 2025
+  * 17 May 2025
+  * 15 Mar 2025
+  * 1 Feb 2025
+  
+* Yet Not I But Through Christ In Me
+  * 21 Mar 2026
+  * 15 Nov 2025
+  * 30 Aug 2025
+  * 12 July 2025
+  * 10 May 2025
+  * 1 Feb 2025
+
+* See Him Coming
+  * 21 Mar 2026
+
+* Now Unto Him
+  * 14 Mar 2026
+  * 22 Nov 2025
+  * 10 May 2025
+  * 27 Apr 2024
+
+* When I Survey
+  * 14 Mar 2026
+  * 04 Oct 2025
+  * 21 June 2025
+  * 11 May 2024
+
+* A Thousand Hallelujahs (2022)
+  * 14 Mar 2026
+  * 31 Jan 2024
+  * 20 Dec 2025
+  * 01 Nov 2025
+  * 13 Sep 2025
+  * 02 Aug 2025
+  
 * Apostles' Creed ()
   * 07 Mar 2026
   * 21 Feb 2026
@@ -17,12 +79,6 @@
   * 07 Mar 2026
   * 08 Mar 2025
   * 4 Jan 2025
-
-## Previously
-
-* His Glory And My Good (2024)
-  * 28 Feb 2026
-  * 14 Feb 2026
 
 * Never Alone (2006)
   * 28 Feb 2026
@@ -98,13 +154,6 @@
   * 24 May 2025
   * 1 Feb 2025
 
-* A Thousand Hallelujahs (2022)
-  * 31 Jan 2024
-  * 20 Dec 2025
-  * 01 Nov 2025
-  * 13 Sep 2025
-  * 02 Aug 2025
-  
 * Be Thou My Vision
   * 31 Jan 2024
   * 25 Oct 2025
@@ -112,25 +161,9 @@
   * 15 Mar 2025
   * 18 Jan 2025
  
-* Grace Alone (2013)
-  * 24 Jan 2026
-  * 08 Nov 2025
-  * 20 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
-  
 * How Great You Are (2012)
   * 17 Jan 2026
   * 13 Jul 2024
-
-* I Stand Amazed
-  * 17 Jan 2026
-  * 28 June 2025
-  * 19 Apr 2025
-  * 7 Sept 2024
 
 * Rock of Ages
   * 20 Dec 2025
@@ -146,33 +179,11 @@
   * 29 Nov 2025
   * 11 Oct 2025
 
-* Now Unto Him
-  * 22 Nov 2025
-  * 10 May 2025
-  * 27 Apr 2024
-
-* Yet Not I But Through Christ In Me
-  * 15 Nov 2025
-  * 30 Aug 2025
-  * 12 July 2025
-  * 10 May 2025
-  * 1 Feb 2025
-
 * Blessed Be Your Name
   * 15 Nov 2025
   * 11 Oct 2025
   * 26 July 2025
   * 08 Mar 2025
-
-* When I Survey
-  * 04 Oct 2025
-  * 21 June 2025
-  * 11 May 2024
-
-* Only Your Blood Is Enough
-  * 20 Sep 2025
-  * 03 May 2025
-  * 17 Feb 2024
 
 * No Other Name (2010)
   * 06 Sep 2025
