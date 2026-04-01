@@ -4,19 +4,12 @@
 
 * Behold The Lamb of God
   * 04 Apr 2026
-  * 01 Mar 2025
 
 * Jerusalem (2014)
   * 04 Apr 2026
-  * 30 Mar 2024
 
 * Rock of Ages
   * 04 Apr 2026
-  * 20 Dec 2025
-  * 06 Dec 2025
-  * 23 Aug 2025
-  * 29 Mar 2025
-  * 8 Feb 2025
 
 ## Previously
 
@@ -27,58 +20,29 @@
 
 * Only Your Blood Is Enough
   * 28 Mar 2026
-  * 20 Sep 2025
-  * 03 May 2025
-  * 17 Feb 2024
 
 * I Stand Amazed
   * 28 Mar 2026
   * 17 Jan 2026
-  * 28 June 2025
-  * 19 Apr 2025
-  * 7 Sept 2024
 
 * Grace Alone (2013)
   * 21 Mar 2026
   * 24 Jan 2026
-  * 08 Nov 2025
-  * 20 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 17 May 2025
-  * 15 Mar 2025
-  * 1 Feb 2025
   
 * Yet Not I But Through Christ In Me
   * 21 Mar 2026
-  * 15 Nov 2025
-  * 30 Aug 2025
-  * 12 July 2025
-  * 10 May 2025
-  * 1 Feb 2025
 
 * See Him Coming
   * 21 Mar 2026
 
 * Now Unto Him
   * 14 Mar 2026
-  * 22 Nov 2025
-  * 10 May 2025
-  * 27 Apr 2024
 
 * When I Survey
   * 14 Mar 2026
-  * 04 Oct 2025
-  * 21 June 2025
-  * 11 May 2024
 
 * A Thousand Hallelujahs (2022)
   * 14 Mar 2026
-  * 31 Jan 2024
-  * 20 Dec 2025
-  * 01 Nov 2025
-  * 13 Sep 2025
-  * 02 Aug 2025
   
 * Apostles' Creed ()
   * 07 Mar 2026
@@ -87,77 +51,31 @@
 * Build My Life (2016)
   * 07 Mar 2026
   * 10 Jan 2026
-  * 08 Nov 2025
-  * 06 Sep 2025
-  * 01 Mar 2025
 
 * This Life I Live (2009)
   * 07 Mar 2026
-  * 08 Mar 2025
-  * 4 Jan 2025
 
 * Never Alone (2006)
   * 28 Feb 2026
-  * 22 Nov 2025
-  * 31 May 2025
-  * 29 Mar 2025
-  * 8 Feb 2025
   
 * This is Amazing Grace
   * 28 Feb 2026
-  * 31 Jan 2024
-  * 15 Nov 2025
-  * 09 Aug 2025
-  * 28 June 2025
-  * 24 May 2025
-  * 05 Apr 2025
-  * 08 Mar 2025
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 21 Feb 2026
   * 10 Jan 2026
-  * 06 Dec 2025
-  * 01 Nov 2025
-  * 06 Sep 2025
-  * 02 Aug 2025
-  * 21 June 2025
-  * 19 Apr 2025
-  * 15 Feb 2025
 
 * Live For The Kingdom
   * 21 Feb 2026
-  * 20 Dec 2025
-  * 01 Nov 2025
-  * 20 Sep 2025
-  * 23 Aug 2025
-  * 12 July 2025
-  * 31 May 2025
-  * 26 Apr 2025
-  * 01 Mar 2025
   
 * In His Name (2010)
   * 14 Feb 2026
-  * 22 Nov 2025
-  * 07 June 2025
-  * 21 Sept 2024  
 
 * Only A Holy God (2016)
   * 14 Feb 2026
-  * 29 Nov 2025
-  * 25 Oct 2025
-  * 16 Aug 2025
-  * 28 June 2025
-  * 17 May 2025
-  * 22 Mar 2025
-  * 15 Feb 2025
 
 * 10,000 Reasons (2011)
   * 07 Feb 2026
-  * 16 Aug 2025
-  * 14 June 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
 
 * Lord I Need You
   * 07 Feb 2026
@@ -165,53 +83,33 @@
 
 * All Creatures of Our God and King
   * 07 Feb 2026
-  * 29 Nov 2025
-  * 30 Aug 2025
-  * 24 May 2025
-  * 1 Feb 2025
 
 * Be Thou My Vision
-  * 31 Jan 2024
   * 25 Oct 2025
-  * 31 May 2025
-  * 15 Mar 2025
-  * 18 Jan 2025
  
 * How Great You Are (2012)
   * 17 Jan 2026
-  * 13 Jul 2024
 
 * Take My Life
   * 06 Dec 2025
 
 * Ancient of Days (1992)
   * 29 Nov 2025
-  * 11 Oct 2025
 
 * Blessed Be Your Name
   * 15 Nov 2025
-  * 11 Oct 2025
-  * 26 July 2025
-  * 08 Mar 2025
 
 * No Other Name (2010)
   * 06 Sep 2025
-  * 17 May 2025
-  * 24 Feb 2024
 
 * Jesus Messiah (2008)
   * 16 Aug 2025
-  * 15 Mar 2025
 
 * Just As I Am
   * 09 Aug 2025
-  * 24 May 2025
-  * 8 Feb 2025
 
 * Grace Unmeasured (2005)
   * 26 July 2025
-  * 05 Apr 2025
-  * 8 Feb 2025
 
 * It is Well With My Soul 
   * 11 Jan 2025
@@ -241,37 +139,15 @@
 
 * The Chorus of the Saved (2015)
   * 08 Nov 2025
-  * 13 Sep 2025
-  * 19 July 2025
-  * 07 June 2025
-  * 05 Apr 2025
-  * 4 Jan 2025
 
 * Rejoice (2013)
   * 25 Oct 2025
-  * 30 Aug 2025
-  * 26 July 2025
-  * 14 June 2025
-  * 10 May 2025
-  * 29 Mar 2025
-  * 22 Feb 2024
-  * 18 Jan 2025
   
 * Come As You Are (2014)
   * 04 Oct 2025
-  * 23 Aug 2025
-  * 19 July 2025
-  * 03 May 2025
-  * 22 Mar 2025
-  * 22 Feb 2024
 
 * O Come to the Altar (2015)
   * 13 Sep 2025
-  * 09 Aug 2025
-  * 14 June 2025
-  * 26 Apr 2025
-  * 15 Feb 2025
-  * 11 Jan 2025
 
 * Highest Place (1998)
 
