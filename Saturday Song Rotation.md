@@ -2,6 +2,24 @@
 
 ## This week
 
+* Behold The Lamb of God
+  * 04 Apr 2026
+  * 01 Mar 2025
+
+* Jerusalem (2014)
+  * 04 Apr 2026
+  * 30 Mar 2024
+
+* Rock of Ages
+  * 04 Apr 2026
+  * 20 Dec 2025
+  * 06 Dec 2025
+  * 23 Aug 2025
+  * 29 Mar 2025
+  * 8 Feb 2025
+
+## Previously
+
 * His Glory And My Good (2024)
   * 28 Mar 2026
   * 28 Feb 2026
@@ -19,8 +37,6 @@
   * 28 June 2025
   * 19 Apr 2025
   * 7 Sept 2024
-
-## Previously
 
 * Grace Alone (2013)
   * 21 Mar 2026
@@ -165,13 +181,6 @@
   * 17 Jan 2026
   * 13 Jul 2024
 
-* Rock of Ages
-  * 20 Dec 2025
-  * 06 Dec 2025
-  * 23 Aug 2025
-  * 29 Mar 2025
-  * 8 Feb 2025
-
 * Take My Life
   * 06 Dec 2025
 
@@ -204,9 +213,6 @@
   * 05 Apr 2025
   * 8 Feb 2025
 
-* Behold The Lamb of God
-  * 01 Mar 2025
-
 * It is Well With My Soul 
   * 11 Jan 2025
 
@@ -227,9 +233,6 @@
 
 * How Great Thou Art
   * 25 May 2024
-
-* Jerusalem (2014)
-  * 30 Mar 2024
 
 * Lifted Me Up
   * 13 Jan 2024
