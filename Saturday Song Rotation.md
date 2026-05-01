@@ -2,6 +2,48 @@
 
 ## This week
 
+* Ancient of Days (City Alight) (2018)
+  * 02 May 2026
+
+* Blessed Be Your Name
+  * 02 May 2026
+  * 15 Nov 2025
+
+* Lord I Need You
+  * 02 May 2026
+  * 07 Feb 2026
+  * 24 Jan 2026
+
+## Previously
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 25 Apr 2026
+  * 21 Feb 2026
+  * 10 Jan 2026
+
+* His Glory And My Good (2024)
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* When I Survey
+  * 25 Apr 2026
+  * 14 Mar 2026
+
+* This is Amazing Grace
+  * 11 Apr 2026
+  * 28 Feb 2026
+
+* Apostles' Creed ()
+  * 11 Apr 2026
+  * 07 Mar 2026
+  * 21 Feb 2026
+
+* All Creatures of Our God and King
+  * 11 Apr 2026
+  * 07 Feb 2026
+
 * Behold The Lamb of God
   * 04 Apr 2026
 
@@ -10,13 +52,6 @@
 
 * Rock of Ages
   * 04 Apr 2026
-
-## Previously
-
-* His Glory And My Good (2024)
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
 
 * Only Your Blood Is Enough
   * 28 Mar 2026
@@ -38,16 +73,9 @@
 * Now Unto Him
   * 14 Mar 2026
 
-* When I Survey
-  * 14 Mar 2026
-
 * A Thousand Hallelujahs (2022)
   * 14 Mar 2026
   
-* Apostles' Creed ()
-  * 07 Mar 2026
-  * 21 Feb 2026
-
 * Build My Life (2016)
   * 07 Mar 2026
   * 10 Jan 2026
@@ -58,13 +86,6 @@
 * Never Alone (2006)
   * 28 Feb 2026
   
-* This is Amazing Grace
-  * 28 Feb 2026
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 21 Feb 2026
-  * 10 Jan 2026
-
 * Live For The Kingdom
   * 21 Feb 2026
   
@@ -75,13 +96,6 @@
   * 14 Feb 2026
 
 * 10,000 Reasons (2011)
-  * 07 Feb 2026
-
-* Lord I Need You
-  * 07 Feb 2026
-  * 24 Jan 2026
-
-* All Creatures of Our God and King
   * 07 Feb 2026
 
 * Be Thou My Vision
@@ -95,9 +109,6 @@
 
 * Ancient of Days (1992)
   * 29 Nov 2025
-
-* Blessed Be Your Name
-  * 15 Nov 2025
 
 * No Other Name (2010)
   * 06 Sep 2025
