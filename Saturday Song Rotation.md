@@ -2,6 +2,21 @@
 
 ## This week
 
+* This is the Day (City Alight)
+  * 09 May 2026
+  * 31 Aug 2024
+
+* Build My Life (2016)
+  * 09 May 2026
+  * 07 Mar 2026
+  * 10 Jan 2026
+
+* Now Unto Him
+  * 09 May 2026
+  * 14 Mar 2026
+
+## Previously
+
 * Ancient of Days (City Alight) (2018)
   * 02 May 2026
 
@@ -13,8 +28,6 @@
   * 02 May 2026
   * 07 Feb 2026
   * 24 Jan 2026
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 25 Apr 2026
