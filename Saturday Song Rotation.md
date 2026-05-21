@@ -2,6 +2,34 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 22 May 2026
+  * 21 Mar 2026
+  * 24 Jan 2026
+
+* Rock of Ages
+  * 22 May 2026
+  * 04 Apr 2026
+
+* Just As I Am
+  * 22 May 2026
+  * 09 Aug 2025
+
+## Previously
+
+* This is Amazing Grace
+  * 16 May 2026
+  * 11 Apr 2026
+  * 28 Feb 2026
+
+* Be Thou My Vision
+  * 16 May 2026
+  * 25 Oct 2025
+ 
+* Ancient of Days (City Alight) (2018)
+  * 16 May 2026
+  * 02 May 2026
+
 * This is the Day (City Alight)
   * 09 May 2026
   * 31 Aug 2024
@@ -14,11 +42,6 @@
 * Now Unto Him
   * 09 May 2026
   * 14 Mar 2026
-
-## Previously
-
-* Ancient of Days (City Alight) (2018)
-  * 02 May 2026
 
 * Blessed Be Your Name
   * 02 May 2026
@@ -44,10 +67,6 @@
   * 25 Apr 2026
   * 14 Mar 2026
 
-* This is Amazing Grace
-  * 11 Apr 2026
-  * 28 Feb 2026
-
 * Apostles' Creed ()
   * 11 Apr 2026
   * 07 Mar 2026
@@ -63,9 +82,6 @@
 * Jerusalem (2014)
   * 04 Apr 2026
 
-* Rock of Ages
-  * 04 Apr 2026
-
 * Only Your Blood Is Enough
   * 28 Mar 2026
 
@@ -73,26 +89,15 @@
   * 28 Mar 2026
   * 17 Jan 2026
 
-* Grace Alone (2013)
-  * 21 Mar 2026
-  * 24 Jan 2026
-  
 * Yet Not I But Through Christ In Me
   * 21 Mar 2026
 
 * See Him Coming
   * 21 Mar 2026
 
-* Now Unto Him
-  * 14 Mar 2026
-
 * A Thousand Hallelujahs (2022)
   * 14 Mar 2026
   
-* Build My Life (2016)
-  * 07 Mar 2026
-  * 10 Jan 2026
-
 * This Life I Live (2009)
   * 07 Mar 2026
 
@@ -111,9 +116,6 @@
 * 10,000 Reasons (2011)
   * 07 Feb 2026
 
-* Be Thou My Vision
-  * 25 Oct 2025
- 
 * How Great You Are (2012)
   * 17 Jan 2026
 
@@ -129,9 +131,6 @@
 * Jesus Messiah (2008)
   * 16 Aug 2025
 
-* Just As I Am
-  * 09 Aug 2025
-
 * Grace Unmeasured (2005)
   * 26 July 2025
 
@@ -146,9 +145,6 @@
   
 * We Belong to the Day (2006)
   * 12 Oct 2024
-
-* This is the Day
-  * 31 Aug 2024
 
 * By The Cross (1998)
   * 22 Jun 2024
@@ -223,7 +219,5 @@
 * Create In Me a Clean Heart
 
 * And Can It Be
-
-* Now unto Him
 
 * *All Glory be to Christ*
