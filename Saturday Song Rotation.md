@@ -2,6 +2,23 @@
 
 ## This week
 
+* His Glory And My Good (2024)
+  * 30 May 2026
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* Only A Holy God (2016)
+  * 30 May 2026
+  * 14 Feb 2026
+
+* Live For The Kingdom
+  * 30 May 2026
+  * 21 Feb 2026
+
+## Previously
+
 * Grace Alone (2013)
   * 22 May 2026
   * 21 Mar 2026
@@ -14,8 +31,6 @@
 * Just As I Am
   * 22 May 2026
   * 09 Aug 2025
-
-## Previously
 
 * This is Amazing Grace
   * 16 May 2026
@@ -57,11 +72,6 @@
   * 21 Feb 2026
   * 10 Jan 2026
 
-* His Glory And My Good (2024)
-  * 25 Apr 2026
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
 
 * When I Survey
   * 25 Apr 2026
@@ -104,14 +114,9 @@
 * Never Alone (2006)
   * 28 Feb 2026
   
-* Live For The Kingdom
-  * 21 Feb 2026
-  
 * In His Name (2010)
   * 14 Feb 2026
 
-* Only A Holy God (2016)
-  * 14 Feb 2026
 
 * 10,000 Reasons (2011)
   * 07 Feb 2026
