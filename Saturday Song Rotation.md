@@ -2,6 +2,23 @@
 
 ## This week
 
+* Apostles' Creed ()
+  * 06 Jun 2026
+  * 11 Apr 2026
+  * 07 Mar 2026
+  * 21 Feb 2026
+
+* Yet Not I But Through Christ In Me
+  * 06 Jun 2026
+  * 21 Mar 2026
+
+* Blessed Be Your Name
+  * 06 Jun 2026
+  * 02 May 2026
+  * 15 Nov 2025
+
+## Previously
+
 * His Glory And My Good (2024)
   * 30 May 2026
   * 25 Apr 2026
@@ -16,8 +33,6 @@
 * Live For The Kingdom
   * 30 May 2026
   * 21 Feb 2026
-
-## Previously
 
 * Grace Alone (2013)
   * 22 May 2026
@@ -58,10 +73,6 @@
   * 09 May 2026
   * 14 Mar 2026
 
-* Blessed Be Your Name
-  * 02 May 2026
-  * 15 Nov 2025
-
 * Lord I Need You
   * 02 May 2026
   * 07 Feb 2026
@@ -76,11 +87,6 @@
 * When I Survey
   * 25 Apr 2026
   * 14 Mar 2026
-
-* Apostles' Creed ()
-  * 11 Apr 2026
-  * 07 Mar 2026
-  * 21 Feb 2026
 
 * All Creatures of Our God and King
   * 11 Apr 2026
@@ -98,9 +104,6 @@
 * I Stand Amazed
   * 28 Mar 2026
   * 17 Jan 2026
-
-* Yet Not I But Through Christ In Me
-  * 21 Mar 2026
 
 * See Him Coming
   * 21 Mar 2026
