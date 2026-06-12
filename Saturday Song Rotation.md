@@ -2,6 +2,24 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 13 Jun 2026
+  * 25 Apr 2026
+  * 21 Feb 2026
+  * 10 Jan 2026
+
+* Build My Life (2016)
+  * 13 Jun 2026
+  * 09 May 2026
+  * 07 Mar 2026
+  * 10 Jan 2026
+
+* A Thousand Hallelujahs (2022)
+  * 13 Jun 2026
+  * 14 Mar 2026
+
+## Previously
+
 * Apostles' Creed ()
   * 06 Jun 2026
   * 11 Apr 2026
@@ -16,8 +34,6 @@
   * 06 Jun 2026
   * 02 May 2026
   * 15 Nov 2025
-
-## Previously
 
 * His Glory And My Good (2024)
   * 30 May 2026
@@ -64,11 +80,6 @@
   * 09 May 2026
   * 31 Aug 2024
 
-* Build My Life (2016)
-  * 09 May 2026
-  * 07 Mar 2026
-  * 10 Jan 2026
-
 * Now Unto Him
   * 09 May 2026
   * 14 Mar 2026
@@ -77,12 +88,6 @@
   * 02 May 2026
   * 07 Feb 2026
   * 24 Jan 2026
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 25 Apr 2026
-  * 21 Feb 2026
-  * 10 Jan 2026
-
 
 * When I Survey
   * 25 Apr 2026
@@ -108,9 +113,6 @@
 * See Him Coming
   * 21 Mar 2026
 
-* A Thousand Hallelujahs (2022)
-  * 14 Mar 2026
-  
 * This Life I Live (2009)
   * 07 Mar 2026
 
