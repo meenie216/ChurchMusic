@@ -13,11 +13,6 @@
   * 09 May 2026
   * 31 Aug 2024
 
-* The Chorus of the Saved (Trevor Hodge, 2015) — CCLI #7027770
-  * 20 Jun 2026
-  * 08 Nov 2025
-  * _Note: return to Off Rotation after this play_
-
 ## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
@@ -173,6 +168,10 @@
   * 13 Jan 2024
 
 ## Off Rotation
+
+* The Chorus of the Saved (Trevor Hodge, 2015) — CCLI #7027770
+  * 20 Jun 2026
+  * 08 Nov 2025
 
 * Rejoice (2013)
   * 25 Oct 2025
