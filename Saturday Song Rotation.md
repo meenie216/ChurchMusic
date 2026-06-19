@@ -2,6 +2,24 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 20 Jun 2026
+  * 22 May 2026
+  * 21 Mar 2026
+  * 24 Jan 2026
+
+* This is the Day (City Alight)
+  * 20 Jun 2026
+  * 09 May 2026
+  * 31 Aug 2024
+
+* The Chorus of the Saved (2015)
+  * 20 Jun 2026
+  * 08 Nov 2025
+  * _Note: return to Off Rotation after this play_
+
+## Previously
+
 * Amazing Grace (My Chains are Gone) (2006)
   * 13 Jun 2026
   * 25 Apr 2026
@@ -17,8 +35,6 @@
 * A Thousand Hallelujahs (2022)
   * 13 Jun 2026
   * 14 Mar 2026
-
-## Previously
 
 * Apostles' Creed ()
   * 06 Jun 2026
@@ -50,11 +66,6 @@
   * 30 May 2026
   * 21 Feb 2026
 
-* Grace Alone (2013)
-  * 22 May 2026
-  * 21 Mar 2026
-  * 24 Jan 2026
-
 * Rock of Ages
   * 22 May 2026
   * 04 Apr 2026
@@ -75,10 +86,6 @@
 * Ancient of Days (City Alight) (2018)
   * 16 May 2026
   * 02 May 2026
-
-* This is the Day (City Alight)
-  * 09 May 2026
-  * 31 Aug 2024
 
 * Now Unto Him
   * 09 May 2026
@@ -166,9 +173,6 @@
   * 13 Jan 2024
 
 ## Off Rotation
-
-* The Chorus of the Saved (2015)
-  * 08 Nov 2025
 
 * Rejoice (2013)
   * 25 Oct 2025

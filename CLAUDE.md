@@ -11,6 +11,7 @@ When asked to suggest songs for a service:
 ## Rotation Rules
 
 - Songs should not be played more often than **once a month** (approximately 4 weeks between plays)
+- **Off Rotation songs** may be suggested when they fit the service's need, but no more than **once per 3 months**. Prefer on-rotation songs.
 - **Exception for new songs:** A newly introduced song is played again after a one-week gap (i.e. first play, skip one Saturday, second play), then drops into the normal monthly rotation. Check `New Songs.md` under `## Introduced` for songs with an unchecked box — these are still in the two-play window and can be suggested the following week regardless of the one-month rule.
 
 ## New Songs.md
