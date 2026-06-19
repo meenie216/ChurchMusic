@@ -8,12 +8,12 @@
   * 21 Mar 2026
   * 24 Jan 2026
 
-* This is the Day (City Alight)
+* This is the Day (CityAlight, 2022) — CCLI #7195146
   * 20 Jun 2026
   * 09 May 2026
   * 31 Aug 2024
 
-* The Chorus of the Saved (2015)
+* The Chorus of the Saved (Trevor Hodge, 2015) — CCLI #7027770
   * 20 Jun 2026
   * 08 Nov 2025
   * _Note: return to Off Rotation after this play_
@@ -83,7 +83,7 @@
   * 16 May 2026
   * 25 Oct 2025
  
-* Ancient of Days (City Alight) (2018)
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 16 May 2026
   * 02 May 2026
 
@@ -139,7 +139,7 @@
 * Take My Life
   * 06 Dec 2025
 
-* Ancient of Days (1992)
+* Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
   * 29 Nov 2025
 
 * No Other Name (2010)
