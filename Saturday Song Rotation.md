@@ -2,6 +2,21 @@
 
 ## This week
 
+* Be Thou My Vision
+  * 27 Jun 2026
+  * 16 May 2026
+  * 25 Oct 2025
+
+* Behold The Lamb of God (Chiswell & Smith) — CCLI #1437884
+  * 27 Jun 2026
+  * 04 Apr 2026
+
+* Before the Throne of God Above (1997)
+  * 27 Jun 2026
+  * 25 Apr 2021
+
+## Previously
+
 * Grace Alone (2013)
   * 20 Jun 2026
   * 22 May 2026
@@ -12,8 +27,6 @@
   * 20 Jun 2026
   * 09 May 2026
   * 31 Aug 2024
-
-## Previously
 
 * Amazing Grace (My Chains are Gone) (2006)
   * 13 Jun 2026
@@ -74,10 +87,6 @@
   * 11 Apr 2026
   * 28 Feb 2026
 
-* Be Thou My Vision
-  * 16 May 2026
-  * 25 Oct 2025
- 
 * Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 16 May 2026
   * 02 May 2026
@@ -98,9 +107,6 @@
 * All Creatures of Our God and King
   * 11 Apr 2026
   * 07 Feb 2026
-
-* Behold The Lamb of God
-  * 04 Apr 2026
 
 * Jerusalem (2014)
   * 04 Apr 2026
@@ -206,9 +212,6 @@
   * 26 Feb 2022
 
 * *Sooner Count the Stars* (2015)
-  * 25 Apr 2021
-
-* *Before the Throne*
   * 25 Apr 2021
 
 * Come Thou Fount
