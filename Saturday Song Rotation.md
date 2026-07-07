@@ -2,6 +2,30 @@
 
 ## This week
 
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
+  * 11 Jul 2026
+  * 16 May 2026
+  * 02 May 2026
+
+* Yet Not I But Through Christ In Me
+  * 11 Jul 2026
+  * 06 Jun 2026
+  * 21 Mar 2026
+
+## Previously
+
+* His Glory And My Good (2024)
+  * 04 Jul 2026
+  * 30 May 2026
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* In His Name (2010) — CCLI #5881350
+  * 04 Jul 2026
+  * 14 Feb 2026
+
 * Be Thou My Vision
   * 27 Jun 2026
   * 16 May 2026
@@ -14,8 +38,6 @@
 * Before the Throne of God Above (1997)
   * 27 Jun 2026
   * 25 Apr 2021
-
-## Previously
 
 * Grace Alone (2013)
   * 20 Jun 2026
@@ -50,21 +72,10 @@
   * 07 Mar 2026
   * 21 Feb 2026
 
-* Yet Not I But Through Christ In Me
-  * 06 Jun 2026
-  * 21 Mar 2026
-
 * Blessed Be Your Name
   * 06 Jun 2026
   * 02 May 2026
   * 15 Nov 2025
-
-* His Glory And My Good (2024)
-  * 30 May 2026
-  * 25 Apr 2026
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
 
 * Only A Holy God (2016)
   * 30 May 2026
@@ -86,10 +97,6 @@
   * 16 May 2026
   * 11 Apr 2026
   * 28 Feb 2026
-
-* Ancient of Days (CityAlight, 2018) — CCLI #7121851
-  * 16 May 2026
-  * 02 May 2026
 
 * Now Unto Him
   * 09 May 2026
@@ -127,9 +134,6 @@
 * Never Alone (2006)
   * 28 Feb 2026
   
-* In His Name (2010)
-  * 14 Feb 2026
-
 
 * 10,000 Reasons (2011)
   * 07 Feb 2026
