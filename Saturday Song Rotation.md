@@ -2,6 +2,20 @@
 
 ## This week
 
+* Apostles' Creed ()
+  * 18 Jul 2026
+  * 06 Jun 2026
+  * 11 Apr 2026
+  * 07 Mar 2026
+  * 21 Feb 2026
+
+* Live For The Kingdom
+  * 18 Jul 2026
+  * 30 May 2026
+  * 21 Feb 2026
+
+## Previously
+
 * Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 11 Jul 2026
   * 16 May 2026
@@ -11,8 +25,6 @@
   * 11 Jul 2026
   * 06 Jun 2026
   * 21 Mar 2026
-
-## Previously
 
 * His Glory And My Good (2024)
   * 04 Jul 2026
@@ -66,12 +78,6 @@
   * 13 Jun 2026
   * 14 Mar 2026
 
-* Apostles' Creed ()
-  * 06 Jun 2026
-  * 11 Apr 2026
-  * 07 Mar 2026
-  * 21 Feb 2026
-
 * Blessed Be Your Name
   * 06 Jun 2026
   * 02 May 2026
@@ -80,10 +86,6 @@
 * Only A Holy God (2016)
   * 30 May 2026
   * 14 Feb 2026
-
-* Live For The Kingdom
-  * 30 May 2026
-  * 21 Feb 2026
 
 * Rock of Ages
   * 22 May 2026
