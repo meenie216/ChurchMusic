@@ -2,6 +2,37 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 01 Aug 2026
+  * 16 May 2026
+  * 11 Apr 2026
+  * 28 Feb 2026
+
+* Only A Holy God (2016)
+  * 01 Aug 2026
+  * 30 May 2026
+  * 14 Feb 2026
+
+* 10,000 Reasons (2011)
+  * 01 Aug 2026
+  * 07 Feb 2026
+
+## Previously
+
+* Take My Life
+  * 25 Jul 2026
+  * 06 Dec 2025
+
+* No Other Name (2010)
+  * 25 Jul 2026
+  * 06 Sep 2025
+
+* Be Thou My Vision
+  * 25 Jul 2026
+  * 27 Jun 2026
+  * 16 May 2026
+  * 25 Oct 2025
+
 * Apostles' Creed ()
   * 18 Jul 2026
   * 06 Jun 2026
@@ -13,8 +44,6 @@
   * 18 Jul 2026
   * 30 May 2026
   * 21 Feb 2026
-
-## Previously
 
 * Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 11 Jul 2026
@@ -37,11 +66,6 @@
 * In His Name (2010) — CCLI #5881350
   * 04 Jul 2026
   * 14 Feb 2026
-
-* Be Thou My Vision
-  * 27 Jun 2026
-  * 16 May 2026
-  * 25 Oct 2025
 
 * Behold The Lamb of God (Chiswell & Smith) — CCLI #1437884
   * 27 Jun 2026
@@ -83,10 +107,6 @@
   * 02 May 2026
   * 15 Nov 2025
 
-* Only A Holy God (2016)
-  * 30 May 2026
-  * 14 Feb 2026
-
 * Rock of Ages
   * 22 May 2026
   * 04 Apr 2026
@@ -94,11 +114,6 @@
 * Just As I Am
   * 22 May 2026
   * 09 Aug 2025
-
-* This is Amazing Grace
-  * 16 May 2026
-  * 11 Apr 2026
-  * 28 Feb 2026
 
 * Now Unto Him
   * 09 May 2026
@@ -137,20 +152,11 @@
   * 28 Feb 2026
   
 
-* 10,000 Reasons (2011)
-  * 07 Feb 2026
-
 * How Great You Are (2012)
   * 17 Jan 2026
 
-* Take My Life
-  * 06 Dec 2025
-
 * Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
   * 29 Nov 2025
-
-* No Other Name (2010)
-  * 06 Sep 2025
 
 * Jesus Messiah (2008)
   * 16 Aug 2025
