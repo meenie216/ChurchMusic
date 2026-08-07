@@ -2,6 +2,31 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 08 Aug 2026
+  * 20 Jun 2026
+  * 22 May 2026
+  * 21 Mar 2026
+  * 24 Jan 2026
+
+* Amazing Grace (My Chains are Gone) (2006)
+  * 08 Aug 2026
+  * 13 Jun 2026
+  * 25 Apr 2026
+  * 21 Feb 2026
+  * 10 Jan 2026
+
+* His Glory And My Good (2024)
+  * 08 Aug 2026
+  * 04 Jul 2026
+  * 30 May 2026
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+## Previously
+
 * This is Amazing Grace
   * 01 Aug 2026
   * 16 May 2026
@@ -16,8 +41,6 @@
 * 10,000 Reasons (2011)
   * 01 Aug 2026
   * 07 Feb 2026
-
-## Previously
 
 * Take My Life
   * 25 Jul 2026
@@ -55,14 +78,6 @@
   * 06 Jun 2026
   * 21 Mar 2026
 
-* His Glory And My Good (2024)
-  * 04 Jul 2026
-  * 30 May 2026
-  * 25 Apr 2026
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
-
 * In His Name (2010) — CCLI #5881350
   * 04 Jul 2026
   * 14 Feb 2026
@@ -75,22 +90,10 @@
   * 27 Jun 2026
   * 25 Apr 2021
 
-* Grace Alone (2013)
-  * 20 Jun 2026
-  * 22 May 2026
-  * 21 Mar 2026
-  * 24 Jan 2026
-
 * This is the Day (CityAlight, 2022) — CCLI #7195146
   * 20 Jun 2026
   * 09 May 2026
   * 31 Aug 2024
-
-* Amazing Grace (My Chains are Gone) (2006)
-  * 13 Jun 2026
-  * 25 Apr 2026
-  * 21 Feb 2026
-  * 10 Jan 2026
 
 * Build My Life (2016)
   * 13 Jun 2026
