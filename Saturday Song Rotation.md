@@ -2,6 +2,25 @@
 
 ## This week
 
+* Where Else? (2007)
+  * 22 Aug 2026
+  * 04 Jun 2022
+
+* No Other Name (2010)
+  * 22 Aug 2026
+  * 25 Jul 2026
+  * 06 Sep 2025
+
+* Apostles' Creed ()
+  * 22 Aug 2026
+  * 18 Jul 2026
+  * 06 Jun 2026
+  * 11 Apr 2026
+  * 07 Mar 2026
+  * 21 Feb 2026
+
+## Previously
+
 * Grace Alone (2013)
   * 08 Aug 2026
   * 20 Jun 2026
@@ -24,8 +43,6 @@
   * 28 Mar 2026
   * 28 Feb 2026
   * 14 Feb 2026
-
-## Previously
 
 * This is Amazing Grace
   * 01 Aug 2026
@@ -219,9 +236,6 @@
 
 * Behold Our God (2011)
   * 1 Oct 2022
-
-* Where Else? (2007)
-  * 4 Jun 2022
 
 * Exalted (2018)
   * 26 Feb 2022
