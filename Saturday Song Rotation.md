@@ -2,24 +2,42 @@
 
 ## This week
 
-* Where Else? (2007)
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 22 Aug 2026
+  * 11 Jul 2026
+  * 16 May 2026
+  * 02 May 2026
+
+* Yet Not I But Through Christ In Me
+  * 22 Aug 2026
+  * 11 Jul 2026
+  * 06 Jun 2026
+  * 21 Mar 2026
+
+* Lord I Need You
+  * 22 Aug 2026
+  * 02 May 2026
+  * 07 Feb 2026
+  * 24 Jan 2026
+
+## Previously
+
+* Where Else? (2007)
+  * 15 Aug 2026
   * 04 Jun 2022
 
 * No Other Name (2010)
-  * 22 Aug 2026
+  * 15 Aug 2026
   * 25 Jul 2026
   * 06 Sep 2025
 
 * Apostles' Creed ()
-  * 22 Aug 2026
+  * 15 Aug 2026
   * 18 Jul 2026
   * 06 Jun 2026
   * 11 Apr 2026
   * 07 Mar 2026
   * 21 Feb 2026
-
-## Previously
 
 * Grace Alone (2013)
   * 08 Aug 2026
@@ -85,16 +103,6 @@
   * 30 May 2026
   * 21 Feb 2026
 
-* Ancient of Days (CityAlight, 2018) — CCLI #7121851
-  * 11 Jul 2026
-  * 16 May 2026
-  * 02 May 2026
-
-* Yet Not I But Through Christ In Me
-  * 11 Jul 2026
-  * 06 Jun 2026
-  * 21 Mar 2026
-
 * In His Name (2010) — CCLI #5881350
   * 04 Jul 2026
   * 14 Feb 2026
@@ -138,11 +146,6 @@
 * Now Unto Him
   * 09 May 2026
   * 14 Mar 2026
-
-* Lord I Need You
-  * 02 May 2026
-  * 07 Feb 2026
-  * 24 Jan 2026
 
 * When I Survey
   * 25 Apr 2026
