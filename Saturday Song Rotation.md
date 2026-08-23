@@ -2,11 +2,9 @@
 
 ## This week
 
-* Ancient of Days (CityAlight, 2018) — CCLI #7121851
+* By The Cross (1998)
   * 22 Aug 2026
-  * 11 Jul 2026
-  * 16 May 2026
-  * 02 May 2026
+  * 22 Jun 2024
 
 * Yet Not I But Through Christ In Me
   * 22 Aug 2026
@@ -14,11 +12,9 @@
   * 06 Jun 2026
   * 21 Mar 2026
 
-* Lord I Need You
+* Never Alone (2006)
   * 22 Aug 2026
-  * 02 May 2026
-  * 07 Feb 2026
-  * 24 Jan 2026
+  * 28 Feb 2026
 
 ## Previously
 
@@ -103,6 +99,11 @@
   * 30 May 2026
   * 21 Feb 2026
 
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
+  * 11 Jul 2026
+  * 16 May 2026
+  * 02 May 2026
+
 * In His Name (2010) — CCLI #5881350
   * 04 Jul 2026
   * 14 Feb 2026
@@ -147,6 +148,11 @@
   * 09 May 2026
   * 14 Mar 2026
 
+* Lord I Need You
+  * 02 May 2026
+  * 07 Feb 2026
+  * 24 Jan 2026
+
 * When I Survey
   * 25 Apr 2026
   * 14 Mar 2026
@@ -171,10 +177,6 @@
 * This Life I Live (2009)
   * 07 Mar 2026
 
-* Never Alone (2006)
-  * 28 Feb 2026
-  
-
 * How Great You Are (2012)
   * 17 Jan 2026
 
@@ -198,9 +200,6 @@
   
 * We Belong to the Day (2006)
   * 12 Oct 2024
-
-* By The Cross (1998)
-  * 22 Jun 2024
 
 * How Great Thou Art
   * 25 May 2024
