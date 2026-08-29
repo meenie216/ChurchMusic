@@ -2,6 +2,24 @@
 
 ## This week
 
+* This is the Day (CityAlight, 2022) — CCLI #7195146
+  * 29 Aug 2026
+  * 20 Jun 2026
+  * 09 May 2026
+  * 31 Aug 2024
+
+* When I Survey
+  * 29 Aug 2026
+  * 25 Apr 2026
+  * 14 Mar 2026
+
+* All Creatures of Our God and King
+  * 29 Aug 2026
+  * 11 Apr 2026
+  * 07 Feb 2026
+
+## Previously
+
 * By The Cross (1998)
   * 22 Aug 2026
   * 22 Jun 2024
@@ -15,8 +33,6 @@
 * Never Alone (2006)
   * 22 Aug 2026
   * 28 Feb 2026
-
-## Previously
 
 * Where Else? (2007)
   * 15 Aug 2026
@@ -116,11 +132,6 @@
   * 27 Jun 2026
   * 25 Apr 2021
 
-* This is the Day (CityAlight, 2022) — CCLI #7195146
-  * 20 Jun 2026
-  * 09 May 2026
-  * 31 Aug 2024
-
 * Build My Life (2016)
   * 13 Jun 2026
   * 09 May 2026
@@ -152,14 +163,6 @@
   * 02 May 2026
   * 07 Feb 2026
   * 24 Jan 2026
-
-* When I Survey
-  * 25 Apr 2026
-  * 14 Mar 2026
-
-* All Creatures of Our God and King
-  * 11 Apr 2026
-  * 07 Feb 2026
 
 * Jerusalem (2014)
   * 04 Apr 2026
