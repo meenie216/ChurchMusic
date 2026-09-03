@@ -2,6 +2,28 @@
 
 ## This week
 
+* Grace Alone (2013)
+  * 05 Sep 2026
+  * 08 Aug 2026
+  * 20 Jun 2026
+  * 22 May 2026
+  * 21 Mar 2026
+  * 24 Jan 2026
+
+* Take My Life
+  * 05 Sep 2026
+  * 25 Jul 2026
+  * 06 Dec 2025
+
+* Be Thou My Vision
+  * 05 Sep 2026
+  * 25 Jul 2026
+  * 27 Jun 2026
+  * 16 May 2026
+  * 25 Oct 2025
+
+## Previously
+
 * This is the Day (CityAlight, 2022) — CCLI #7195146
   * 29 Aug 2026
   * 20 Jun 2026
@@ -17,8 +39,6 @@
   * 29 Aug 2026
   * 11 Apr 2026
   * 07 Feb 2026
-
-## Previously
 
 * By The Cross (1998)
   * 22 Aug 2026
@@ -51,13 +71,6 @@
   * 07 Mar 2026
   * 21 Feb 2026
 
-* Grace Alone (2013)
-  * 08 Aug 2026
-  * 20 Jun 2026
-  * 22 May 2026
-  * 21 Mar 2026
-  * 24 Jan 2026
-
 * Amazing Grace (My Chains are Gone) (2006)
   * 08 Aug 2026
   * 13 Jun 2026
@@ -89,19 +102,9 @@
   * 01 Aug 2026
   * 07 Feb 2026
 
-* Take My Life
-  * 25 Jul 2026
-  * 06 Dec 2025
-
 * No Other Name (2010)
   * 25 Jul 2026
   * 06 Sep 2025
-
-* Be Thou My Vision
-  * 25 Jul 2026
-  * 27 Jun 2026
-  * 16 May 2026
-  * 25 Oct 2025
 
 * Apostles' Creed ()
   * 18 Jul 2026
