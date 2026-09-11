@@ -2,6 +2,31 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 12 Sep 2026
+  * 18 Jul 2026
+  * 30 May 2026
+  * 21 Feb 2026
+
+* His Glory And My Good (2024)
+  * 12 Sep 2026
+  * 08 Aug 2026
+  * 04 Jul 2026
+  * 30 May 2026
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* Build My Life (2016)
+  * 12 Sep 2026
+  * 13 Jun 2026
+  * 09 May 2026
+  * 07 Mar 2026
+  * 10 Jan 2026
+
+## Previously
+
 * Grace Alone (2013)
   * 05 Sep 2026
   * 08 Aug 2026
@@ -21,8 +46,6 @@
   * 27 Jun 2026
   * 16 May 2026
   * 25 Oct 2025
-
-## Previously
 
 * This is the Day (CityAlight, 2022) — CCLI #7195146
   * 29 Aug 2026
@@ -78,15 +101,6 @@
   * 21 Feb 2026
   * 10 Jan 2026
 
-* His Glory And My Good (2024)
-  * 08 Aug 2026
-  * 04 Jul 2026
-  * 30 May 2026
-  * 25 Apr 2026
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
-
 * This is Amazing Grace
   * 01 Aug 2026
   * 16 May 2026
@@ -113,11 +127,6 @@
   * 07 Mar 2026
   * 21 Feb 2026
 
-* Live For The Kingdom
-  * 18 Jul 2026
-  * 30 May 2026
-  * 21 Feb 2026
-
 * Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 11 Jul 2026
   * 16 May 2026
@@ -134,12 +143,6 @@
 * Before the Throne of God Above (1997)
   * 27 Jun 2026
   * 25 Apr 2021
-
-* Build My Life (2016)
-  * 13 Jun 2026
-  * 09 May 2026
-  * 07 Mar 2026
-  * 10 Jan 2026
 
 * A Thousand Hallelujahs (2022)
   * 13 Jun 2026
