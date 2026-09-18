@@ -2,6 +2,27 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 19 Sep 2026
+  * 01 Aug 2026
+  * 16 May 2026
+  * 11 Apr 2026
+  * 28 Feb 2026
+
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
+  * 19 Sep 2026
+  * 11 Jul 2026
+  * 16 May 2026
+  * 02 May 2026
+
+* No Other Name (2010)
+  * 19 Sep 2026
+  * 15 Aug 2026
+  * 25 Jul 2026
+  * 06 Sep 2025
+
+## Previously
+
 * Live For The Kingdom
   * 12 Sep 2026
   * 18 Jul 2026
@@ -24,8 +45,6 @@
   * 09 May 2026
   * 07 Mar 2026
   * 10 Jan 2026
-
-## Previously
 
 * Grace Alone (2013)
   * 05 Sep 2026
@@ -81,11 +100,6 @@
   * 15 Aug 2026
   * 04 Jun 2022
 
-* No Other Name (2010)
-  * 15 Aug 2026
-  * 25 Jul 2026
-  * 06 Sep 2025
-
 * Apostles' Creed ()
   * 15 Aug 2026
   * 18 Jul 2026
@@ -101,12 +115,6 @@
   * 21 Feb 2026
   * 10 Jan 2026
 
-* This is Amazing Grace
-  * 01 Aug 2026
-  * 16 May 2026
-  * 11 Apr 2026
-  * 28 Feb 2026
-
 * Only A Holy God (2016)
   * 01 Aug 2026
   * 30 May 2026
@@ -116,21 +124,12 @@
   * 01 Aug 2026
   * 07 Feb 2026
 
-* No Other Name (2010)
-  * 25 Jul 2026
-  * 06 Sep 2025
-
 * Apostles' Creed ()
   * 18 Jul 2026
   * 06 Jun 2026
   * 11 Apr 2026
   * 07 Mar 2026
   * 21 Feb 2026
-
-* Ancient of Days (CityAlight, 2018) — CCLI #7121851
-  * 11 Jul 2026
-  * 16 May 2026
-  * 02 May 2026
 
 * In His Name (2010) — CCLI #5881350
   * 04 Jul 2026
