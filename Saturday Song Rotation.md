@@ -2,6 +2,20 @@
 
 ## This week
 
+* Yet Not I But Through Christ In Me
+  * 26 Sep 2026
+  * 22 Aug 2026
+  * 11 Jul 2026
+  * 06 Jun 2026
+  * 21 Mar 2026
+
+* Now Unto Him
+  * 26 Sep 2026
+  * 09 May 2026
+  * 14 Mar 2026
+
+## Previously
+
 * This is Amazing Grace
   * 19 Sep 2026
   * 01 Aug 2026
@@ -20,8 +34,6 @@
   * 15 Aug 2026
   * 25 Jul 2026
   * 06 Sep 2025
-
-## Previously
 
 * Live For The Kingdom
   * 12 Sep 2026
@@ -85,12 +97,6 @@
 * By The Cross (1998)
   * 22 Aug 2026
   * 22 Jun 2024
-
-* Yet Not I But Through Christ In Me
-  * 22 Aug 2026
-  * 11 Jul 2026
-  * 06 Jun 2026
-  * 21 Mar 2026
 
 * Never Alone (2006)
   * 22 Aug 2026
@@ -159,10 +165,6 @@
 * Just As I Am
   * 22 May 2026
   * 09 Aug 2025
-
-* Now Unto Him
-  * 09 May 2026
-  * 14 Mar 2026
 
 * Lord I Need You
   * 02 May 2026
