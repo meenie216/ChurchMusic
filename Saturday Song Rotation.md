@@ -2,6 +2,19 @@
 
 ## This week
 
+* Take My Life
+  * 03 Oct 2026
+  * 05 Sep 2026
+  * 25 Jul 2026
+  * 06 Dec 2025
+
+* A Thousand Hallelujahs (2022)
+  * 03 Oct 2026
+  * 13 Jun 2026
+  * 14 Mar 2026
+
+## Previously
+
 * Yet Not I But Through Christ In Me
   * 26 Sep 2026
   * 22 Aug 2026
@@ -13,8 +26,6 @@
   * 26 Sep 2026
   * 09 May 2026
   * 14 Mar 2026
-
-## Previously
 
 * This is Amazing Grace
   * 19 Sep 2026
@@ -65,11 +76,6 @@
   * 22 May 2026
   * 21 Mar 2026
   * 24 Jan 2026
-
-* Take My Life
-  * 05 Sep 2026
-  * 25 Jul 2026
-  * 06 Dec 2025
 
 * Be Thou My Vision
   * 05 Sep 2026
@@ -148,10 +154,6 @@
 * Before the Throne of God Above (1997)
   * 27 Jun 2026
   * 25 Apr 2021
-
-* A Thousand Hallelujahs (2022)
-  * 13 Jun 2026
-  * 14 Mar 2026
 
 * Blessed Be Your Name
   * 06 Jun 2026
