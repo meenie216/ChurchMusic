@@ -2,6 +2,21 @@
 
 ## This week
 
+* Live For The Kingdom
+  * 10 Oct 2026
+  * 12 Sep 2026
+  * 18 Jul 2026
+  * 30 May 2026
+  * 21 Feb 2026
+
+* Now Unto Him
+  * 10 Oct 2026
+  * 26 Sep 2026
+  * 09 May 2026
+  * 14 Mar 2026
+
+## Previously
+
 * Take My Life
   * 03 Oct 2026
   * 05 Sep 2026
@@ -13,19 +28,12 @@
   * 13 Jun 2026
   * 14 Mar 2026
 
-## Previously
-
 * Yet Not I But Through Christ In Me
   * 26 Sep 2026
   * 22 Aug 2026
   * 11 Jul 2026
   * 06 Jun 2026
   * 21 Mar 2026
-
-* Now Unto Him
-  * 26 Sep 2026
-  * 09 May 2026
-  * 14 Mar 2026
 
 * This is Amazing Grace
   * 19 Sep 2026
@@ -45,12 +53,6 @@
   * 15 Aug 2026
   * 25 Jul 2026
   * 06 Sep 2025
-
-* Live For The Kingdom
-  * 12 Sep 2026
-  * 18 Jul 2026
-  * 30 May 2026
-  * 21 Feb 2026
 
 * His Glory And My Good (2024)
   * 12 Sep 2026
