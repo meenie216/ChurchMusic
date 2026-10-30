@@ -2,6 +2,45 @@
 
 ## This week
 
+* This is Amazing Grace
+  * 31 Oct 2026
+  * 19 Sep 2026
+  * 01 Aug 2026
+  * 16 May 2026
+  * 11 Apr 2026
+  * 28 Feb 2026
+
+* It Is Well With My Soul
+  * 31 Oct 2026
+  * 11 Jan 2025
+
+* Rock of Ages
+  * 31 Oct 2026
+  * 22 May 2026
+  * 04 Apr 2026
+
+## Previously
+
+* Blessed Be Your Name
+  * 24 Oct 2026
+  * 06 Jun 2026
+  * 02 May 2026
+  * 15 Nov 2025
+
+* Ancient of Days (CityAlight, 2018) — CCLI #7121851
+  * 24 Oct 2026
+  * 19 Sep 2026
+  * 11 Jul 2026
+  * 16 May 2026
+  * 02 May 2026
+
+* No Other Name (2010)
+  * 24 Oct 2026
+  * 19 Sep 2026
+  * 15 Aug 2026
+  * 25 Jul 2026
+  * 06 Sep 2025
+
 * Live For The Kingdom
   * 10 Oct 2026
   * 12 Sep 2026
@@ -14,8 +53,6 @@
   * 26 Sep 2026
   * 09 May 2026
   * 14 Mar 2026
-
-## Previously
 
 * Take My Life
   * 03 Oct 2026
@@ -34,25 +71,6 @@
   * 11 Jul 2026
   * 06 Jun 2026
   * 21 Mar 2026
-
-* This is Amazing Grace
-  * 19 Sep 2026
-  * 01 Aug 2026
-  * 16 May 2026
-  * 11 Apr 2026
-  * 28 Feb 2026
-
-* Ancient of Days (CityAlight, 2018) — CCLI #7121851
-  * 19 Sep 2026
-  * 11 Jul 2026
-  * 16 May 2026
-  * 02 May 2026
-
-* No Other Name (2010)
-  * 19 Sep 2026
-  * 15 Aug 2026
-  * 25 Jul 2026
-  * 06 Sep 2025
 
 * His Glory And My Good (2024)
   * 12 Sep 2026
@@ -157,15 +175,6 @@
   * 27 Jun 2026
   * 25 Apr 2021
 
-* Blessed Be Your Name
-  * 06 Jun 2026
-  * 02 May 2026
-  * 15 Nov 2025
-
-* Rock of Ages
-  * 22 May 2026
-  * 04 Apr 2026
-
 * Just As I Am
   * 22 May 2026
   * 09 Aug 2025
@@ -202,9 +211,6 @@
 
 * Grace Unmeasured (2005)
   * 26 July 2025
-
-* It is Well With My Soul 
-  * 11 Jan 2025
 
 * Jesus, Strong and Kind (2019)
   * 30 Nov 2024
