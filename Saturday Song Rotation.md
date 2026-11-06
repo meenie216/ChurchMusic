@@ -2,6 +2,20 @@
 
 ## This week
 
+* Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
+  * 07 Nov 2026
+  * 29 Nov 2025
+
+* His Mercy is More (2019)
+  * 07 Nov 2026
+
+* 10,000 Reasons (2011)
+  * 07 Nov 2026
+  * 01 Aug 2026
+  * 07 Feb 2026
+
+## Previously
+
 * This is Amazing Grace
   * 31 Oct 2026
   * 19 Sep 2026
@@ -18,8 +32,6 @@
   * 31 Oct 2026
   * 22 May 2026
   * 04 Apr 2026
-
-## Previously
 
 * Blessed Be Your Name
   * 24 Oct 2026
@@ -152,10 +164,6 @@
   * 30 May 2026
   * 14 Feb 2026
 
-* 10,000 Reasons (2011)
-  * 01 Aug 2026
-  * 07 Feb 2026
-
 * Apostles' Creed ()
   * 18 Jul 2026
   * 06 Jun 2026
@@ -202,9 +210,6 @@
 
 * How Great You Are (2012)
   * 17 Jan 2026
-
-* Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
-  * 29 Nov 2025
 
 * Jesus Messiah (2008)
   * 16 Aug 2025

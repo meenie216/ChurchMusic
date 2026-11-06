@@ -2,6 +2,8 @@
 
 ## Introduced
 
+* [ ] His Mercy is More — introduced 07 Nov 2026
+
 ## Potentials
 
 ## [The Things Above](https://open.spotify.com/album/66zLxTYfGAOmqw158O3Zlz) - Emu Music
