@@ -2,6 +2,32 @@
 
 ## This week
 
+* His Glory And My Good (2024)
+  * 14 Nov 2026
+  * 12 Sep 2026
+  * 08 Aug 2026
+  * 04 Jul 2026
+  * 30 May 2026
+  * 25 Apr 2026
+  * 28 Mar 2026
+  * 28 Feb 2026
+  * 14 Feb 2026
+
+* Only A Holy God (2016)
+  * 14 Nov 2026
+  * 01 Aug 2026
+  * 30 May 2026
+  * 14 Feb 2026
+
+* Take My Life
+  * 14 Nov 2026
+  * 03 Oct 2026
+  * 05 Sep 2026
+  * 25 Jul 2026
+  * 06 Dec 2025
+
+## Previously
+
 * Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
   * 07 Nov 2026
   * 29 Nov 2025
@@ -13,8 +39,6 @@
   * 07 Nov 2026
   * 01 Aug 2026
   * 07 Feb 2026
-
-## Previously
 
 * This is Amazing Grace
   * 31 Oct 2026
@@ -66,12 +90,6 @@
   * 09 May 2026
   * 14 Mar 2026
 
-* Take My Life
-  * 03 Oct 2026
-  * 05 Sep 2026
-  * 25 Jul 2026
-  * 06 Dec 2025
-
 * A Thousand Hallelujahs (2022)
   * 03 Oct 2026
   * 13 Jun 2026
@@ -83,16 +101,6 @@
   * 11 Jul 2026
   * 06 Jun 2026
   * 21 Mar 2026
-
-* His Glory And My Good (2024)
-  * 12 Sep 2026
-  * 08 Aug 2026
-  * 04 Jul 2026
-  * 30 May 2026
-  * 25 Apr 2026
-  * 28 Mar 2026
-  * 28 Feb 2026
-  * 14 Feb 2026
 
 * Build My Life (2016)
   * 12 Sep 2026
@@ -158,11 +166,6 @@
   * 25 Apr 2026
   * 21 Feb 2026
   * 10 Jan 2026
-
-* Only A Holy God (2016)
-  * 01 Aug 2026
-  * 30 May 2026
-  * 14 Feb 2026
 
 * Apostles' Creed ()
   * 18 Jul 2026
