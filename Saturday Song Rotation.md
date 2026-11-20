@@ -2,6 +2,29 @@
 
 ## This week
 
+* Amazing Grace (My Chains are Gone) (2006)
+  * 28 Nov 2026
+  * 08 Aug 2026
+  * 13 Jun 2026
+  * 25 Apr 2026
+  * 21 Feb 2026
+  * 10 Jan 2026
+
+* Yet Not I But Through Christ In Me
+  * 28 Nov 2026
+  * 26 Sep 2026
+  * 22 Aug 2026
+  * 11 Jul 2026
+  * 06 Jun 2026
+  * 21 Mar 2026
+
+* Before the Throne of God Above (1997)
+  * 28 Nov 2026
+  * 27 Jun 2026
+  * 25 Apr 2021
+
+## Previously
+
 * Blessed Be Your Name
   * 21 Nov 2026
   * 24 Oct 2026
@@ -20,8 +43,6 @@
 * His Mercy is More (2019)
   * 21 Nov 2026
   * 07 Nov 2026
-
-## Previously
 
 * His Glory And My Good (2024)
   * 14 Nov 2026
@@ -105,13 +126,6 @@
   * 13 Jun 2026
   * 14 Mar 2026
 
-* Yet Not I But Through Christ In Me
-  * 26 Sep 2026
-  * 22 Aug 2026
-  * 11 Jul 2026
-  * 06 Jun 2026
-  * 21 Mar 2026
-
 * Build My Life (2016)
   * 12 Sep 2026
   * 13 Jun 2026
@@ -163,13 +177,6 @@
   * 07 Mar 2026
   * 21 Feb 2026
 
-* Amazing Grace (My Chains are Gone) (2006)
-  * 08 Aug 2026
-  * 13 Jun 2026
-  * 25 Apr 2026
-  * 21 Feb 2026
-  * 10 Jan 2026
-
 * Apostles' Creed ()
   * 18 Jul 2026
   * 06 Jun 2026
@@ -184,10 +191,6 @@
 * Behold The Lamb of God (Chiswell & Smith) — CCLI #1437884
   * 27 Jun 2026
   * 04 Apr 2026
-
-* Before the Throne of God Above (1997)
-  * 27 Jun 2026
-  * 25 Apr 2021
 
 * Just As I Am
   * 22 May 2026
