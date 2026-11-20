@@ -2,7 +2,7 @@
 
 ## Introduced
 
-* [ ] His Mercy is More — introduced 07 Nov 2026
+* [x] His Mercy is More — introduced 07 Nov 2026
 
 ## Potentials
 

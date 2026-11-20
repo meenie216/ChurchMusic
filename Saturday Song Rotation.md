@@ -2,6 +2,27 @@
 
 ## This week
 
+* Blessed Be Your Name
+  * 21 Nov 2026
+  * 24 Oct 2026
+  * 06 Jun 2026
+  * 02 May 2026
+  * 15 Nov 2025
+
+* Be Thou My Vision
+  * 21 Nov 2026
+  * 05 Sep 2026
+  * 25 Jul 2026
+  * 27 Jun 2026
+  * 16 May 2026
+  * 25 Oct 2025
+
+* His Mercy is More (2019)
+  * 21 Nov 2026
+  * 07 Nov 2026
+
+## Previously
+
 * His Glory And My Good (2024)
   * 14 Nov 2026
   * 12 Sep 2026
@@ -26,14 +47,9 @@
   * 25 Jul 2026
   * 06 Dec 2025
 
-## Previously
-
 * Ancient of Days (Sadler & Harvill, 1992) — CCLI #798108
   * 07 Nov 2026
   * 29 Nov 2025
-
-* His Mercy is More (2019)
-  * 07 Nov 2026
 
 * 10,000 Reasons (2011)
   * 07 Nov 2026
@@ -56,12 +72,6 @@
   * 31 Oct 2026
   * 22 May 2026
   * 04 Apr 2026
-
-* Blessed Be Your Name
-  * 24 Oct 2026
-  * 06 Jun 2026
-  * 02 May 2026
-  * 15 Nov 2025
 
 * Ancient of Days (CityAlight, 2018) — CCLI #7121851
   * 24 Oct 2026
@@ -116,13 +126,6 @@
   * 22 May 2026
   * 21 Mar 2026
   * 24 Jan 2026
-
-* Be Thou My Vision
-  * 05 Sep 2026
-  * 25 Jul 2026
-  * 27 Jun 2026
-  * 16 May 2026
-  * 25 Oct 2025
 
 * This is the Day (CityAlight, 2022) — CCLI #7195146
   * 29 Aug 2026
